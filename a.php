@@ -1,4236 +1,3177 @@
 
-<!doctype html >
-<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
-<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="id-ID"> <!--<![endif]-->
+<!DOCTYPE html>
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
-    <title>10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi</title>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="https://learniseasy.com/xmlrpc.php" />
-    <script>!function(e){var r={};function n(t){if(r[t])return r[t].exports;var o=r[t]={i:t,l:!1,exports:{}};return e[t].call(o.exports,o,o.exports,n),o.l=!0,o.exports}n.m=e,n.c=r,n.d=function(e,r,t){n.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,r){if(1&r&&(e=n(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(n.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var o in e)n.d(t,o,function(r){return e[r]}.bind(null,o));return t},n.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(r,"a",r),r},n.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},n.p="",n(n.s=0)}([function(e,r){!function(e){var r=e.ampUrl,n=e.isCustomizePreview,t=e.isAmpDevMode,o=e.noampQueryVarName,a=e.noampQueryVarValue,i=e.disabledStorageKey,u=e.mobileUserAgents,s=e.regexRegex;if("undefined"!=typeof sessionStorage){var f=new RegExp(s);if(u.some((function(e){var r=e.match(f);if(r&&new RegExp(r[1],r[2]).test(navigator.userAgent))return!0;return navigator.userAgent.includes(e)}))){document.addEventListener("DOMContentLoaded",(function(){var e=document.getElementById("amp-mobile-version-switcher");if(e){e.hidden=!1;var r=e.querySelector("a[href]");r&&r.addEventListener("click",(function(){sessionStorage.removeItem(i)}))}}));var c=t&&["paired-browsing-non-amp","paired-browsing-amp"].includes(window.name);if(!(sessionStorage.getItem(i)||n||c)){var d=new URL(location.href),l=new URL(r);l.hash=d.hash,d.searchParams.has(o)&&a===d.searchParams.get(o)?sessionStorage.setItem(i,"1"):l.href!==d.href&&(window.stop(),location.replace(l.href))}}}}({"ampUrl":"https:\/\/learniseasy.com\/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi\/?amp=1","noampQueryVarName":"noamp","noampQueryVarValue":"mobile","disabledStorageKey":"amp_mobile_redirect_disabled","mobileUserAgents":["Mobile","Android","Silk\/","Kindle","BlackBerry","Opera Mini","Opera Mobi"],"regexRegex":"^\\/((?:.|\n)+)\\/([i]*)$","isCustomizePreview":false,"isAmpDevMode":false})}]);</script><link rel="icon" type="image/png" href="https://learniseasy.com/wp-content/uploads/2015/08/logo-learn-is-easy-one.gif">
-	<!-- This site is optimized with the Yoast SEO plugin v15.6.2 - https://yoast.com/wordpress/plugins/seo/ -->
-	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	<link rel="canonical" href="https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/" />
-	<meta property="og:locale" content="id_ID" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Cara Nambah Follower Instagram LU" />
-	<meta property="og:description" content="Cara Nambah Follower Instagram LU" />
-	<meta property="og:url" content="https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/" />
-	<meta property="og:site_name" content="Learn Is Easy" />
-	<meta property="article:author" content="https://www.facebook.com/jun.mahardika" />
-	<meta property="article:published_time" content="2020-06-22T02:04:04+00:00" />
-	<meta name="twitter:card" content="summary" />
-	<meta name="twitter:image" content="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram.jpg" />
-	<meta name="twitter:label1" content="Written by">
-	<meta name="twitter:data1" content="Juliar Nur">
-	<meta name="twitter:label2" content="Est. reading time">
-	<meta name="twitter:data2" content="10 menit">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://learniseasy.com/#organization","name":"Learniseasy.com","url":"https://learniseasy.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://learniseasy.com/#logo","inLanguage":"id-ID","url":"https://learniseasy.com/wp-content/uploads/2018/08/logo-learn-is-easy-one1.png","width":100,"height":100,"caption":"Learniseasy.com"},"image":{"@id":"https://learniseasy.com/#logo"}},{"@type":"WebSite","@id":"https://learniseasy.com/#website","url":"https://learniseasy.com/","name":"Learn Is Easy","description":"Belajar Itu Mudah dan Menyenangkan","publisher":{"@id":"https://learniseasy.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://learniseasy.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"id-ID"},{"@type":"ImageObject","@id":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#primaryimage","inLanguage":"id-ID","url":"https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram.jpg","width":1024,"height":768,"caption":"cara memperbanyak follower instagram dengan aplikasi dan tanpa aplikasi"},{"@type":"WebPage","@id":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#webpage","url":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/","name":"10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi","isPartOf":{"@id":"https://learniseasy.com/#website"},"primaryImageOfPage":{"@id":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#primaryimage"},"datePublished":"2020-06-22T02:04:04+00:00","dateModified":"2020-06-22T02:04:04+00:00","breadcrumb":{"@id":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#breadcrumb"},"inLanguage":"id-ID","potentialAction":[{"@type":"ReadAction","target":["https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/"]}]},{"@type":"BreadcrumbList","@id":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://learniseasy.com/","url":"https://learniseasy.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://learniseasy.com/category/teknologi/","url":"https://learniseasy.com/category/teknologi/","name":"Teknologi"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/","url":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/","name":"10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi"}}]},{"@type":"Article","@id":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#article","isPartOf":{"@id":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#webpage"},"author":{"@id":"https://learniseasy.com/#/schema/person/185c6cf7891a185889e437fb558d58ab"},"headline":"10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi","datePublished":"2020-06-22T02:04:04+00:00","dateModified":"2020-06-22T02:04:04+00:00","mainEntityOfPage":{"@id":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#webpage"},"commentCount":0,"publisher":{"@id":"https://learniseasy.com/#organization"},"image":{"@id":"https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#primaryimage"},"keywords":"follower instagram,instagram,medsos,tipshack","articleSection":"Internet,Teknologi","inLanguage":"id-ID","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#respond"]}]},{"@type":"Person","@id":"https://learniseasy.com/#/schema/person/185c6cf7891a185889e437fb558d58ab","name":"Juliar Nur","image":{"@type":"ImageObject","@id":"https://learniseasy.com/#personlogo","inLanguage":"id-ID","url":"https://learniseasy.com/wp-content/uploads/2020/09/foto-crop.jpg","caption":"Juliar Nur"},"description":"Salam Kenal, Saya Juliar Nur.S.Si, Sarjana Biologi Universitas Hasanuddin angkatan 2010 dan Guru Biologi SMA. Saya senang mempelajari banyak hal, khususnya seputar materi Biologi","sameAs":["https://learniseasy.com","https://www.facebook.com/jun.mahardika"]}]}</script>
-	<!-- / Yoast SEO plugin. -->
-
-
-<link rel='dns-prefetch' href='//secure.gravatar.com' />
-<link rel='dns-prefetch' href='//www.googletagmanager.com' />
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='dns-prefetch' href='//v0.wordpress.com' />
-<link rel="alternate" type="application/rss+xml" title="Learn Is Easy &raquo; Feed" href="https://learniseasy.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Learn Is Easy &raquo; Umpan Komentar" href="https://learniseasy.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Learn Is Easy &raquo; 10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi Umpan Komentar" href="https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/feed/" />
-<link rel='stylesheet' id='wp-quicklatex-format-css'  href='https://learniseasy.com/wp-content/plugins/wp-quicklatex/css/quicklatex-format.css?ver=5.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://learniseasy.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
-<style id='wp-block-library-inline-css' type='text/css'>
-.has-text-align-justify{text-align:justify;}
-</style>
-<link rel='stylesheet' id='pb-accordion-blocks-style-css'  href='https://learniseasy.com/wp-content/plugins/accordion-blocks/build/index.css?ver=6dd8d89df37ec86e070e325f1fe641d7' type='text/css' media='all' />
-<link rel='stylesheet' id='editorskit-frontend-css'  href='https://learniseasy.com/wp-content/plugins/block-options/build/style.build.css?ver=1.29.3' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-four-css'  href='https://learniseasy.com/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
-<link rel='stylesheet' id='ez-icomoon-css'  href='https://learniseasy.com/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css?ver=2.0.11' type='text/css' media='all' />
-<link rel='stylesheet' id='ez-toc-css'  href='https://learniseasy.com/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=2.0.11' type='text/css' media='all' />
-<style id='ez-toc-inline-css' type='text/css'>
-div#ez-toc-container p.ez-toc-title {font-size: 90%;}div#ez-toc-container p.ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 90%;}
-</style>
-<link crossorigin="anonymous" rel='stylesheet' id='google-fonts-style-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%2C300%7CRoboto%3A400%2C500%2C700%2C300&#038;display=swap&#038;ver=10.3.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='tablepress-default-css'  href='https://learniseasy.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.12' type='text/css' media='all' />
-<link rel='stylesheet' id='tablepress-responsive-tables-css'  href='https://learniseasy.com/wp-content/plugins/tablepress-responsive-tables/css/tablepress-responsive.min.css?ver=1.7' type='text/css' media='all' />
-<link rel='stylesheet' id='td-multipurpose-css'  href='https://learniseasy.com/wp-content/plugins/td-composer/assets/fonts/td-multipurpose/td-multipurpose.css?ver=c784b8db3e66cd68082f3ff7aa2d70e6' type='text/css' media='all' />
-<link rel='stylesheet' id='td-theme-css'  href='https://learniseasy.com/wp-content/themes/Newspaper/style.css?ver=10.3.9.1' type='text/css' media='all' />
-<style id='td-theme-inline-css' type='text/css'>
-    
-        @media (max-width: 767px) {
-            .td-header-desktop-wrap {
-                display: none;
-            }
-        }
-        @media (min-width: 767px) {
-            .td-header-mobile-wrap {
-                display: none;
-            }
-        }
-    
-	
-</style>
-<link rel='stylesheet' id='td-legacy-framework-front-style-css'  href='https://learniseasy.com/wp-content/plugins/td-composer/legacy/Newspaper/assets/css/td_legacy_main.css?ver=c784b8db3e66cd68082f3ff7aa2d70e6' type='text/css' media='all' />
-<link rel='stylesheet' id='td-standard-pack-framework-front-style-css'  href='https://learniseasy.com/wp-content/plugins/td-standard-pack/Newspaper/assets/css/td_standard_pack_main.css?ver=6b62588d33477b8e3dc5b8b3c9c8d86c' type='text/css' media='all' />
-<link rel='stylesheet' id='tdb_front_style-css'  href='https://learniseasy.com/wp-content/plugins/td-cloud-library/assets/css/tdb_less_front.css?ver=a50385a2d79d6600973a7e697f735a0b' type='text/css' media='all, print' />
-<script type='text/javascript' src='https://learniseasy.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://learniseasy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-188034069-1' id='google_gtagjs-js' async></script>
-<script type='text/javascript' id='google_gtagjs-js-after'>
-window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
-gtag('set', 'linker', {"domains":["learniseasy.com"]} );
-gtag('js', new Date());
-gtag('set', 'developer_id.dZTNiMT', true);
-gtag('config', 'UA-188034069-1', {"anonymize_ip":true} );
+<link href='https://www.blogger.com/static/v1/widgets/3416767676-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<script async='async' custom-element='amp-auto-ads' src='https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js'>
 </script>
-<script type='text/javascript' src='https://learniseasy.com/wp-content/plugins/wp-quicklatex/js/wp-quicklatex-frontend.js?ver=1.0' id='wp-quicklatex-frontend-js'></script>
-<link rel="https://api.w.org/" href="https://learniseasy.com/wp-json/" /><link rel="alternate" type="application/json" href="https://learniseasy.com/wp-json/wp/v2/posts/5827" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://learniseasy.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://learniseasy.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.6.2" />
-<link rel='shortlink' href='https://wp.me/p6Enzo-1vZ' />
-<link rel="alternate" type="application/json+oembed" href="https://learniseasy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearniseasy.com%2F10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://learniseasy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flearniseasy.com%2F10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi%2F&#038;format=xml" />
-			<meta property="fb:pages" content="913945928621777" />
-			<meta name="generator" content="Site Kit by Google 1.23.0" /><style type='text/css'>img#wpstats{display:none}</style><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-        <script>
-        window.tdb_globals = {"wpRestNonce":"d354f9e32e","wpRestUrl":"https:\/\/learniseasy.com\/wp-json\/","permalinkStructure":"\/%postname%\/","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":20,"postAutoloadStatus":"on","origPostEditUrl":null};
-    </script>
-    			<script>
-				window.tdwGlobal = {"adminUrl":"https:\/\/learniseasy.com\/wp-admin\/","wpRestNonce":"d354f9e32e","wpRestUrl":"https:\/\/learniseasy.com\/wp-json\/","permalinkStructure":"\/%postname%\/"};
-			</script>
-			<meta name="google-site-verification" content="fFZbfxz1AHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRNk"><link rel="amphtml" href="https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/?amp"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({"google_ad_client":"ca-pub-3543976455994135","enable_page_level_ads":true,"tag_partner":"site_kit"});</script><style>#amp-mobile-version-switcher {
-	position: absolute;
-	width: 100%;
-	left: 0;
-	z-index: 100;
-}
-
-#amp-mobile-version-switcher > a {
-	display: block;
-	padding: 15px 0;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-	font-size: 16px;
-	font-weight: 600;
-	color: #eaeaea;
-	text-align: center;
-	text-decoration: none;
-	background-color: #444;
-	border: 0;
-}
-
-#amp-mobile-version-switcher > a:hover,
-#amp-mobile-version-switcher > a:focus,
-#amp-mobile-version-switcher > a:active {
-	text-decoration: underline;
-}
-</style><link rel="alternate" type="text/html" media="only screen and (max-width: 640px)" href="https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/?amp=1">
-<!-- JS generated by theme -->
-
-<script>
-    
-    
-
-	    var tdBlocksArray = []; //here we store all the items for the current page
-
-	    //td_block class - each ajax block uses a object of this class for requests
-	    function tdBlock() {
-		    this.id = '';
-		    this.block_type = 1; //block type id (1-234 etc)
-		    this.atts = '';
-		    this.td_column_number = '';
-		    this.td_current_page = 1; //
-		    this.post_count = 0; //from wp
-		    this.found_posts = 0; //from wp
-		    this.max_num_pages = 0; //from wp
-		    this.td_filter_value = ''; //current live filter value
-		    this.is_ajax_running = false;
-		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
-		    this.header_color = '';
-		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
-	    }
-
-
-        // td_js_generator - mini detector
-        (function(){
-            var htmlTag = document.getElementsByTagName("html")[0];
-
-	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
-                htmlTag.className += ' ie10';
-            }
-
-            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
-                htmlTag.className += ' ie11';
-            }
-
-	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
-                htmlTag.className += ' ieEdge';
-            }
-
-            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
-                htmlTag.className += ' td-md-is-ios';
-            }
-
-            var user_agent = navigator.userAgent.toLowerCase();
-            if ( user_agent.indexOf("android") > -1 ) {
-                htmlTag.className += ' td-md-is-android';
-            }
-
-            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
-                htmlTag.className += ' td-md-is-os-x';
-            }
-
-            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
-               htmlTag.className += ' td-md-is-chrome';
-            }
-
-            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
-                htmlTag.className += ' td-md-is-firefox';
-            }
-
-            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
-                htmlTag.className += ' td-md-is-safari';
-            }
-
-            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
-                htmlTag.className += ' td-md-is-iemobile';
-            }
-
-        })();
-
-
-
-
-        var tdLocalCache = {};
-
-        ( function () {
-            "use strict";
-
-            tdLocalCache = {
-                data: {},
-                remove: function (resource_id) {
-                    delete tdLocalCache.data[resource_id];
-                },
-                exist: function (resource_id) {
-                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
-                },
-                get: function (resource_id) {
-                    return tdLocalCache.data[resource_id];
-                },
-                set: function (resource_id, cachedData) {
-                    tdLocalCache.remove(resource_id);
-                    tdLocalCache.data[resource_id] = cachedData;
-                }
-            };
-        })();
-
-    
-    
-var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
-var td_animation_stack_effect="type0";
-var tds_animation_stack=true;
-var td_animation_stack_specific_selectors=".entry-thumb, img";
-var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";
-var tdc_is_installed="yes";
-var td_ajax_url="https:\/\/learniseasy.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=10.3.9.1";
-var td_get_template_directory_uri="https:\/\/learniseasy.com\/wp-content\/plugins\/td-composer\/legacy\/common";
-var tds_snap_menu="";
-var tds_logo_on_sticky="";
-var tds_header_style="";
-var td_please_wait="Mohon tunggu\u2026";
-var td_email_user_pass_incorrect="Pengguna dan password salah!";
-var td_email_user_incorrect="Email atau nama pengguna salah!";
-var td_email_incorrect="Email tidak benar!";
-var tds_more_articles_on_post_enable="";
-var tds_more_articles_on_post_time_to_wait="";
-var tds_more_articles_on_post_pages_distance_from_top=0;
-var tds_theme_color_site_wide="#4db2ec";
-var tds_smart_sidebar="enabled";
-var tdThemeName="Newspaper";
-var td_magnific_popup_translation_tPrev="Sebelumnya (tombol panah kiri)";
-var td_magnific_popup_translation_tNext="Berikutnya (tombol panah kanan)";
-var td_magnific_popup_translation_tCounter="%curr% dari %total%";
-var td_magnific_popup_translation_ajax_tError="Isi dari %url% tidak dapat dimuat.";
-var td_magnific_popup_translation_image_tError="Gambar #%curr% tidak dapat dimuat.";
-var tdBlockNonce="60d4d71626";
-var tdDateNamesI18n={"month_names":["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"],"month_names_short":["Jan","Feb","Mar","Apr","Mei","Jun","Jul","Agu","Sep","Okt","Nov","Des"],"day_names":["Minggu","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu"],"day_names_short":["Ming","Sen","Sel","Rab","Kam","Jum","Sab"]};
-var td_ad_background_click_link="";
-var td_ad_background_click_target="";
-</script>
-
-
-<!-- Header style compiled by theme -->
-
-<style>
-    
-.td-menu-background:before,
-    .td-search-background:before {
-        background: rgba(0,0,0,0.5);
-        background: -moz-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.6) 100%);
-        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,0.5)), color-stop(100%, rgba(0,0,0,0.6)));
-        background: -webkit-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.6) 100%);
-        background: -o-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.6) 100%);
-        background: -ms-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.6) 100%);
-        background: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.6) 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(0,0,0,0.5)', endColorstr='rgba(0,0,0,0.6)', GradientType=0 );
-    }.post blockquote p,
-    .page blockquote p {
-    	color: #8d23dd;
-    }
-    .post .td_quote_box,
-    .page .td_quote_box {
-        border-color: #8d23dd;
-    }
-.td-menu-background:before,
-    .td-search-background:before {
-        background: rgba(0,0,0,0.5);
-        background: -moz-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.6) 100%);
-        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,0.5)), color-stop(100%, rgba(0,0,0,0.6)));
-        background: -webkit-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.6) 100%);
-        background: -o-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.6) 100%);
-        background: -ms-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.6) 100%);
-        background: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.6) 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(0,0,0,0.5)', endColorstr='rgba(0,0,0,0.6)', GradientType=0 );
-    }.post blockquote p,
-    .page blockquote p {
-    	color: #8d23dd;
-    }
-    .post .td_quote_box,
-    .page .td_quote_box {
-        border-color: #8d23dd;
-    }
-</style>
-
-<link rel="preload" href="https://learniseasy.com/wp-content/plugins/easy-table-of-contents/vendor/icomoon/fonts/ez-toc-icomoon.woff2&display=swap" as="font" type="font/woff2" crossorigin="anonymous">
-<link rel="preload" href="https://learniseasy.com/wp-content/plugins/td-composer/assets/fonts/td-multipurpose/td-multipurpose.ttf&display=swap" as="font" type="font/woff2" crossorigin="anonymous">
-<link rel="preload" href="https://learniseasy.com/wp-content/plugins/td-composer/mobile/images/icons/mobile-theme.woff?10&display=swap" as="font" type="font/woff2" crossorigin="anonymous">
-<link rel="preload" href="https://learniseasy.com/wp-content/themes/Newspaper/images/icons/newspaper.woff?19&display=swap" as="font" type="font/woff2" crossorigin="anonymous">
-
-<meta name='dmca-site-verification' content='akhGZm9NaDhLOTNHajh5L2VpRUZwdz090' />
-<meta content='index,follow' name='robots'/>
-<meta content='1 days' name='revisit-after'/>
-<meta content='1 days' name='revisit'/>
-<meta content='never' name='expires'/>
-<meta content='always' name='revisit'/>
-<meta content='global' name='distribution'/>
-<meta content='blogger' name='generator'/>
-<meta content='general' name='rating'/>
-<meta content='true' name='MSSmartTagsPreventParsing'/>
-<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
-<meta content='index, follow' name='googlebot'/>
-<meta content='follow, all' name='Googlebot-Image'/>
-<meta content='follow, all' name='msnbot'/>
-<meta content='follow, all' name='Slurp'/>
-<meta content='follow, all' name='ZyBorg'/>
-<meta content='follow, all' name='Scooter'/>
-<meta content='all' name='spiders'/>
-<meta content='all' name='WEBCRAWLERS'/>
-<meta content='aeiwi, alexa, alltheWeb, altavista, aol netfind, anzwers, canada, directhit, euroseek, excite, overture, go, google, hotbot. infomak, kanoodle, lycos, mastersite, national directory, northern light, searchit, simplesearch, Websmostlinked, webtop, what-u-seek, aol, yahoo, webcrawler, infoseek, excite, magellan, looksmart, bing, cnet, googlebot' name='search engines'/>
-
-
-<script type="application/ld+json">
-    {
-        "@context": "http://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-            {
-                "@type": "ListItem",
-                "position": 1,
-                "item": {
-                    "@type": "WebSite",
-                    "@id": "https://learniseasy.com/",
-                    "name": "Beranda"
-                }
-            },
-            {
-                "@type": "ListItem",
-                "position": 2,
-                    "item": {
-                    "@type": "WebPage",
-                    "@id": "https://learniseasy.com/category/teknologi/",
-                    "name": "Teknologi"
-                }
-            }
-            ,{
-                "@type": "ListItem",
-                "position": 3,
-                    "item": {
-                    "@type": "WebPage",
-                    "@id": "https://learniseasy.com/category/teknologi/internet/",
-                    "name": "Internet"                                
-                }
-            }
-            ,{
-                "@type": "ListItem",
-                "position": 4,
-                    "item": {
-                    "@type": "WebPage",
-                    "@id": "https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/",
-                    "name": "10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi"                                
-                }
-            }    
-        ]
-    }
-</script>
-<link rel="icon" href="https://learniseasy.com/wp-content/uploads/2018/11/logo-gif.gif" sizes="32x32" />
-<link rel="icon" href="https://learniseasy.com/wp-content/uploads/2018/11/logo-gif.gif" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://learniseasy.com/wp-content/uploads/2018/11/logo-gif.gif" />
-<meta name="msapplication-TileImage" content="https://learniseasy.com/wp-content/uploads/2018/11/logo-gif.gif" />
-
-<!-- Button style compiled by theme -->
-
-<style>
-    
-</style>
-
+<script async='async' src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-3543976455994135",
+          google_ad_client: "ca-pub-8403977479497665",
           enable_page_level_ads: true
      });
-</script>	<style id="tdw-css-placeholder"></style></head>
+</script>
+<meta content='QDIcNGJh6iYlSPg4UjAeirRg0Ut3uJDIwLztv9tg6Sk' name='google-site-verification'/>
+<meta content='C08A502FA0D865E8C28870DBA4BA26FE' name='msvalidate.01'/>
+<!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"> </script> <![endif]-->
+<meta content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1' name='viewport'/>
+<meta content='text/html;charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://www.ilmupena.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="IlmuPena.com - Atom" href="https://www.ilmupena.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="IlmuPena.com - RSS" href="https://www.ilmupena.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="IlmuPena.com - Atom" href="https://www.blogger.com/feeds/6007621929206793116/posts/default" />
 
-<body class="post-template-default single single-post postid-5827 single-format-standard td-standard-pack 10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi global-block-template-1  tdc-header-template td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<link rel="alternate" type="application/atom+xml" title="IlmuPena.com - Atom" href="https://www.ilmupena.com/feeds/5564474417861894328/comments/default" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/1277698886-ieretrofit.js"></script>
+<![endif]-->
+<link href='https://4.bp.blogspot.com/-vuC6z9Y0quI/WiQaDEh2NJI/AAAAAAAADfU/AeD6bsm_a80WeFK-ugh9RTq73T2TIPRRACLcBGAs/s640/Capture.JPG' rel='image_src'/>
+<meta content='https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html' property='og:url'/>
+<meta content='5 Manfaat Beramal Sholeh' property='og:title'/>
+<meta content='' property='og:description'/>
+<meta content='https://4.bp.blogspot.com/-vuC6z9Y0quI/WiQaDEh2NJI/AAAAAAAADfU/AeD6bsm_a80WeFK-ugh9RTq73T2TIPRRACLcBGAs/w1200-h630-p-k-no-nu/Capture.JPG' property='og:image'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<!-- SEO Meta Tag -->
+<meta content='5 Manfaat Beramal Sholeh' name='keywords'/>
+<!-- SEO Title Tag -->
+<title>5 Manfaat Beramal Sholeh | IlmuPena.com</title>
+<meta content='YOUR_APPLICATION_ID' property='fb:app_id'/>
+<link href="//fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet" type="text/css">
+<link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet'/>
+<link href='https://www.blogger.com/static/v1/widgets/1535467126-widget_css_2_bundle.css' rel='stylesheet' type='text/css'/>
 
-        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+<style type="text/css"><!-- /* 
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Evo Magz Template
+Designer:
+URL:      http://
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#66bbdd"/>
+<Group description="Page Text" selector="body">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 13px Arial, sans-serif"/>
+<Variable name="body.text.color" description="Main Text Color" type="color" default="#333333"/>
+</Group>
+<Group description="Main Backgrounds" selector=".body-fauxcolumns-outer">
+<Variable name="body.background.color" description="Body Background" type="color" default="#dddddd"/>
+<Variable name="wrapper.background.color" description="Wrapper Background" type="color" default="#f9f9f9"/>
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#dddddd" default="$(color) none repeat scroll top left"/>
+<Variable name="body.background.override" description="Body Background Override" type="string" default=""/>
+<Group description="Links" selector=".main-outer">
+<Variable name="link.color" description="Link Color" type="color" default="#EE3322"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#EE3322"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#0072C6"/>
+</Group>
+<Group description="Blog Title" selector=".header h1.title, .header p.title">
+<Variable name="header.font" description="Font" type="font"
+default="normal bold 24px Fjalla One, Arial, Helvetica, sans-serif"/>
+<Variable name="header.text.color" description="Title Color" type="color" default="#333333" />
+</Group>
+<Group description="Blog Description" selector=".header .description">
+<Variable name="description.text.color" description="Description Color" type="color" default="#555555"/>
+</Group>
+<Group description="Primary Navigation Menu" selector=".menu">
+<Variable name="menu1.font" description="Font" type="font"
+default="normal normal 12px Arial, sans-serif"/>
+<Variable name="menu1.background.color" description="Background Color" type="color" default="#ffffff"/>
+<Variable name="menu1.text.color" description="Text Color" type="color" default="#666666"/>
+<Variable name="menu1.hover.color" description="Hover Color" type="color" default="#f5f5f5"/>
+<Variable name="menu1.border.color" description="Border Color" type="color" default="#e5e5e5"/>
+</Group>
+<Group description="Secondary Navigation Menu" selector="#nav">
+<Variable name="menu.font" description="Font" type="font"
+default="normal bold 12px Arial, sans-serif"/>
+<Variable name="menu.background.color" description="Background Color" type="color" default="#333333"/>
+<Variable name="menu.navigation.text.color" description="Text Color" type="color" default="#ffffff"/>
+<Variable name="menu.navigation.hover.color" description="Hover Color" type="color" default="#222222"/>
+<Variable name="menu.navigation.border.color" description="Border Color" type="color" default="#E73138"/>
+</Group>
+<Group description="Search Box" selector="#search-form">
+<Variable name="input.background.color" description="Input Background Color" type="color" default="#ffffff"/>
+<Variable name="button.background.color" description="Button Background Color" type="color" default="#E73037"/>
+<Variable name="input.color" description="Input Color" type="color" default="#666666"/>
+<Variable name="button.color" description="Button Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Post" selector=".post">
+<Variable name="post.background.color" description="Background Color" type="color" default="#ffffff" />
+<Variable name="post.border.color" description="Border Color" type="color" default="#e5e5e5" />
+</Group>
+<Group description="Post Title" selector="h2.post-title, .comments h4, h1.post-title">
+<Variable name="post.title.font" description="Font" type="font"
+default="normal normal 20px Fjalla One, Helvetica, Arial, sans-serif"/>
+<Variable name="post.title.color" description="Text Color" type="color" default="#EE3322"/>
+</Group>
+<Group description="Post Footer" selector=".post-info, span.lebel-thumb-footer">
+<Variable name="post.footer.background.color" description="Background Color" type="color"
+default="transparent"/>
+<Variable name="post.footer.text.color" description="Text Color" type="color" default="#666666"/>
+</Group>
+<Group description="Recent Post" selector=".recent-post-one-thumb .widget-content">
+<Variable name="recentpost.background.color" description="Background Color" type="color" default="#ffffff" />
+<Variable name="recentpost.border.color" description="Border Color" type="color" default="#e5e5e5" />
+</Group>
+<Group description="Recent Post Widget Title" selector=".recent-post-title h2">
+<Variable name="recentpost.title.font" description="Title Font" type="font"
+default="normal bold 14px Arial, sans-serif"/>
+<Variable name="recentpost.title.text.color" description="Title Color" type="color" default="#ffffff"/>
+<Variable name="recentpost.title.background.color" description="Background Color" type="color" default="#E73138"/>
+</Group>
+<Group description="Recent Post Title" selector="span.label-thumb-title">
+<Variable name="recent.post.title.font" description="Font" type="font"
+default="normal normal 16px Fjalla One, Helvetica, Arial, sans-serif"/>
+<Variable name="recent.post.title.color" description="Text Color" type="color" default="#EE3322"/>
+</Group>
+<Group description="Sidebar Widget Title" selector=".sidebar h2, .tabs-menu">
+<Variable name="sidebar.title.font" description="Title Font" type="font"
+default="normal bold 12px Arial, sans-serif"/>
+<Variable name="sidebar.title.text.color" description="Title Color" type="color" default="#333333"/>
+<Variable name="sidebar.title.border.color" description="Border Color" type="color" default="#E73138"/>
+</Group>
+<Group description="Bottombar" selector="#bottombar">
+<Variable name="bottombar.background.color" description="Background" type="color" default="#454545"/>
+<Variable name="bottombar.color" description="Color" type="color" default="#dddddd"/>
+<Variable name="bottombar.link.color" description="Link Color" type="color" default="#dddddd"/>
+<Variable name="bottombar.hover.color" description="Hover Color" type="color" default="#ffffff"/>
+<Variable name="bottombar.border.color" description="Border Color" type="color" default="#e5e5e5"/>
+</Group>
+<Group description="Bottombar Widget Title" selector="#bottombar h2">
+<Variable name="bottombar.title.font" description="Title Font" type="font"
+default="normal bold 13px Arial, sans-serif"/>
+<Variable name="bottombar.title.text.color" description="Title Color" type="color" default="#eeeeee"/>
+<Variable name="bottombar.title.border.color" description="Border Color" type="color" default="#eeeeee"/>
+</Group>
+<Group description="Footer" selector="#footer-wrapper">
+<Variable name="footer.background.color" description="Background" type="color" default="#333333"/>
+<Variable name="footer.color" description="Color" type="color" default="#eeeeee"/>
+<Variable name="footer.link.color" description="Link Color" type="color" default="#eeeeee"/>
+<Variable name="footer.hover.color" description="Hover Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Read More" selector="a.readmore, .pagenavi, .label-size">
+<Variable name="readmore.background.color" description="Background Color" type="color" default="#ffffff"/>
+<Variable name="readmore.color" description="Color" type="color" default="#333333"/>
+<Variable name="readmore.border.color" description="Border Color" type="color" default="#dddddd"/>
+<Variable name="readmore.hover.color" description="Hover Color" type="color" default="#aaaaaa"/>
+</Group>
+<Group description="Back to Top" selector="#back-to-top">
+<Variable name="backtp.background.color" description="Background" type="color" default="#E73037"/>
+<Variable name="backtp.color" description="Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Label Cloud" selector=".label-size">
+<Variable name="label.background.color" description="Background" type="color" default="#E73037"/>
+<Variable name="label.color" description="Color" type="color" default="#ffffff"/>
+<Variable name="label.hover.color" description="Hover Color" type="color" default="#333333"/>
+<Variable name="label.count.color" description="Label Count" type="color" default="#333333"/>
+</Group>
+*/
+/**
+* Eric Meyer&#39;s Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+* http://cssreset.com
+*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+/* HTML5 display-role reset for older browsers */
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;display:block;}*{margin:0;padding:0;}html{display:block;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:&#39;&#39;;content:none;}table{border-collapse:collapse;border-spacing:0;}
+/* FRAMEWORK */
+.navbar,.post-feeds,.feed-links{display:none;
+}
+.section,.widget{margin:0 0 0 0;padding:0 0 0 0;
+}
+strong,b{font-weight:bold;
+}
+cite,em,i{font-style:italic;
+}
+a:link{color:#EE3322;text-decoration:none;outline:none;transition:all 0.25s;-moz-transition:all 0.25s;-webkit-transition:all 0.25s;
+}
+a:visited{color:#EE3322;text-decoration:none;
+}
+a:hover{color:#0072C6;text-decoration:none;
+}
+a img{border:none;border-width:0;outline:none;
+}
+abbr,acronym{border-bottom:1px dotted;cursor:help;
+}
+sup,sub{vertical-align:baseline;position:relative;top:-.4em;font-size:86%;
+}
+sub{top:.4em;}small{font-size:86%;
+}
+kbd{font-size:80%;border:1px solid #999;padding:2px 5px;border-bottom-width:2px;border-radius:3px;
+}
+mark{background-color:#ffce00;color:black;
+}
+p,blockquote,pre,table,figure,hr,form,ol,ul,dl{margin:1.5em 0;
+}
+hr{height:1px;border:none;background-color:#666;
+}
+/* heading */
+h1,h2,h3,h4,h5,h6{font-weight:bold;line-height:normal;margin:0 0 0.6em;
+}
+h1{font-size:200%
+}
+h2{font-size:180%
+}
+h3{font-size:160%
+}
+h4{font-size:140%
+}
+h5{font-size:120%
+}
+h6{font-size:100%
+}
+/* list */
+ol,ul,dl{margin:.5em 0em .5em 3em
+}
+ol{list-style:decimal outside
+}
+ul{list-style:disc outside
+}
+li{margin:.5em 0
+}
+dt{font-weight:bold
+}
+dd{margin:0 0 .5em 2em
+}
+/* form */
+input,button,select,textarea{font:inherit;font-size:100%;line-height:normal;vertical-align:baseline;
+}
+textarea{display:block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;
+}
+/* code blockquote */
+pre,code{font-family:&quot;Courier New&quot;,Courier,Monospace;color:inherit;
+}
+pre{white-space:pre;word-wrap:normal;overflow:auto;
+}
+blockquote{background:#f0f0f0;margin-left:2em;margin-right:2em;padding:1em 1em;font-style:italic;font-size:110%;
+}
+blockquote:before {
+content: "\f10d";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-right:4px;
+color:#666;
+}
+/* blockquote:after{
+content: "\f10e";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-left:4px;
+} */
+/* table */
+.post-body table[border=&quot;1&quot;] th, .post-body table[border=&quot;1&quot;] td, .post-body table[border=&quot;1&quot;] caption{border:1px solid;padding:.2em .5em;text-align:left;vertical-align:top;
+}
+.post-body table.tr-caption-container {border:1px solid #e5e5e5;
+}
+.post-body th{font-weight:bold;
+}
+.post-body table[border=&quot;1&quot;] caption{border:none;font-style:italic;
+}
+.post-body table{
+}
+.post-body td, .post-body th{vertical-align:top;text-align:left;font-size:13px;padding:3px 5px;border:1px solid #e5e5e5;
+}
+.post-body th{background:#f0f0f0;
+}
+.post-body table.tr-caption-container td {border:none;padding:8px;
+}
+.post-body table.tr-caption-container, .post-body table.tr-caption-container img, .post-body img {max-width:100%;height:auto;
+}
+.post-body td.tr-caption {color:#666;font-size:80%;padding:0px 8px 8px !important;
+}
+img {
+max-width:100%;
+height:auto;
+border:0;
+}
+table {
+max-width:100%;
+}
+body#layout #wrapper, body#layout .post-container, body#layout .sidebar-container {
+padding:0 0 0 0;
+}
+body#layout #header-wrapper {
+margin-top:60px;
+}
+body#layout .panel {
+float:left;
+width:79px;
+}
+.clear {
+clear:both;
+}
+.clear:after {
+visibility:hidden;
+display:block;
+font-size:0;
+content:" ";
+clear:both;
+height:0;
+}
+body {
+background:#dddddd none repeat scroll top left;
+margin:0 0 0 0;
+padding:0 0 0 0;
+color:#333333;
+font:normal normal 13px Arial, sans-serif;
+text-align:left;
+}
+/* WRAPPER */
+#wrapper {
+background:#f9f9f9;
+max-width:1000px;
+margin:20px auto;
+padding:28px;
+box-shadow: 0px 0px 5px rgba(80, 80, 80, 0.1);
+overflow:hidden;
+}
+/* NAVIGATION MENU */
+.menu {
+font:normal normal 12px Arial, sans-serif;
+padding:0 0;
+background:#ffffff;
+margin:0 auto;
+height:38px;
+border:1px solid #e5e5e5;
+overflow:hidden;
+}
+.nav-menu {
+list-style-type:none;
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+.nav-menu li {
+display:block;
+float:left;
+line-height:38px;
+margin:0 0 0 0;
+padding:0 0 0 0;
+border-right:1px solid #e5e5e5;
+}
+.nav-menu li a {
+background:#ffffff;
+color:#666666;
+display:block;
+padding:0 8px;
+}
+.nav-menu li a:hover {
+background:#f5f5f5;
+}
+ul.nav-social {
+height:38px;
+margin:0 0 0 0;
+padding:0 0;
+float:right;
+}
+ul.nav-social li {
+display:inline-block;
+list-style-type:none;
+float:right;
+margin:0 0;
+padding:0 0;
+border-right:none;
+border-left:1px solid #e5e5e5;
+}
+ul.nav-social li a {
+display:inline-block;
+line-height:38px;
+height:38px;
+padding:0 8px;
+margin:0 0 0 0;
+color:#666666;
+}
+ul.nav-social li a i {
+line-height:38px;
+}
+ul.nav-social li a:hover {
+color:#fff;
+}
+ul.nav-social li a.fcb:hover {
+background:#3B5A9B;
+}
+ul.nav-social li a.gpl:hover {
+background:#DD4B39;
+}
+ul.nav-social li a.twt:hover {
+background:#1BB2E9;
+}
+ul.nav-social li a.ytb:hover {
+background:#ED3F41;
+}
+/* HEADER WRAPPER */
+#header-wrapper {
+margin:0 auto;
+overflow:hidden;
+}
+.header {
+float:left;
+width:25.7%;
+max-width:257px;
+margin:15px 0;
+}
+.header h1.title,.header p.title {
+font:normal bold 24px Fjalla One, Arial, Helvetica, sans-serif;
+margin:0 0 0 0;
+text-transform:uppercase;
+}
+.header .description {
+color:#555555;
+}
+.header a {
+color:#333333;
+}
+.header a:hover {
+color:#999;
+}
+.header img {
+display:block;
+}
+.header-right {
+float:right;
+padding:0;
+overflow:hidden;
+margin:15px 0;
+width:72.8%;
+max-width:728px;
+}
+.header-right img {
+display:block;
+}
+/* NAVIGATION MENU 2 */
+.toggleMenu {
+display:none;
+background:#E73138;
+padding:0 15px;
+height:48px;
+line-height:48px;
+color: #fff !important;
+}
+#nav {
+font:normal bold 12px Arial, sans-serif;
+background:#333333;
+text-transform:uppercase;
+height:48px;
+line-height:48px;
+}
+.nav-menu2 {
+background:#333333;
+list-style: none;
+margin:0 0 0 0;
+*zoom: 1;
+float:left;
+}
+.nav-menu2:before,
+.nav-menu2:after {
+content: " ";
+display: table;
+}
+.nav-menu2:after {
+clear: both;
+}
+.nav-menu2 ul {
+list-style: none;
+margin:0 0 0 0;
+width:12em;
+}
+.nav-menu2 a {
+display:block;
+padding:0 15px;
+}
+.nav-menu2 li {
+position: relative;
+margin:0 0;
+}
+.nav-menu2 > li {
+float: left;
+}
+.nav-menu2 > li > a {
+display: block;
+height:48px;
+line-height:48px;
+color:#ffffff;
+box-shadow: 0 4px 0 #333333 inset;
+}
+.nav-menu2 > li > a.active {
+background:#222222;
+box-shadow: 0 4px 0 #E73138 inset;
+}
+.nav-menu2 > li:hover > a {
+background:#222222;
+box-shadow: 0 4px 0 #E73138 inset;
+}
+.nav-menu2 li ul {
+background:#fff;
+display:block;
+position:absolute;
+left:0;
+z-index:10;
+visibility:hidden;
+opacity:0;
+-webkit-transition:all .25s ease-out;
+-moz-transition:all .25s ease-out;
+-ms-transition:all .25s ease-out;
+-o-transition:all .25s ease-out;
+transition:all .25s ease-out;
+border: 1px solid #d9d9d9;
+border: 1px solid rgba(217,217,217,1);
+box-shadow:0 0 2px rgba(0,0,0,0.2);
+}
+.nav-menu2 li li ul {
+left:100%;
+top:-1px;
+}
+.nav-menu2 > li.hover > ul {
+visibility:visible;
+opacity:10;
+}
+.nav-menu2 > li > ul:before {
+content:"";
+width:0px;
+height:0px;
+position:absolute;
+bottom:100%;
+left:20px;
+border-width:8px;
+border-style:solid;
+border-color:transparent transparent #fff transparent;
+display:block;
+}
+.nav-menu2 li li.hover ul {
+visibility:visible;
+opacity:10;
+}
+.nav-menu2 li li a {
+display: block;
+color:#333;
+position: relative;
+z-index:100;
+line-height:32px;
+}
+.nav-menu2 li li a:hover {
+background:#f0f0f0;
+}
+.nav-menu2 li li li a {
+background:#fff;
+z-index:20;
+color:#333;
+}
+.nav-menu2 li .parent:after {
+content: "\f107";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-left:6px;
+}
+#search-form {
+background:#333333;
+float:right;
+margin:0 0;
+width:200px;
+}
+#search-form table {
+width:100%;
+margin:0 0 0 0;
+}
+#search-form td.search-box {
+padding-right:30px;
+}
+#search-form input#search-box[type="text"] {
+background:#ffffff;
+height:36px;
+line-height:36px;
+margin:5px 0 5px 10px;
+padding:0 10px;
+width:99%;
+color:#666666;
+border:none;
+}
+#search-form input#search-button[type="submit"] {
+font-family: FontAwesome;
+background:#E73037;
+color:#ffffff;
+height:36px;
+line-height:36px;
+margin:5px 10px 5px 0;
+padding:0 12px;
+border:none;
+outline:none;
+transition:all 0.25s;
+-moz-transition:all 0.25s;
+-webkit-transition:all 0.25s;
+}
+#search-form input#search-button[type="submit"]:hover{
+background:#222222;
+cursor:pointer;
+}
+#search-form input#search-box[type="text"]:focus {
+background:#eee;
+outline:none;
+}
+/* CONTENT WRAPPER */
+#content-wrapper {
+background-color:transparent;
+background-image:url(//2.bp.blogspot.com/-yNE4A_H3C2o/U1E6RPYNEpI/AAAAAAAADRQ/UOP1mUKaxGE/s1600/line.png);
+background-repeat:repeat-x;
+background-position:top center;
+margin:0 auto;
+padding:5px 0 0;
+word-wrap:break-word;
+}
+.largebanner {
+background:#fff;
+border-right:1px solid #e5e5e5;
+border-bottom:1px solid #e5e5e5;
+border-left:1px solid #e5e5e5;
+}
+.largebanner .widget {
+padding:15px 14px;
+overflow:hidden;
+}
+.largebanner img, .largebanner iframe{
+display:block;
+max-width:100%;
+border:none;
+overflow:hidden;
+}
+/* POST WRAPPER */
+#post-wrapper {
+background:transparent;
+float:left;
+width:70%;
+max-width:700px;
+margin:0 0 10px;
+}
+.post-container {
+padding:15px 15px 0 0;
+}
+.breadcrumbs {
+font-size:11px;
+color:#666;
+padding:15px;
+margin:0 0 15px;
+background:#ffffff;
+border:1px solid #e5e5e5;
+}
+.post {
+background:#ffffff;
+border:1px solid #e5e5e5;
+margin:0 0 15px;
+padding:15px;
+}
+.post-body {
+font-size: 17px; mobile='no'
+line-height:150%;
+letter-spacing:0.2px; mobile='no'
+Word-spacing:1px; mobile='no'
+text-align: justify;
+}
+h2.post-title, h1.post-title {
+font:normal normal 20px Fjalla One, Helvetica, Arial, sans-serif;
+}
+h2.post-title a, h1.post-title a, h2.post-title, h1.post-title {
+color:#EE3322;
+}
+h2.post-title a:hover, h1.post-title a:hover {
+color:#0072C6;
+}
+.img-thumbnail {
+background:#fbfbfb url(//3.bp.blogspot.com/-ltyYh4ysBHI/U04MKlHc6pI/AAAAAAAADQo/PFxXaGZu9PQ/w200-h140-c/no-image.png) no-repeat center center;
+position:relative;
+float:left;
+width:200px;
+height:150px;
+margin:0 15px 0 0;
+}
+.img-thumbnail img {
+width:200px;
+height:150px;
+}
+span.rollover {
+opacity:0;
+-o-transition:all 1s;
+-moz-transition:all 1s;
+-webkit-transition:all 1s;
+background:#333;
+cursor: pointer;
+position: absolute;
+top:0;
+right:0;
+bottom:0;
+left:0;
+z-index: 1;
+opacity: 0;
+}
+span.rollover:before {
+content:"";
+position: absolute;
+background:url(data:image/png;base64,iVBORw0KGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi34AAAAGXRFWHRTb2Z0d2FyZQRFi3dgfSVKpc1B9idTEuN3cBScszNHP9s0RVh0QRFi3dgfSVKpc1B9idTEuN3cBScszNHP9stVEGiHZW50bGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGig2GvoxAAAAB90RVh0Q29weXJpZ2h0GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGikAAABFaVRYdERlc2NyaXB0aW9uGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi0gR2VudGxlZmFjZS5jb20gZnJlZSBpY29ucyBzZXQuILwR+BoGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiUxUWSBGUkVFIExJQ0VOU0UgJ10KSgGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiDtbLrcW77HPEwrsso2Vu8Ke6GEY5W51wwPPMqKZJowXQRFi3dgfSVKpc1B9idTEuN3cBScszNHP9sifI+XxWgGfgj+UR7BnAo3SvHI/H6ul0+gtYITDAVRw9OYrxw+FQw6fp2hKyLL/TF1BxgW/4Vl3nPUCPx+NmqPHdbqft93vLhYYfD/sq0HV40DMipWa73XYAi1GNwO+6+MFvsl6vtc1mYzGaUQICT3V0oG98CSIjt1VUhsR4ieIgkUgIcFukQ/qxEAeXdTKZFFErDnoDZx0LqfuiUzU39ouI6sCJRL3RwYUf9gaC0kRYrVa1Gxz8YD0R5qGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiQX7jaKhjjfl8ftUJzmrg/GI+6b4GOphOpw3MFiq5Ht/iEehivwYoLp46m82aOGu6yrqeTqdN31k0mUwUnj3UuSbmzneKHmvNQxV+BQB+PZPJtGj91Xs4Ho8VGOtg6bT5A41h7Ok0mtjJA5950/UBPGWz2d++03Q0Ginw3vGJlKSdz+efKAC+mTfydi6X63mVLn0wHA41TsO1mrebB0ZoBLgjH2m5c8emE66pjdExmgep47BGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiQCearcW77HPEwrJM2Ej2yFNYw0HZMg9c7gD9XK5/CF9gtiP3O/1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiQCeadKTrCJ7mCC) 50% 50% no-repeat;
+width:24px;
+height:24px;
+margin:-12px;
+top:50%;
+left:50%;
+}
+span.rollover:hover {
+opacity: .7;
+-o-transition:all 1s;
+-moz-transition:all 1s;
+-webkit-transition:all 1s;
+}
+.post-info {
+background:transparent;
+margin:0 0 12px;
+color:#666666;
+font-size:11px;
+}
+.post-info a {
+display:inline-block;
+color:#666666;
+}
+.author-info, .time-info, .comment-info, .label-info, .review-info {
+margin-right:12px;
+display:inline;
+}
+a.readmore {
+display:inline-block;
+margin:15px 0 0;
+background-color:#ffffff;
+border:1px solid #dddddd;
+padding:0px 10px;
+line-height:26px;
+color:#333333;
+font-size:11px;
+font-weight:bold;
+text-transform:uppercase;
+}
+a.readmore:hover  {
+border:1px solid #aaaaaa;
+}
+/* Page Navigation */
+.pagenavi {
+clear:both;
+margin:-5px 0 10px;
+text-align:center;
+font-size:11px;
+font-weight:bold;
+text-transform:uppercase;
+}
+.pagenavi span,.pagenavi a {
+padding:6px 10px;
+margin-right:3px;
+display:inline-block;
+color:#333333;
+background-color:#ffffff;
+border: 1px solid #dddddd;
+}
+.pagenavi .current, .pagenavi .pages, .pagenavi a:hover {
+border: 1px solid #aaaaaa;
+}
+.pagenavi .pages {
+display:none;
+}
+/* SIDEBAR WRAPPER */
+#sidebar-wrapper {
+background:transparent;
+float:right;
+width:30%;
+max-width:300px;
+margin:0 auto;
+}
+.sidebar-container {
+padding:15px 0;
+}
+.sidebar h2, .panel h2 {
+font:normal bold 12px Arial, sans-serif;
+color:#333333;
+margin:0 0 10px 0;
+padding:6px 0;
+border-bottom:2px solid #e5e5e5;
+text-transform:uppercase;
+position:relative;
+}
+.sidebar h2:after, .panel h2:after {
+content: " ";
+width:90px;
+height: 0px;
+position: absolute;
+left: 0;
+bottom: -2px;
+border-bottom:2px solid #E73138;
+}
+.sidebar .widget {
+margin:0 0 15px;
+}
+.sidebar ul, .sidebar ol {
+list-style-type:none;
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+.sidebar li {
+margin:5px 0;
+padding:0 0 0 0;
+}
+/* Recent Post */
+.recent-post-title {
+background:#fff url(data:image/png;base64,iVBORw0KGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiDtbLrcW77HPEwrsso2Vu8Ke6GEY5W51wwPPMqKZJowXQCeaTrCJ7AAABl0RVh0U29mdHdhcmUGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiDtbLrcW77HPEwrJM2Ej2yFNYwp47BAdKTrCJ7VEGi0xIaHYhETj8iVGaKCBUC0tVoQoGvwgITRKiGCU+hGxwaCGRE0gUtLSFlCIQHddmsa0icSmJhuWzL13d9yATSMbTAu7Ozv3+MeeC8PH/DVvTs7z/s457z0/UVUBFCCO450i8iOmf4NZli2sVCrvASRJ8mngNeAeYBx4LITQBzA0NPSRYrsso2Vu8Ke6GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGihwzq0ql8unAQYHB2e0tbX9FfiM5T4fQRFi3dgfSVKpc1B9idTEuN3cBScszNHP9sBJYE0OvXz5cnupVPpLE3R/CGErgEvTdAuwF0BEkizLFnV3d18ypZ9S1T5gJlDPsuyJEMJJgNHR0Q9dv1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi8emE66pjdExmgep47BGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiQCeaCJ7NYwin0Iaqrs+hg4ODrc65V1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiQCeaH+gCMhHZEEXREYDz58+3lEqll4DlpvRIFEUbgMzmsQnYD9Sdc25xFEVVK9875/4GzDIFm7z3hwAGBgaKHR0dR0RkpUGP1mq19UDDyv+qqh7IO9D83HqA14HZ0xXq5iiKDhikEMfxYRF5wgZ1/MqVK2vnz59ft9yngIOAs7Z+TlSVarX6QKFQOKeqwRK3eO/3G9QlSXIIWGfnk+Pj46vnzJkzaUq/JCJ/AgqqegnojaKoKrVa7eP1en0A+IQlbg0hPJ9D0zT9g6o+Y4M6raqrKpXKhCldAxwBisB/RGSh934IwNXr9f4cqqrbm6CSJMmBHAr0FQqFx3NotVpdBbxg0PeyLFuSQy9evDirCHzSyt8RQvhFE/Q3wEa78Fx7e/vKrq6ucVO6wjn3ItAiIv9V1SWVSmXQHkBXsVjsLxpol/d+j/0njuN9IrLZjm/MmDFjRWdn5zWA4eHhLwAvA63AmIgs9d7/CyBN005V7Qe8U9U9IYTdOTRJkr0issWUvlmv15d3dnZ+YLElWZYdA0rAVWBZuVx+21rzMfv8HwKyG8/NEn8GbLfjP4ClIYSrprQ3y7JTQDvwP+fcsnK5/BbAhQsX7mttbe0H5uZtzVtBHMc/FpHtFvhnoVBY1tPTc9Uu/Cxw0qDvq+oXc2itVusolUpnVXWuoXZ77/c4S/yhiOywwDsTExOf7+npGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi7lPhdC2JVP/weq+hML3O4ajwJnmXaN66r6WBRF/XCna6jqL6LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7yFNYws3e++82tXVn3uO7ucZZg04Cq3PoXVzjd83QJEm+LyK7iiKSNBqNW1zDlM4E6iKy1nt/CqZdY3Jy8oZrAL8PIXwrh6Zpug3YA0wUgcWVSmXUBvWQQT8KTAFf9t6fsAtLzrljwGIr/6D3/uvcXPDfA/Ivd7h5bT4IDDC94Bsiss57/6L1tLWtre1Vbi74F0IIT3NzwW9R1V/nwlW115maW1wD+EoOvYtrHA0hrM+hcRx/Q1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGidA0ROT42NrYOc400TTeKyG8x12g0GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi5CYII=) repeat-x;
+margin:0 0 15px;
+padding:0;
+position:relative;
+}
+.recent-post-title h2 {
+font:normal bold 14px Arial, sans-serif;
+height:26px;
+line-height:26px;
+margin:0 0;
+padding:0 10px;
+background:#E73138;
+color:#ffffff;
+display:inline-block;
+border-right:5px solid #fff;
+}
+.recent-post-title h2 a {
+color:#ffffff;
+}
+.recent-post-title h2 a:after {
+content: "\f18e";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-left:6px;
+}
+.recent-post-one-thumb {
+float:left;
+width:50%;
+margin:0 0;
+}
+.recent-post-one-thumb .widget {
+padding:0 15px 15px 0;
+}
+.recent-post-one-thumb .widget-content {
+background:#ffffff;
+border:1px solid #e5e5e5;
+padding:15px;
+}
+.recent-post-one-thumb ul {
+list-style-type:none;
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+/* Recent Post */
+ul.rp_thumbs {
+margin:0 0 0 0;
+}
+ul.rp_thumbs li {
+font-size:12px;
+min-height:68px;
+margin:0 0 8px;
+padding:0 0 8px;
+border-bottom:1px dotted #e5e5e5;
+}
+ul.rp_thumbs .rp_thumb {
+position:relative;
+background:#fbfbfb;
+margin:3px 0 10px 0;
+width:100%;
+height:0;
+padding-bottom:46%;
+overflow:hidden;
+}
+ul.rp_thumbs .rp_thumb img {
+height:auto;
+width:100%;
+}
+ul.rp_thumbs2 {
+font-size:13px;
+}
+ul.rp_thumbs2 li {
+padding:0 0;
+min-height:66px;
+font-size:11px;
+margin: 0 0 8px;
+padding: 0 0 8px;
+border-bottom:1px dotted #e5e5e5;
+}
+ul.rp_thumbs2 .rp_thumb2 {
+background:#fbfbfb;
+float:left;
+margin:3px 8px 0 0;
+height:60px;
+width:60px;
+}
+ul.rp_thumbs2 .rp_thumb2 img {
+height:60px;
+width:60px;
+}
+span.rp_title {
+font:normal normal 16px Fjalla One, Helvetica, Arial, sans-serif;
+display:block;
+margin:0 0 5px;
+line-height:1.4em;
+}
+span.rp_title2 {
+font-size:14px;
+}
+span.rp_summary {
+display:block;
+margin:6px 0 0;
+color:#666666;
+}
+span.rp_meta {
+background:transparent;
+display:block;
+font-size:11px;
+color:#666666;
+}
+span.rp_meta a {
+color:#666666 !important;
+display:inline-block;
+}
+span.rp_meta_date, span.rp_meta_comment, span.rp_meta_more  {
+display:inline-block;
+margin-right:8px;
+}
+span.rp_meta_date:before {
+content: "\f073";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-right:4px;
+}
+span.rp_meta_comment:before  {
+content: "\f086";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-right:4px;
+}
+span.rp_meta_more:before {
+content: "\f0a9";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-right:4px;
+}
+ul.rp_thumbs2 li a:hover, ul.rp_thumbs li a:hover {
+color:#0072C6;
+}
+/* BOTTOMBAR */
+#bottombar {
+background:#454545;
+border-top:6px solid #e5e5e5;
+overflow:hidden;
+margin:0 auto;
+padding:15px;
+color:#dddddd;
+}
+#bottombar .left {
+float:left;
+width:34%;
+}
+#bottombar .center {
+float:left;
+width:34%;
+}
+#bottombar .right {
+float:right;
+width:32%;
+}
+#bottombar .left .widget, #bottombar .center .widget {
+margin:0 15px 15px 0;
+}
+#bottombar .right .widget {
+margin:0 0 15px 0;
+}
+#bottombar h2 {
+font:normal bold 13px Arial, sans-serif;
+margin:0 0 10px 0;
+padding:6px 0;
+border-bottom:2px solid #555;
+text-transform:uppercase;
+position:relative;
+color:#eeeeee;
+}
+#bottombar h2:after {
+content:" ";
+width:90px;
+height:0px;
+position:absolute;
+left:0;
+bottom:-2px;
+border-bottom:2px solid #eeeeee;
+}
+#bottombar ul, #bottombar ol {
+list-style-type:none;
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+#bottombar li {
+margin:5px 0;
+padding:0 0 0 0;
+}
+#bottombar ul li:before {
+color:#eeeeee !important;
+}
+#bottombar a {
+color:#dddddd;
+}
+#bottombar a:hover {
+color:#ffffff;
+}
+/* FOOTER */
+#footer-wrapper {
+background:#333333;
+margin:0 auto;
+padding:20px 5px;
+overflow:hidden;
+color:#eeeeee;
+font-size:11px;
+}
+.footer-left {
+float:left;
+margin:10px;
+}
+.footer-right {
+float:right;
+margin:10px;
+}
+#footer-wrapper a {
+color:#eeeeee;
+}
+#footer-wrapper a:hover {
+color:#ffffff;
+}
+/* CUSTOM WIDGET */
+.widget ul {
+line-height:1.4em;
+}
+/* Tab Menu */
+.set, .panel {
+margin: 0 0;
+}
+.tabs .panel {
+padding:0 0;
+}
+.tabs-menu {
+border-bottom:3px solid #E73138;
+padding: 0 0;
+margin:0 0;
+}
+.tabs-menu li {
+font:normal bold 12px Arial, sans-serif;
+display: inline-block;
+*display: inline;
+zoom: 1;
+margin: 0 3px 0 0;
+padding:10px;
+background:#fff;
+border:1px solid #e5e5e5;
+border-bottom:none !important;
+color:#333333;
+cursor:pointer;
+position:relative;
+}
+.tabs-menu .active-tab {
+background:#E73138;
+border:1px solid #E73138;
+border-bottom:none !important;
+color:#fff;
+}
+.tabs-content {
+padding:10px 0;
+}
+.tabs-content .widget li {
+float:none !important;
+margin:5px 0;
+}
+.tabs-content .widget ul {
+overflow:visible;
+}
+/* label */
+.label-size-1,.label-size-2,.label-size-3,.label-size-4,.label-size-5 {
+font-size:100%;
+filter:alpha(100);
+opacity:10
+}
+.cloud-label-widget-content{
+text-align:left
+}
+.label-size {
+background:#E73037;
+display:block;
+float:left;
+margin:0 3px 3px 0;
+color:#ffffff;
+font-size:11px;
+text-transform:uppercase;
+}
+.label-size a,.label-size span{
+display:inline-block;
+color:#ffffff !important;
+padding:6px 8px;
+font-weight:bold;
+}
+.label-size:hover {
+background:#333333;
+}
+.label-count {
+white-space:nowrap;
+padding-right:3px;
+margin-left:-3px;
+background:#333333;
+color:#fff !important;
+}
+.label-size {
+line-height:1.2
+}
+/* Custom CSS for Blogger Popular Post Widget */
+.PopularPosts ul,
+.PopularPosts li,
+.PopularPosts li img,
+.PopularPosts li a,
+.PopularPosts li a img {
+margin:0 0;
+padding:0 0;
+list-style:none;
+border:none;
+background:none;
+outline:none;
+}
+.PopularPosts ul {
+margin:.5em 0;
+list-style:none;
+color:black;
+counter-reset:num;
+}
+.PopularPosts ul li img {
+display:block;
+margin:0 .5em 0 0;
+width:50px;
+height:50px;
+float:left;
+}
+.PopularPosts ul li {
+background-color:#eee;
+margin:0 10% .4em 0 !important;
+padding:.5em 1.5em .5em .5em !important;
+counter-increment:num;
+position:relative;
+}
+.PopularPosts ul li:before,
+.PopularPosts ul li .item-title a, .PopularPosts ul li a {
+font-weight:bold;
+color:#000 !important;
+text-decoration:none;
+}
+.PopularPosts ul li:before {
+content:counter(num) !important;
+display:block;
+position:absolute;
+background-color:#333;
+color:#fff !important;
+width:22px;
+height:22px;
+line-height:22px;
+text-align:center;
+top:0px;
+right:0px;
+padding-right:0px !important;
+}
+/* Set color and level */
+.PopularPosts ul li:nth-child(1) {background-color:#A51A5D;margin-right:0% !important}
+.PopularPosts ul li:nth-child(2) {background-color:#F53477;margin-right:0% !important}
+.PopularPosts ul li:nth-child(3) {background-color:#FD7FAA;margin-right:0% !important}
+.PopularPosts ul li:nth-child(4) {background-color:#FF9201;margin-right:0% !important}
+.PopularPosts ul li:nth-child(5) {background-color:#FDCB01;margin-right:0% !important}
+.PopularPosts ul li:nth-child(6) {background-color:#DEDB00;margin-right:0% !important}
+.PopularPosts ul li:nth-child(7) {background-color:#89C237;margin-right:0% !important}
+.PopularPosts ul li:nth-child(8) {background-color:#44CCF2;margin-right:0% !important}
+.PopularPosts ul li:nth-child(9) {background-color:#01ACE2;margin-right:0% !important}
+.PopularPosts ul li:nth-child(10) {background-color:#94368E;margin-right:0% !important}
+.PopularPosts .item-thumbnail {
+margin:0 0 0 0;
+}
+.PopularPosts .item-snippet {
+font-size:11px;
+}
+.profile-img{
+display:inline;
+opaciry:10;
+margin:0 6px 3px 0;
+}
+/* back to top */
+#back-to-top {
+background:#E73037;
+color:#ffffff;
+padding:8px 10px;
+font-size:24px;
+}
+.back-to-top {
+position:fixed !important;
+position:absolute;
+bottom:20px;
+right:20px;
+z-index:999;
+}
+/* share buttons */
+.share-buttons-box {
+height: 67px;
+background: url(//3.bp.blogspot.com/-moj4-jk-UB0/U1qCkCPaGQI/AAAAAAAADTY/tixmak8NHV8/s1600/share.png) no-repeat 330px 10px;
+margin:20px 0 15px;
+overflow:hidden;
+}
+.share-buttons {
+margin:0 0;
+height:67px;
+float:left;
+}
+.share-buttons .share {
+float:left;
+margin-right:10px;
+display:inline-block;
+}
+/* error and search */
+.status-msg-wrap {
+font-size:120%;
+font-weight:bold;
+width:100%;
+margin:20px auto;
+}
+.status-msg-body {
+padding:20px 2%;
+width:96%;
+}
+.status-msg-border {
+border:1px solid #e5e5e5;
+opacity:10;
+width:auto;
+}
+.status-msg-bg {
+background-color:#ffffff;
+}
+.status-msg-hidden {
+padding:20px 2%;
+}
+.tabs-content .widget ul li:before, .sidebar ul li:before, #bottombar ul li:before {
+content:"\f061";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-right:4px;
+color:#666;
+}
+#ArchiveList ul li:before {
+content:"" !important;
+padding-right:0px !important;
+}
+/* facebook comments */
+.fbbox-comments {
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+background:#fff;
+border:1px solid #e5e5e5;
+margin: 0 0 20px;
+}
+.fb-comments{width: 100% !important;}
+.fb-comments iframe[style]{width: 100% !important;}
+.fb-like-box{width: 100% !important;}
+.fb-like-box iframe[style]{width: 100% !important;}
+.fb-comments span{width: 100% !important;}
+.fb-comments iframe span[style]{width: 100% !important;}
+.fb-like-box span{width: 100% !important;}
+.fb-like-box iframe span[style]{width: 100% !important;
+}
+.rich-snippet {
+padding:10px;
+margin:15px 0 0;
+border:3px solid #eee;
+font-size:12px;
+}
+/* MEDIA QUERY */
+@media only screen and (max-width:1066px){
+#wrapper {
+margin:0 auto;
+}
+}
+@media only screen and (max-width:768px){
+#wrapper {
+padding:0 12px;
+}
+#post-wrapper, #sidebar-wrapper, .nav {
+float:none;
+width:100%;
+max-width:100%
+}
+.active {
+display: block;
+}
+#search-form {
+width:100%;
+margin:0 0 0 0 !important;
+}
+.nav li ul:before {
+display:none;
+}
+.nav > li {
+float: none;
+overflow:hidden;
+}
+.nav ul {
+display: block;
+width: 100%;
+float:none;
+}
+.nav-menu2 li ul {
+background:#eee;
+border:none;
+box-shadow:none;
+}
+.nav-menu2 li li ul {
+background:#f5f5f5;
+}
+.nav-menu2 li li a:hover {
+background:#ddd;
+}
+.nav > li.hover > ul , .nav li li.hover ul {
+position: static;
+}
+/* ==== Related Post Widget Start ==== */
+.related-post {
+margin:15px 0 0;
+padding:15px 0 0;
+}
+.related-post h4 {
+font-size:14px;
+margin:0 0 .5em;
+text-transform:uppercase;
+}
+.related-post-style-2 {
+margin:0 0 0 0 !important;
+padding:0 0 0 0 !important;
+list-style:none;
+}
+.related-post-style-2 li {
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+.related-post-style-2 li {
+padding:5px 0 !important;
+overflow:hidden;
+}
+.related-post-style-2 li:first-child {border-top:none}
+.related-post-style-2 .related-post-item-thumbnail {
+width:60px;
+height:60px;
+max-width:none;
+max-height:none;
+background-color:transparent;
+border:none;
+padding:0;
+float:left;
+margin:2px 8px 0 0;
+}
+.related-post-style-2 .related-post-item-title {
+font:normal normal 18px Open Sans Condensed, Helvetica, Arial, sans-serif;
+}
+.related-post-style-2 .related-post-item-summary {
+display:block;
+overflow:hidden;
+}
+.related-post-style-2 .related-post-item-more {}
+#search-form {
+width:100%;
+background:#444;
+}
+#search-form td.search-box {
+padding:0 10px !important;
+}
+#search-form td.search-button {
+padding:0 10px;
+width:1%;
+}
+#search-form input#search-box[type="text"] {
+margin:0 0 0 0;
+}
+#search-form input#search-button[type="submit"] {
+margin:0 0 0 0;
+}
+.post-body img {
+max-width:90%;
+}
+.img-thumbnail {
+margin:0 10px 0 0;
+}
+.recent-post-one-thumb .widget {
+padding:0 0 10px 0;
+}
+#recent-post-one-thumb-1 .widget, #recent-post-one-thumb-3 .widget, #recent-post-one-thumb-5 .widget {
+padding:0 5px 10px 0;
+}
+#recent-post-one-thumb-2 .widget, #recent-post-one-thumb-4 .widget, #recent-post-one-thumb-6 .widget {
+padding:0 0 10px 5px;
+}
+.sidebar-container, .post-container {
+padding:15px 0 0px;
+}
+}
+@media only screen and (max-width:640px){
+#wrapper {
+padding:0 10px;
+}
+#post-wrapper, #sidebar-wrapper, #bottombar .left, #bottombar .center, #bottombar .right {
+float:none;
+width:100%;
+max-width:100%
+}
+.header, .header-right {
+margin:10px 0;
+}
+.sidebar-container, .post-container{
+padding:10px 0 0px;
+}
+.largebanner .widget, #bottombar {
+padding:10px;
+}
+.post, .breadcrumbs {
+margin:0 0 10px;
+padding:10px;
+}
+.pagenavi {
+margin: 6px 0 10px;
+}
+.recent-post-one-thumb .widget-content {
+padding:10px;
+}
+#bottombar .left .widget, #bottombar .center .widget, #bottombar .right .widget, .sidebar .widget {
+margin:0 0 10px 0;
+}
+}
+@media only screen and (max-width:480px){
+#wrapper {
+padding:0 8px;
+}
+.header, .header-right, .recent-post-one-thumb {
+float:none;
+width:100%;
+max-width:100%
+}
+.header img {
+max-width:160px;
+}
+.largebanner .widget, #bottombar {
+padding:8px;
+}
+.post, .breadcrumbs {
+margin:0 0 8px;
+padding:8px;
+}
+.recent-post-one-thumb .widget-content {
+padding:8px;
+}
+h2.post-title, h1.post-title {
+font-size:16px;
+}
+.img-thumbnail, .img-thumbnail img {
+width:120px;
+height:90px;
+}
+.img-thumbnail {
+margin:0 8px 0 0;
+}
+#recent-post-one-thumb-1 .widget, #recent-post-one-thumb-3 .widget,	#recent-post-one-thumb-2 .widget, #recent-post-one-thumb-4 .widget, #recent-post-one-thumb-5 .widget, #recent-post-one-thumb-6 .widget {
+padding:0 0 8px 0;
+}
+.comments .comment-block, .comments .comments-content .inline-thread {
+padding:10px !important;
+}
+.comment .comment-thread.inline-thread .comment {
+margin: 0 0 0 0 !important;
+}
+.footer-left, .footer-right {
+float:none;
+text-align:center;
+}
+}
+@media screen and (max-width:320px){
+#wrapper {
+padding:0 6px;
+}
+.post, .breadcrumbs {
+padding:6px;
+}
+.recent-post-one-thumb .widget-content {
+padding:6px;
+}
+.img-thumbnail, .img-thumbnail img {
+width:100px;
+height:80px;
+}
+}
+.showpageArea a {
+clear:both;
+margin:-5px 0 10px;
+text-align:center;
+font-size:11px;
+font-weight:bold;
+text-transform:uppercase;
+}
+.showpageNum a {
+padding:6px 10px;
+margin-right:3px;
+display:inline-block;
+color:#333333;
+background-color:#ffffff;
+border: 1px solid #dddddd;
+}
+.showpageNum a:hover {
+border: 1px solid #aaaaaa;
+}
+.showpagePoint {
+padding:6px 10px;
+margin-right:3px;
+display:inline-block;
+color:#333333;
+background-color:#ffffff;
+border: 1px solid #aaaaaa;
+}
+.showpageOf {
+display:none;
+}
+.showpage a {
+padding:6px 10px;
+margin-right:3px;
+display:inline-block;
+color:#333333;
+background-color:#ffffff;
+border: 1px solid #dddddd;
+}
+.showpage a:hover {
+border: 1px solid #aaaaaa;
+}
+.showpageNum a:link,.showpage a:link {
+text-decoration:none;
+color:#666;
+}
+.button {
+text-align: center;
+width: 100%;
+margin: 10px 0;
+padding: 0;
+font-size: 14px;
+font-family: 'Tahoma', Geneva, Sans-serif;
+color: #fff;
+margin-left: 0em !important;
+}
+.button ul {
+margin: 0;
+padding: 0;
+}
+.button li {
+display: inline-block;
+margin: 10px 0;
+padding: 0;
+}
+.demo {
+border-radius: 3px;
+padding: 8px 12px;
+background: #e74c3c;
+color: #fff !important;
+transition: background-color 1s 0s ease-out;
+}
+.download {
+border-radius: 3px;
+padding: 8px 12px;
+background: #3498db;
+color: #fff !important;
+transition: background-color 1s 0s ease-out;
+}
+.buton a {
+color: #fff;
+}
+.demo:hover {
+background: #c0392b;
+color: #fff;
+}
+.download:hover {
+background: #2980b9;
+color: #fff;
+}
+.download:before {
+content: "\f019";
+font-family: FontAwesome;
+font-weight: normal;
+padding: 8px;
+background: #2980b9;
+margin-left: -12px;
+margin-right: 6px;
+border-radius: 3px 0 0 3px;
+font-size: 16px;
+}
+.demo:before {
+content: "\f06e";
+font-family: FontAwesome;
+font-weight: normal;
+padding: 8px;
+background: #c0392b;
+margin-left: -12px;
+margin-right: 6px;
+border-radius: 3px 0 0 3px;
+font-size: 16px;
+}
+#Attribution1 {
+height:0px;
+visibility:hidden;
+display:none
+}
+/* Multi Tab Widget */
+.multitab-section{background:transparent;text-transform:uppercase;width:100%;max-width:337px;z-index:-999}
+.multitab-widget{list-style:none;margin:0 auto;background:#444;padding:10px 10px 40px;border-radius:4px 4px 0 0;border-bottom:4px solid #ff5050;width:90%}
+.multitab-widget li{list-style:none;padding:0px;margin:0;float:left}
+.multitab-widget li a{background:transparent;display:block;padding:10px 0;font:13px merriweather sans,sans-serif;font-weight:700;text-shadow:0 1px 1px #000;color:#999}
+.multitab-tab{border:0;width:33.3%;text-align:center}
+.multitab-section h2,.multitab-section h3,.multitab-section h4,.multitab-section h5,.multitab-section h6 {display:none;}
+.multitab-widget li a.multitab-widget-current{padding:12px 0;margin:0;background:#ff5050;text-decoration:none;text-transform:uppercase;border-radius:4px 4px 0 0;text-shadow:0 1px 1px #000;color:#fff}
+/* Popular Post Zaputra.Com*/
+#PopularPosts1 h2{padding:0;width:100%;margin:0;font-size:1.3em;font-size:14px;text-align:center;color:#ccc;}
+#PopularPosts1 ul{list-style:none;counter-reset:li;padding:0;}
+#PopularPosts1 li{position:relative;margin:0;padding:0;width:auto;}
+#PopularPosts1 ul li{background:#f6f6f6;position:relative;display:block;padding:5px;margin:5px;text-decoration:none;border-radius:2px;transition:all .5s ease-out;box-shadow:0 0 1px rgba(0,0,0,0.4);border:1px solid #fff}
+#PopularPosts1 ul li:before{content:counter(li);counter-increment:li;position:absolute;top:80%;margin:-1.3em;height:2em;width:2em;line-height:25px;font-size:16px;color:#fff;background:#ff5050;border:2px solid #fff;text-align:center;font-weight:700;border-radius:2em;position:absolute;left:96%;transition:all .3s ease-out;z-index:9;box-shadow: 0 0px 1px rgba(0,0,0,0.4);}
+#PopularPosts1 ul li:hover{background:#e6e6e6;transition:all 0s ease-out}
+#PopularPosts1 ul li:hover:before{transform:rotate(360deg)}
+#PopularPosts1 ul li a{font:13px merriweather sans, sans-serif;color:#333;display:block;min-height:50px;text-decoration:none;text-transform:uppercase;margin-right:10px}
+#PopularPosts1 ul li a:hover{color:#ff5050;}
+.item-thumbnail img {width:100%; padding:0;margin:0;border:2px solid #fff;border-radius:100%;width:60px;height:60px;box-shadow: 0 2px 2px rgba(0,0,0,0.4);}
+/* Related Post Title Only Start */
+#related-post-title-only {
+overflow: hidden;
+margin: 15px 0;
+padding: 0
+}
+#related-post-title-only h3 {
+font-size: 20px;
+font-weight: bold;
+padding: 0 0 8px;
+margin: 0;
+color: #4C565F;
+}
+#related-post-title-only ul {
+margin-left: 20px;
+padding: 0 0 0 10px;
+}
+#related-post-title-only ul li {
+padding: 0 0 8px;
+}
+/* Related Post Title Only End */
+*/
+--></style>
+<style type='text/css'>
+/* COMMENT */
 
-    <div class="td-menu-background"></div>
-<div id="td-mobile-nav">
-    <div class="td-mobile-container">
-        <!-- mobile menu top section -->
-        <div class="td-menu-socials-wrap">
-            <!-- socials -->
-            <div class="td-menu-socials">
-                            </div>
-            <!-- close button -->
-            <div class="td-mobile-close">
-                <a href="#"><i class="td-icon-close-mobile"></i></a>
-            </div>
-        </div>
+.comment-form {
+	overflow:hidden;
+}
+.comments h3 {
+	line-height:normal;
+	text-transform:uppercase;
+	color:#333;
+	font-weight:bold;
+	margin:0 0 20px 0;
+	font-size:14px;
+	padding:0 0 0 0;
+}
+h4#comment-post-message {
+	display:none;
+	margin:0 0 0 0;
+}
+.comments{
+	clear:both;
+	margin-top:10px;
+	margin-bottom:0
+}
+.comments .comments-content{
+	font-size:13px;
+	margin-bottom:8px
+}
+.comments .comments-content .comment-thread ol{
+	text-align:left;
+	margin:13px 0;
+	padding:0
+}
 
-        <!-- login section -->
-                    <div class="td-menu-login-section">
-                
-    <div class="td-guest-wrap">
-        <div class="td-menu-login"><a id="login-link-mob">Masuk</a></div>
-    </div>
-            </div>
-        
-        <!-- menu section -->
-        <div class="td-mobile-content">
-            <div class="menu-newman-container"><ul id="menu-newman" class="td-mobile-main-menu"><li id="menu-item-8731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first menu-item-8731"><a href="https://learniseasy.com/">Home</a></li>
-<li id="menu-item-8726" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8726"><a href="https://learniseasy.com/category/biologi/">Biologi</a></li>
-<li id="menu-item-8727" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8727"><a href="https://learniseasy.com/category/contoh-surat/">contoh surat</a></li>
-<li id="menu-item-8728" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8728"><a href="https://learniseasy.com/category/pendidikan-kewarganegaraan-pkn/">Pendidikan Kewarganegaraan (PKN)</a></li>
-<li id="menu-item-8729" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8729"><a href="https://learniseasy.com/category/tata-cara-sholat/">Sholat</a></li>
-<li id="menu-item-8730" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8730"><a href="https://learniseasy.com/category/sosial/">Sosial</a></li>
-</ul></div>        </div>
-    </div>
+.comments .avatar-image-container {
+	background:#fff;
+	border:1px solid #DDD;
+	overflow:hidden;
+	padding:6px;
+}
+.comments .comment-block{
+	position:relative;
+	background:#fff;
+	padding:15px;
+	margin-left:60px;
+	border-left:3px solid #ddd;
+	border-top:1px solid #DDD;
+	border-right:1px solid #DDD;
+	border-bottom:1px solid #DDD;
+}
+.comments .comment-block:before {
+	content:"";
+	width:0px;
+	height:0px;
+	position:absolute;
+	right:100%;
+	top:14px;
+	border-width:10px;
+	border-style:solid;
+	border-color:transparent #DDD transparent transparent;
+	display:block;
+}
+.comments .comments-content .comment-replies{
+	margin:8px 0;
+	margin-left:60px
+}
+.comments .comments-content .comment-thread:empty{
+	display:none
+}
+.comments .comment-replybox-single {
+	background:#f0f0f0;
+	padding:0;
+	margin:8px 0;
+	margin-left:60px
+}
+.comments .comment-replybox-thread {
+	background:#f0f0f0;
+	margin:8px 0 0 0;
+	padding:0;
+}
 
-    <!-- register/login section -->
-            <div id="login-form-mobile" class="td-register-section">
-            
-            <div id="td-login-mob" class="td-login-animation td-login-hide-mob">
-            	<!-- close button -->
-	            <div class="td-login-close">
-	                <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
-	                <div class="td-login-title">Masuk</div>
-	                <!-- close button -->
-		            <div class="td-mobile-close">
-		                <a href="#"><i class="td-icon-close-mobile"></i></a>
-		            </div>
-	            </div>
-	            <div class="td-login-form-wrap">
-	                <div class="td-login-panel-title"><span>SELAMAT DATANG!</span>Masuk ke akun Anda</div>
-	                <div class="td_display_err"></div>
-	                <div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email-mob" value="" required><label>nama pengguna</label></div>
-	                <div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass-mob" value="" required><label>kata sandi Anda</label></div>
-	                <input type="button" name="login_button" id="login_button-mob" class="td-login-button" value="MASUK">
-	                <div class="td-login-info-text">
-	                <a href="#" id="forgot-pass-link-mob">Lupa kata sandi Anda?</a>
-	                </div>
-	                <div class="td-login-register-link">
-	                
-	                </div>
-	                
-	                <div class="td-login-info-text"><a class="privacy-policy-link" href="https://learniseasy.com/privacy-policy/">Privacy Policy</a></div>
 
-                </div>
-            </div>
+.comments .comments-content .comment{
+	margin-bottom:6px;
+	padding:0
+}
+.comments .comments-content .comment:first-child {
+	padding:0;
+	margin:0
+}
+.comments .comments-content .comment:last-child {
+	padding:0;
+	margin:0
+}
+.comments .comment-thread.inline-thread .comment, .comments .comment-thread.inline-thread .comment:last-child {
+	margin:0px 0px 5px 30%
+}
+.comment .comment-thread.inline-thread .comment:nth-child(6) {
+	margin:0px 0px 5px 25%;
+}
+.comment .comment-thread.inline-thread .comment:nth-child(5) {
+	margin:0px 0px 5px 20%;
+}
+.comment .comment-thread.inline-thread .comment:nth-child(4) {
+	margin:0px 0px 5px 15%;
+}
+.comment .comment-thread.inline-thread .comment:nth-child(3) {
+	margin:0px 0px 5px 10%;
+}
+.comment .comment-thread.inline-thread .comment:nth-child(2) {
+	margin:0px 0px 5px 5%;
+}
+.comment .comment-thread.inline-thread .comment:nth-child(1) {
+	margin:0px 0px 5px 0;
+}
 
-            
-            
-            
-            
-            <div id="td-forgot-pass-mob" class="td-login-animation td-login-hide-mob">
-                <!-- close button -->
-	            <div class="td-forgot-pass-close">
-	                <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
-	                <div class="td-login-title">Pemulihan password</div>
-	            </div>
-	            <div class="td-login-form-wrap">
-	                <div class="td-login-panel-title">Memulihkan kata sandi anda</div>
-	                <div class="td_display_err"></div>
-	                <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email-mob" value="" required><label>email Anda</label></div>
-	                <input type="button" name="forgot_button" id="forgot_button-mob" class="td-login-button" value="Kirim Kata Sandi Saya">
-                </div>
-            </div>
-        </div>
-    </div>    <div class="td-search-background"></div>
-<div class="td-search-wrap-mob">
-	<div class="td-drop-down-search">
-		<form method="get" class="td-search-form" action="https://learniseasy.com/">
-			<!-- close button -->
-			<div class="td-search-close">
-				<a href="#"><i class="td-icon-close-mobile"></i></a>
-			</div>
-			<div role="search" class="td-search-input">
-				<span>Cari</span>
-				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
-			</div>
-		</form>
-		<div id="td-aj-search-mob" class="td-ajax-search-flex"></div>
-	</div>
+.comments .comments-content .comment-thread{
+	margin:0;
+	padding:0
+}
+.comments .comments-content .inline-thread{
+	background:#fff;
+	border:1px solid #DDD;
+	padding:15px;
+	margin:0
+}
+.comments .comments-content .icon.blog-author {
+	display:inline;
+}
+.comments .comments-content .icon.blog-author:after {
+	content:"Admin";
+	background:#E73037;
+	color:#fff;
+	font-size:11px;
+	padding:2px 5px;
+	border-radius:3px;
+}
+.comment-header {
+	text-transform:uppercase;
+	font-size:12px;
+}
+.comments .comments-content .datetime {
+	margin-left: 6px;
+}
+.comments .comments-content .datetime a {
+	color:#888;
+}
+
+.comments .comment .comment-actions a {
+	display:inline-block;
+	color:#333;
+	font-weight:bold;
+	font-size:10px;
+	line-height:15px;
+	margin:4px 8px 0 0;
+}
+.comments .continue a {
+	color:#333;
+	display:inline-block;
+	font-size:10px;
+}
+.comments .comment .comment-actions a:hover, .comments .continue a:hover{
+	text-decoration:underline;
+}
+.pesan-komentar {
+	background:#666;
+	position:relative;
+	color:#fff;
+	padding:10px 15px;
+	margin:8px;
+}
+.pesan-komentar p {
+	line-height:normal;
+	margin:0 0;
+}
+.pesan-komentar:before {
+	content:"";
+	width:0px;
+	height:0px;
+	position:absolute;
+	top:100%;
+	left:30px;
+	border-width:10px;
+	border-style:solid;
+	border-color:#666 transparent transparent transparent;
+	display:block;
+}
+.fb-comments{width: 100% !important;}
+.fb-comments iframe[style]{width: 100% !important;}
+.fb-like-box{width: 100% !important;}
+.fb-like-box iframe[style]{width: 100% !important;}
+.fb-comments span{width: 100% !important;}
+.fb-comments iframe span[style]{width: 100% !important;}
+.fb-like-box span{width: 100% !important;}
+.fb-like-box iframe span[style]{width: 100% !important;}
+.fotleft{float:left}
+.fotright{float:right;text-align:right;}
+
+.blogger-iframe-colorize {display: block !important; } 
+
+</style>
+<style>
+    #related_posts{}
+    #related_posts h4{ border-top:1px solid #333;  border-bottom:1px solid #333;  color:#333;  font-size:16px;  letter-spacing:0;  line-height:20px;  margin:0 0 5px;  padding:5px 10px; background:#03C}
+    #relpost_img_sum{/* height:320px; overflow:auto; */margin:0; padding:0px; line-height:16px}
+    #relpost_img_sum:hover{background:none}
+    #relpost_img_sum ul {list-style-type:none; margin:0; padding:0}
+    #relpost_img_sum li {border:1px solid #ccc; background:#fff; margin:0 0 5px; padding:5px; height:70px; list-style:none}
+    #relpost_img_sum .news-title{display:block; font-size:16px; font-weight:bold !important}
+    #relpost_img_sum .news-text{display:block; font-size:14px; text-align:justify; font-weight:normal; text-transform:none; color:#333}
+    #relpost_img_sum img{float:left; margin-right:5px; padding:4px; border:solid 1px #ccc; width:50px; height:50px; background:#fff}
+    </style>
+<script type='text/javascript'>//<![CDATA[ 
+    var relnum = 0;
+    var relmaxposts = 5;
+    var numchars = 150;
+    var morelink = "selengkapnya";
+
+    eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('2 4=f g();2 5=f g();2 9=f g();2 b=f g();s K(L,M){2 7=L.19("<");l(2 i=0;i<7.3;i++){8(7[i].N(">")!=-1){7[i]=7[i].O(7[i].N(">")+1,7[i].3)}}7=7.1a("");7=7.O(0,M-1);y 7}s 1b(z){l(2 i=0;i<z.P.6.3;i++){2 6=z.P.6[i];4[n]=6.A.$t;u="";8("Q"B 6){u=6.Q.$t}C 8("R"B 6){u=6.R.$t}9[n]=K(u,1c);8("S$T"B 6){D=6.S$T.1d}C{D="1e://1f.1g.1h/1i/1j/1k/1l/d/1m.1n"}b[n]=D;l(2 k=0;k<6.E.3;k++){8(6.E[k].U==\'1o\'){5[n]=6.E[k].v;F}}n++}}s V(a,e){l(2 j=0;j<a.3;j++)8(a[j]==e)y 1p;y 1q}s 1r(){2 m=f g(0);2 o=f g(0);2 p=f g(0);2 q=f g(0);l(2 i=0;i<5.3;i++){8(!V(m,5[i])){m.3+=1;m[m.3-1]=5[i];o.3+=1;o[o.3-1]=4[i];p.3+=1;p[p.3-1]=9[i];q.3+=1;q[q.3-1]=b[i]}}4=o;5=m;9=p;b=q;l(2 i=0;i<4.3;i++){2 c=w.W((4.3-1)*w.X());2 Y=4[i];2 Z=5[i];2 10=9[i];2 11=b[i];4[i]=4[c];5[i]=5[c];9[i]=9[c];b[i]=b[c];4[c]=Y;5[c]=Z;9[c]=10;b[c]=11}2 x=0;2 r=w.W((4.3-1)*w.X());2 12=r;2 h;2 13=14.1s;1t(x<15){8(5[r]!=13){h="<16 G=\'H-A 1u\'>";h+="<a v=\'"+5[r]+"\' U=\'1v\' I=\'J\' A=\'"+4[r]+"\'><1w 1x=\'"+b[r]+"\' /></a>";h+="<a v=\'"+5[r]+"\' I=\'J\'>"+4[r]+"</a>";h+="<17 G=\'H-18\'>"+9[r]+" ... <a v=\'"+5[r]+"\' I=\'J\'>"+1y+"</a><17 G=\'H-18\'>";h+="</16>";14.1z(h);x++;8(x==15){F}}8(r<4.3-1){r++}C{r=0}8(r==12){F}}}',62,98,'||var|length|reljudul|relurls|entry|cuplik|if|relcuplikan||relgambar|informasi|||new|Array|relhasil||||for|tmp|relnum|tmp2|tmp3|tmp4||function||postcontent|href|Math|rangkumanPosts|return|json|title|in|else|postimg|link|break|class|news|target|_top|saringtags|suchas|panjang|indexOf|substring|feed|content|summary|media|thumbnail|rel|contains|floor|random|tempJudul|tempUrls|tempCuplikan|tempGambar|rini|dirURL|document|relmaxposts|li|span|text|split|join|relpostimgthum|numchars|url|http|lh3|ggpht|com|_xcD4JK_dIjU|SnamIh0KTCI|AAAAAAAADMA|hLjqmEbdtkw|noimagethumb|gif|alternate|true|false|relatpost|URL|while|clearfix|nofollow|img|src|morelink|write'.split('|'),0,{}))
+    //]]></script>
+<script>
+//<![CDATA[
+var relatedTitles=new Array();var relatedTitlesNum=0;var relatedUrls=new Array();function related_results_labels(json){for(var i=0;i<json.feed.entry.length;i++){var entry=json.feed.entry[i];relatedTitles[relatedTitlesNum]=entry.title.$t;for(var k=0;k<entry.link.length;k++){if(entry.link[k].rel=='alternate'){relatedUrls[relatedTitlesNum]=entry.link[k].href;relatedTitlesNum++;break;}}}}
+function removeRelatedDuplicates(){var tmp=new Array(0);var tmp2=new Array(0);for(var i=0;i<relatedUrls.length;i++){if(!contains(tmp,relatedUrls[i])){tmp.length+=1;tmp[tmp.length-1]=relatedUrls[i];tmp2.length+=1;tmp2[tmp2.length-1]=relatedTitles[i];}}
+relatedTitles=tmp2;relatedUrls=tmp;} function contains(a,e){for(var j=0;j<a.length;j++)if(a[j]==e)return true;return false;}
+function printRelatedLabels(){var r=Math.floor((relatedTitles.length-1)*Math.random());var i=0;document.write('<ul>');while(i<relatedTitles.length&&i<20){document.write('<li><a href="'+relatedUrls[r]+'">'+relatedTitles[r]+'</a></li>');if(r<relatedTitles.length-1){r++;}else{r=0;}
+i++;}
+document.write('</ul>');document.write();}//]]>
+</script>
+<style type='text/css'>
+#slide{height:auto}
+#slidepager{width:auto;margin:0 auto;text-align:center;display:block!important}
+#slidepager>span{display:inline-block;width:10px;height:10px;margin:10px 5px 0;background:rgba(0,0,0,.2);text-align:center;border-radius:100%;font-size:17px;text-decoration:none;transition:background .3s linear 0s;cursor:pointer}
+#slidecontent{margin:0 auto;transition:opacity .3s linear 0s;color:#AAA;background:#fff;border:1px solid #dedede;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;position:relative;overflow:hidden;height:auto}
+.slidepanel{width:100%;padding:10px 15px 15px;-moz-box-sizing:border-box;word-wrap:break-word;-webkit-box-sizing:border-box;box-sizing:border-box}
+.slidepanel>h2{text-align:left;font-size:20px;font-weight:bold;line-height:1.2em;color:#333;margin:0 auto 10px;text-transform:capitalize;padding:0!important}
+.slidepanel>p,.slidepanel>span{font-size:14px;font-weight:normal;line-height:1.2em;color:#777;margin:10px 0 0!important}
+.slidepanel a{color:#333;text-decoration:none;font-weight:700;transition:all .4s ease-out}
+#slide:hover .slidepanel a{color:#e8554e}
+.slideimage{width:100%;height:350px;margin:0;padding:0;position:relative}
+.slideimage img{width:100%;height:100%;margin-bottom:-4px}
+.clear{clear:both}
+.bounceInLeft{-webkit-animation-name:bounceInLeft;animation-name:bounceInLeft;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}
+@-webkit-keyframes bounceInLeft{0%,100%,60%,75%,90%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}
+0%{opacity:0;-webkit-transform:translate3d(-3000px,0,0);transform:translate3d(-3000px,0,0)}
+60%{opacity:1;-webkit-transform:translate3d(25px,0,0);transform:translate3d(25px,0,0)}
+75%{-webkit-transform:translate3d(-10px,0,0);transform:translate3d(-10px,0,0)}
+90%{-webkit-transform:translate3d(5px,0,0);transform:translate3d(5px,0,0)}
+100%{-webkit-transform:none;transform:none}
+}
+@keyframes bounceInLeft{0%,100%,60%,75%,90%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}
+0%{opacity:0;-webkit-transform:translate3d(-3000px,0,0);transform:translate3d(-3000px,0,0)}
+60%{opacity:1;-webkit-transform:translate3d(25px,0,0);transform:translate3d(25px,0,0)}
+75%{-webkit-transform:translate3d(-10px,0,0);transform:translate3d(-10px,0,0)}
+90%{-webkit-transform:translate3d(5px,0,0);transform:translate3d(5px,0,0)}
+100%{-webkit-transform:none;transform:none}
+}
+</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type='text/javascript'>
+$(function() {
+$(".set-1").mtabs();                                
+});
+</script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6007621929206793116&amp;zx=94fb093c-a4fe-4603-a802-d236e2dad512' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6007621929206793116&amp;zx=94fb093c-a4fe-4603-a802-d236e2dad512' rel='stylesheet'/></noscript>
+
+<!-- data-ad-client=ca-pub-8403977479497665 -->
+
+</head>
+<body class='loading'>
+<div id='fb-root'></div>
+<script>
+//<![CDATA[
+window.fbAsyncInit = function() {
+FB.init({
+appId : 'YOUR_APPLICATION_ID',
+status : true, // check login status
+cookie : true, // enable cookies to allow the server to access the session
+xfbml : true // parse XFBML
+});
+};
+(function() {
+var e = document.createElement('script');
+e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+e.async = true;
+document.getElementById('fb-root').appendChild(e);
+}());
+//]]>
+</script>
+<div class='navbar no-items section' id='navbar'>
 </div>
-
-    <div id="td-outer-wrap" class="td-theme-wrap">
-    
-                    <div class="td-header-template-wrap" style="position: relative">
-                                    <div class="td-header-mobile-wrap ">
-                        <div id="tdi_1_c0b" class="tdc-zone"><div class="tdc_zone tdi_2_646  wpb_row td-pb-row tdc-element-style" data-sticky-offset="0" >
-<style scoped>
-
-/* custom css */
-.tdi_2_646{
-                    min-height: 0;
-                }.td-header-mobile-sticky-wrap.td-header-active{
-                    opacity: 1;
-                }
-/* inline tdc_css att */
-
-/* phone */
-@media (max-width: 767px)
-{
-.tdi_2_646{
-position:relative;
-}
-}
-
-</style>
-<div class="tdi_1_c0b_rand_style td-element-style" ><style>
-/* phone */
-@media (max-width: 767px)
-{
-.tdi_1_c0b_rand_style{
-background-color:#ffffff !important;
-}
-}
- </style></div><div id="tdi_3_cf6" class="tdc-row"><div class="vc_row tdi_4_670  wpb_row td-pb-row" >
-<style scoped>
-
-/* custom css */
-.tdi_4_670,
-                .tdi_4_670 .tdc-columns{
-                    min-height: 0;
-                }.tdi_4_670,
-				.tdi_4_670 .tdc-columns{
-				    display: block;
-				}.tdi_4_670 .tdc-columns{
-				    width: 100%;
-				}
-/* inline tdc_css att */
-
-/* phone */
-@media (max-width: 767px)
-{
-.tdi_4_670{
-padding-top:4px !important;
-padding-bottom:0px !important;
-}
-}
-
-</style><div class="vc_column tdi_6_665  wpb_column vc_column_container tdc-column td-pb-span12">
-<style scoped>
-
-/* custom css */
-.tdi_6_665{
-                    vertical-align: baseline;
-                }.tdi_6_665 > .wpb_wrapper,
-				.tdi_6_665 > .wpb_wrapper > .tdc-elements{
-				    display: block;
-				}.tdi_6_665 > .wpb_wrapper > .tdc-elements{
-				    width: 100%;
-				}.tdi_6_665 > .wpb_wrapper{
-				    width: auto;
-				    height: auto;
-				}
-
-/* phone */
-@media (max-width: 767px){
-.tdi_6_665{
-                    vertical-align: middle;
-                }
-}
-</style><div class="wpb_wrapper"><div class="td_block_wrap tdb_mobile_menu tdi_7_edd td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_7_edd" >
-<style>
-
-/* inline tdc_css att */
-
-/* phone */
-@media (max-width: 767px)
-{
-.tdi_7_edd{
-margin-top:5px !important;
-margin-right:-7px !important;
-}
-}
-
-</style>
-<style>
-/* custom css */
-.tdi_7_edd{
-                    display: inline-block;
-                
-                    float: right;
-                    clear: none;
-                }.tdi_7_edd .tdb-mobile-menu-button i{
-                    font-size: 27px;
-                
-                    width: 54px;
-					height: 54px;
-					line-height:  54px;
-                }.tdi_7_edd .tdb-mobile-menu-button{
-                    color: #000000;
-                }
-
-/* phone */
-@media (max-width: 767px){
-.tdi_7_edd .tdb-mobile-menu-button i{
-                    font-size: 34px;
-                
-                    width: 40.8px;
-					height: 40.8px;
-					line-height:  40.8px;
-                }
-}
-</style><div class="tdb-block-inner td-fix-index"><a class="tdb-mobile-menu-button" href="#"><i class="tdb-mobile-menu-icon td-icon-menu-medium-square"></i></a></div></div> <!-- ./block --><div class="td_block_wrap tdb_mobile_search tdi_8_966 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_8_966" >
-<style>
-
-/* inline tdc_css att */
-
-/* phone */
-@media (max-width: 767px)
-{
-.tdi_8_966{
-margin-top:2px !important;
-margin-right:6px !important;
-}
-}
-
-</style>
-<style>
-/* custom css */
-.tdi_8_966{
-                    display: inline-block;
-                
-                    float: right;
-                    clear: none;
-                }.tdi_8_966 .tdb-header-search-button-mob i{
-                    font-size: 22px;
-                
-                    width: 55px;
-					height: 55px;
-					line-height:  55px;
-                }.tdi_8_966 .tdb-header-search-button-mob{
-                    color: #000000;
-                }
-
-/* phone */
-@media (max-width: 767px){
-.tdi_8_966 .tdb-header-search-button-mob i{
-                    font-size: 26px;
-                
-                    width: 44.2px;
-					height: 44.2px;
-					line-height:  44.2px;
-                }
-}
-</style><div class="tdb-block-inner td-fix-index"><a class="tdb-header-search-button-mob dropdown-toggle" href="#" role="button" data-toggle="dropdown"><i class="tdb-mobile-search-icon td-icon-magnifier-big-rounded"></i></a></div></div> <!-- ./block --><div class="td_block_wrap tdb_header_logo tdi_9_464 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_9_464" >
-<style>
-
-/* inline tdc_css att */
-
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px)
-{
-.tdi_9_464{
-margin-right:10px !important;
-}
-}
-
-</style>
-<style>
-/* custom css */
-.tdi_9_464{
-                    display: inline-block;
-                }.tdi_9_464 .tdb-logo-a,
-                .tdi_9_464 h1{
-                    align-items: center;
-                
-                    justify-content: flex-start;
-                }.tdi_9_464 .tdb-logo-svg-wrap{
-                    display: block;
-                }.tdi_9_464 .tdb-logo-img{
-                    max-width: 400px;
-                }.tdi_9_464 .tdb-logo-img-wrap{
-                    margin-top: 0px;
-                
-                    margin-bottom: 0px;
-                
-                    margin-right: 20px;
-                
-                    margin-left: 0px;
-                
-                    display: none;
-                }.tdi_9_464 .tdb-logo-img-wrap:first-child{
-                    margin-top: 0;
-                
-                    margin-left: 0;
-                }.tdi_9_464 .tdb-logo-img-wrap:last-child{
-                    margin-bottom: 0;
-                
-                    margin-right: 0;
-                }.tdi_9_464 .tdb-logo-text-tagline{
-                    margin-top: 2px;
-                    margin-left: 0;
-                
-                    display: block;
-                }.tdi_9_464 .tdb-logo-text-title{
-                    display: block;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:120px !important;font-weight:700 !important;letter-spacing:-5px !important;;
-                }.tdi_9_464 .tdb-logo-text-wrap{
-                    flex-direction: column;
-                
-                    align-items: flex-end;
-                }.tdi_9_464 .tdb-logo-icon{
-                    font-size: 30px;
-                
-                    margin-right: 10px;
-                
-                    top: 0px;
-                
-                    display: block;
-                
-                    color: #ffffff;
-                }.tdi_9_464 .tdb-logo-icon:last-child{
-                    margin-right: 0;
-                }
-
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_9_464 .tdb-logo-img{
-                    max-width: 50px;
-                }.tdi_9_464 .tdb-logo-img-wrap{
-                    margin-right: 10px;
-                }.tdi_9_464 .tdb-logo-img-wrap:last-child{
-                    margin-right: 0;
-                }
-}
-
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_9_464 .tdb-logo-img{
-                    max-width: 50px;
-                }.tdi_9_464 .tdb-logo-img-wrap{
-                    margin-right: 10px;
-                }.tdi_9_464 .tdb-logo-img-wrap:last-child{
-                    margin-right: 0;
-                }
-}
-
-/* phone */
-@media (max-width: 767px){
-.tdi_9_464 .tdb-logo-text-title{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:40px !important;font-weight:700 !important;letter-spacing:-2px !important;;
-                }
-}
-</style><div class="tdb-block-inner td-fix-index"><a class="tdb-logo-a" href="https://learniseasy.com/"><span class="tdb-logo-img-wrap"><img class="tdb-logo-img td-retina-data" data-retina="https://learniseasy.com/wp-content/uploads/2018/08/logo-learn-is-easy-one1.png" src="https://learniseasy.com/wp-content/uploads/2018/08/logo-learn-is-easy-one1.png" alt=""  title=""  /></span><span class="tdb-logo-text-wrap"><span class="tdb-logo-text-title">Learn is easy</span></span></a></div></div> <!-- ./block --><div class="wpb_wrapper td_block_separator td_block_wrap vc_separator tdi_11_5d6  td_separator_solid td_separator_align_center"><span style="border-color:#EBEBEB;border-width:1px;width:100%;"></span>
-<style scoped>
-
-/* inline tdc_css att */
-
-.tdi_11_5d6{
-margin-top:5px !important;
-margin-bottom:0px !important;
-padding-bottom:0px !important;
-}
-
-</style></div></div></div></div></div></div></div>                    </div>
-                                    <div class="td-header-mobile-sticky-wrap tdc-zone-sticky-invisible tdc-zone-sticky-inactive" style="display: none">
-                        <div id="tdi_12_444" class="tdc-zone"><div class="tdc_zone tdi_13_733  wpb_row td-pb-row tdc-element-style" data-sticky-offset="0" >
-<style scoped>
-
-/* custom css */
-.tdi_13_733{
-                    min-height: 0;
-                }.td-header-mobile-sticky-wrap.td-header-active{
-                    opacity: 1;
-                }.td-header-mobile-sticky-wrap{
-                    -webkit-transition: all 0.3s ease-in-out;
-                    -moz-transition: all 0.3s ease-in-out;
-                    -o-transition: all 0.3s ease-in-out;
-                    transition: all 0.3s ease-in-out;
-                }
-
-/* phone */
-@media (max-width: 767px){
-.td-header-mobile-sticky-wrap{
-                    transform: translateY(-120%);
-                    -webkit-transform: translateY(-120%);
-                    -moz-transform: translateY(-120%);
-                    -ms-transform: translateY(-120%);
-                    -o-transform: translateY(-120%);
-                }.td-header-mobile-sticky-wrap.td-header-active{
-                    transform: translateY(0);
-                    -webkit-transform: translateY(0);
-                    -moz-transform: translateY(0);
-                    -ms-transform: translateY(0);
-                    -o-transform: translateY(0);
-                }
-}
-/* inline tdc_css att */
-
-/* phone */
-@media (max-width: 767px)
-{
-.tdi_13_733{
-position:relative;
-}
-}
-
-</style>
-<div class="tdi_12_444_rand_style td-element-style" ><style>
-/* phone */
-@media (max-width: 767px)
-{
-.tdi_12_444_rand_style{
-background-color:#ffffff !important;
-}
-}
- </style></div><div id="tdi_14_6ac" class="tdc-row"><div class="vc_row tdi_15_e64  wpb_row td-pb-row" >
-<style scoped>
-
-/* custom css */
-.tdi_15_e64,
-                .tdi_15_e64 .tdc-columns{
-                    min-height: 0;
-                }.tdi_15_e64,
-				.tdi_15_e64 .tdc-columns{
-				    display: block;
-				}.tdi_15_e64 .tdc-columns{
-				    width: 100%;
-				}
-/* inline tdc_css att */
-
-/* phone */
-@media (max-width: 767px)
-{
-.tdi_15_e64{
-padding-top:4px !important;
-padding-bottom:0px !important;
-}
-}
-
-</style><div class="vc_column tdi_17_d4d  wpb_column vc_column_container tdc-column td-pb-span12">
-<style scoped>
-
-/* custom css */
-.tdi_17_d4d{
-                    vertical-align: baseline;
-                }.tdi_17_d4d > .wpb_wrapper,
-				.tdi_17_d4d > .wpb_wrapper > .tdc-elements{
-				    display: block;
-				}.tdi_17_d4d > .wpb_wrapper > .tdc-elements{
-				    width: 100%;
-				}.tdi_17_d4d > .wpb_wrapper{
-				    width: auto;
-				    height: auto;
-				}
-
-/* phone */
-@media (max-width: 767px){
-.tdi_17_d4d{
-                    vertical-align: middle;
-                }
-}
-</style><div class="wpb_wrapper"><div class="td_block_wrap tdb_mobile_menu tdi_18_442 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_18_442" >
-<style>
-
-/* inline tdc_css att */
-
-/* phone */
-@media (max-width: 767px)
-{
-.tdi_18_442{
-margin-top:5px !important;
-margin-right:-7px !important;
-}
-}
-
-</style>
-<style>
-/* custom css */
-.tdi_18_442{
-                    display: inline-block;
-                
-                    float: right;
-                    clear: none;
-                }.tdi_18_442 .tdb-mobile-menu-button i{
-                    font-size: 27px;
-                
-                    width: 54px;
-					height: 54px;
-					line-height:  54px;
-                }.tdi_18_442 .tdb-mobile-menu-button{
-                    color: #000000;
-                }
-
-/* phone */
-@media (max-width: 767px){
-.tdi_18_442 .tdb-mobile-menu-button i{
-                    font-size: 34px;
-                
-                    width: 40.8px;
-					height: 40.8px;
-					line-height:  40.8px;
-                }
-}
-</style><div class="tdb-block-inner td-fix-index"><a class="tdb-mobile-menu-button" href="#"><i class="tdb-mobile-menu-icon td-icon-menu-medium-square"></i></a></div></div> <!-- ./block --><div class="td_block_wrap tdb_mobile_search tdi_19_2e0 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_19_2e0" >
-<style>
-
-/* inline tdc_css att */
-
-/* phone */
-@media (max-width: 767px)
-{
-.tdi_19_2e0{
-margin-top:2px !important;
-margin-right:6px !important;
-}
-}
-
-</style>
-<style>
-/* custom css */
-.tdi_19_2e0{
-                    display: inline-block;
-                
-                    float: right;
-                    clear: none;
-                }.tdi_19_2e0 .tdb-header-search-button-mob i{
-                    font-size: 22px;
-                
-                    width: 55px;
-					height: 55px;
-					line-height:  55px;
-                }.tdi_19_2e0 .tdb-header-search-button-mob{
-                    color: #000000;
-                }
-
-/* phone */
-@media (max-width: 767px){
-.tdi_19_2e0 .tdb-header-search-button-mob i{
-                    font-size: 26px;
-                
-                    width: 44.2px;
-					height: 44.2px;
-					line-height:  44.2px;
-                }
-}
-</style><div class="tdb-block-inner td-fix-index"><a class="tdb-header-search-button-mob dropdown-toggle" href="#" role="button" data-toggle="dropdown"><i class="tdb-mobile-search-icon td-icon-magnifier-big-rounded"></i></a></div></div> <!-- ./block --><div class="td_block_wrap tdb_header_logo tdi_20_f6d td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_20_f6d" >
-<style>
-
-/* inline tdc_css att */
-
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px)
-{
-.tdi_20_f6d{
-margin-right:10px !important;
-}
-}
-
-</style>
-<style>
-/* custom css */
-.tdi_20_f6d{
-                    display: inline-block;
-                }.tdi_20_f6d .tdb-logo-a,
-                .tdi_20_f6d h1{
-                    align-items: center;
-                
-                    justify-content: flex-start;
-                }.tdi_20_f6d .tdb-logo-svg-wrap{
-                    display: block;
-                }.tdi_20_f6d .tdb-logo-img{
-                    max-width: 400px;
-                }.tdi_20_f6d .tdb-logo-img-wrap{
-                    margin-top: 0px;
-                
-                    margin-bottom: 0px;
-                
-                    margin-right: 20px;
-                
-                    margin-left: 0px;
-                
-                    display: none;
-                }.tdi_20_f6d .tdb-logo-img-wrap:first-child{
-                    margin-top: 0;
-                
-                    margin-left: 0;
-                }.tdi_20_f6d .tdb-logo-img-wrap:last-child{
-                    margin-bottom: 0;
-                
-                    margin-right: 0;
-                }.tdi_20_f6d .tdb-logo-text-tagline{
-                    margin-top: 2px;
-                    margin-left: 0;
-                
-                    display: block;
-                }.tdi_20_f6d .tdb-logo-text-title{
-                    display: block;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:120px !important;font-weight:700 !important;letter-spacing:-5px !important;;
-                }.tdi_20_f6d .tdb-logo-text-wrap{
-                    flex-direction: column;
-                
-                    align-items: flex-end;
-                }.tdi_20_f6d .tdb-logo-icon{
-                    font-size: 30px;
-                
-                    margin-right: 10px;
-                
-                    top: 0px;
-                
-                    display: block;
-                
-                    color: #ffffff;
-                }.tdi_20_f6d .tdb-logo-icon:last-child{
-                    margin-right: 0;
-                }
-
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_20_f6d .tdb-logo-img{
-                    max-width: 50px;
-                }.tdi_20_f6d .tdb-logo-img-wrap{
-                    margin-right: 10px;
-                }.tdi_20_f6d .tdb-logo-img-wrap:last-child{
-                    margin-right: 0;
-                }
-}
-
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_20_f6d .tdb-logo-img{
-                    max-width: 50px;
-                }.tdi_20_f6d .tdb-logo-img-wrap{
-                    margin-right: 10px;
-                }.tdi_20_f6d .tdb-logo-img-wrap:last-child{
-                    margin-right: 0;
-                }
-}
-
-/* phone */
-@media (max-width: 767px){
-.tdi_20_f6d .tdb-logo-text-title{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:40px !important;font-weight:700 !important;letter-spacing:-2px !important;;
-                }
-}
-</style><div class="tdb-block-inner td-fix-index"><a class="tdb-logo-a" href="https://learniseasy.com/"><span class="tdb-logo-img-wrap"><img class="tdb-logo-img td-retina-data" data-retina="https://learniseasy.com/wp-content/uploads/2018/08/logo-learn-is-easy-one1.png" src="https://learniseasy.com/wp-content/uploads/2018/08/logo-learn-is-easy-one1.png" alt=""  title=""  /></span><span class="tdb-logo-text-wrap"><span class="tdb-logo-text-title">Culturé</span></span></a></div></div> <!-- ./block --><div class="wpb_wrapper td_block_separator td_block_wrap vc_separator tdi_22_dec  td_separator_solid td_separator_align_center"><span style="border-color:#EBEBEB;border-width:1px;width:100%;"></span>
-<style scoped>
-
-/* inline tdc_css att */
-
-.tdi_22_dec{
-margin-top:5px !important;
-margin-bottom:0px !important;
-padding-bottom:0px !important;
-}
-
-</style></div></div></div></div></div></div></div>                    </div>
-                
-                    <div class="td-header-desktop-wrap ">
-                        <!-- LOGIN MODAL -->
-
-                <div  id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
-                    <div class="td-login-wrap">
-                        <a href="#" class="td-back-button"><i class="td-icon-modal-back"></i></a>
-                        <div id="td-login-div" class="td-login-form-div td-display-block">
-                            <div class="td-login-panel-title">Masuk</div>
-                            <div class="td-login-panel-descr">Selamat Datang! Masuk ke akun Anda</div>
-                            <div class="td_display_err"></div>
-                            <div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email" value="" required><label>nama pengguna</label></div>
-	                        <div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" required><label>kata sandi Anda</label></div>
-                            <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Masuk">
-                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
-                            
-                            
-                            
-                            <div class="td-login-info-text"><a class="privacy-policy-link" href="https://learniseasy.com/privacy-policy/">Privacy Policy</a></div>
-                        </div>
-
-                        
-
-                         <div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
-                            <div class="td-login-panel-title">Pemulihan password</div>
-                            <div class="td-login-panel-descr">Memulihkan kata sandi anda</div>
-                            <div class="td_display_err"></div>
-                            <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required><label>email Anda</label></div>
-                            <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Kirim kata sandi saya">
-                            <div class="td-login-info-text">Sebuah kata sandi akan dikirimkan ke email Anda.</div>
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-                <div id="tdi_23_cce" class="tdc-zone"><div class="tdc_zone tdi_24_0d6  wpb_row td-pb-row tdc-element-style"  >
-<style scoped>
-
-/* custom css */
-.tdi_24_0d6{
-                    min-height: 0;
-                }.td-header-desktop-wrap{
-                    position: relative;
-                }
-/* inline tdc_css att */
-
-.tdi_24_0d6{
-position:relative;
-}
-
-</style>
-<div class="tdi_23_cce_rand_style td-element-style" ><style>
-.tdi_23_cce_rand_style{
-background-color:#ffffff !important;
-}
- </style></div><div id="tdi_25_226" class="tdc-row stretch_row_1400 td-stretch-content"><div class="vc_row tdi_26_e6e  wpb_row td-pb-row" >
-<style scoped>
-
-/* custom css */
-.tdi_26_e6e,
-                .tdi_26_e6e .tdc-columns{
-                    min-height: 0;
-                }.tdi_26_e6e,
-				.tdi_26_e6e .tdc-columns{
-				    display: block;
-				}.tdi_26_e6e .tdc-columns{
-				    width: 100%;
-				}
-</style><div class="vc_column tdi_28_144  wpb_column vc_column_container tdc-column td-pb-span12">
-<style scoped>
-
-/* custom css */
-.tdi_28_144{
-                    vertical-align: baseline;
-                }.tdi_28_144 > .wpb_wrapper,
-				.tdi_28_144 > .wpb_wrapper > .tdc-elements{
-				    display: block;
-				}.tdi_28_144 > .wpb_wrapper > .tdc-elements{
-				    width: 100%;
-				}.tdi_28_144 > .wpb_wrapper{
-				    width: auto;
-				    height: auto;
-				}
-</style><div class="wpb_wrapper"><div class="wpb_wrapper td_block_separator td_block_wrap vc_separator tdi_30_86e  td_separator_solid td_separator_center"><span style="border-color:#000000;border-width:4px;width:100%;"></span>
-<style scoped>
-
-/* inline tdc_css att */
-
-.tdi_30_86e{
-margin-bottom:8px !important;
-padding-bottom:0px !important;
-}
-
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px)
-{
-.tdi_30_86e{
-margin-bottom:6px !important;
-}
-}
-
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px)
-{
-.tdi_30_86e{
-margin-bottom:4px !important;
-}
-}
-
-</style></div>
-
+<!-- wrapper start -->
+<div id='wrapper'>
+<div id='nav-wrap'>
+<nav class='menu'>
+<!-- primary navigation menu start -->
+<ul class='nav-menu'>
+<li><a href='http://www.ilmupena.com/p/data-pribadi-nama-juan-prasetyadi.html'>Profil</a></li>
+<li><a href='http://www.ilmupena.com/p/contact-form.html'>Contact</a></li>
+<li><a href='http://www.ilmupena.com/p/privacy-policy-for-ilmu-pena-if-you.html'>Privacy Policy</a></li>
+<li><a href='http://www.ilmupena.com/p/disclaimer.html'>Disclaimer</a></li>
+<li><a href='http://www.ilmupena.com/p/blog-page.html'>Sitemap</a></li>
+</ul>
+<!-- primary navigation menu end -->
+<!-- social media button start -->
+<ul class='nav-social'>
+<li><a class='fcb' href='https://www.facebook.com/ilmupena/' rel='nofollow'><i class='fa fa-facebook-square fa-2x'></i></a>
+</li>
+<li><a class='gpl' href='https://plus.google.com/u/0/107296725792063761475' rel='nofollow'><i class='fa fa-google-plus-square fa-2x'></i></a>
+</li>
+<li><a class='twt' href='https://twitter.com/JuanPrasetyadi' rel='nofollow'><i class='fa fa-twitter-square fa-2x'></i></a>
+</li>
+<li><a class='ytb' href='#' rel='nofollow'><i class='fa fa-youtube fa-2x'></i></a>
+</li>
+</ul>
+<!-- social media button end -->
+</nav>
+</div>
+<div class='clear'></div>
+<!-- header wrapper start -->
+<header id='header-wrapper'>
+<div class='header section section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+<a href='https://www.ilmupena.com/'>IlmuPena.com</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>
+</span></p>
+</div>
+</div>
+</div></div>
+<div class='header-right section no-items section' id='header-right'></div>
+</header>
+<!-- header wrapper end -->
+<nav id='nav'>
+<a class='toggleMenu' href='#'><i class='fa fa-th-list'></i> Menu</a>
+<!-- secondary navigation menu start -->
+<ul class='nav nav-menu2'>
+<li><a class='active' href='/'><i class='fa fa-home'></i> Home</a></li>
+<li><a href='http://dimanaanginberhembus.blogspot.co.id/search/label/Pidato?max-results=5'>Pidato</a></li>
+<li><a href='https://www.ilmupena.com/search/label/Cerita%20Islami?max-results=5'>Cerita Islami</a></li>
+<li><a href='http://dimanaanginberhembus.blogspot.co.id/search/label/Pembelajaran?max-results=5'>Pembelajaran</a></li>
+<li><a href='#'>Wisata</a></li>
+<li><a href='https://www.ilmupena.com/search/label/Tips?max-results=5'>Tips</a></li>
+</ul>
+<!-- secondary navigation menu end -->
+<form action='/search' id='search-form' method='get' style='display: inline;'><table><tbody><tr><td class='search-box'><input id='search-box' name='q' onblur='if(this.value==&#39;&#39;)this.value=this.defaultValue;' onfocus='if(this.value==this.defaultValue)this.value=&#39;&#39;;' type='text' value='Search...' vinput=''/></td>
+<td class='search-button'><input id='search-button' type='submit' value=''/></td></tr></tbody></table></form>
+</nav>
+<div class='clear'></div>
+<!-- secondary navigation menu end -->
+<!-- content wrapper start -->
+<div id='content-wrapper'>
+<div class='largebanner section no-items section' id='largebanner'>
+</div>
+<!-- post wrapper start -->
+<div id='post-wrapper'>
+<div class='post-container'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+<script async='async' src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<ins class='adsbygoogle' data-ad-client='ca-pub-8403977479497665' data-ad-format='fluid' data-ad-layout-key='-go-2f-51-a2+1jc' data-ad-slot='7815946196' style='display:block'></ins>
 <script>
-
-var tdb_login_sing_in_shortcode="on";
-
+     (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<div class='date-outer'>
+<div class='date-posts'>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://4.bp.blogspot.com/-vuC6z9Y0quI/WiQaDEh2NJI/AAAAAAAADfU/AeD6bsm_a80WeFK-ugh9RTq73T2TIPRRACLcBGAs/s72-c/Capture.JPG' itemprop='image_url'/>
+<meta content='6007621929206793116' itemprop='blogId'/>
+<meta content='5564474417861894328' itemprop='postId'/>
+<a name='5564474417861894328'></a>
+<h3 class='mobile-post-title entry-title' itemprop='name'>
+5 Manfaat Beramal Sholeh
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-info' style='margin-bottom:15px;'>
+<span class='author-info'>
+<i class='fa fa-user'></i>
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/01262553441932162238' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/01262553441932162238' rel='author' title='author profile'>
+<span itemprop='name'>juan</span>
+</a>
+</span>
+</span>
+<meta content='https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html' itemprop='url'/>
+<span class='time-info'>
+<i class='fa fa-calendar'></i>
+<a class='timestamp-link' href='https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html' rel='bookmark' title='permanent link'><abbr class='published updated' itemprop='datePublished' title='2017-12-03T22:37:00+07:00'>10:37 PM</abbr></a>
+</span>
+</div>
+<div class='post-body entry-content' id='post-body-5564474417861894328' itemprop='articleBody'>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , sans-serif;">Setiap manusia
+diciptakan untuk selalu taat kepada Allah SWT dan senantiasa tolong menolong
+antar umat manusia.</span></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , sans-serif;"><br /></span></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , sans-serif;">Sikap saling tolong-menolong sesama umat manusia ini termasuk dalam amalan sholeh. Setiap perbuatan yang baik yang dilakukan oleh seseorang, hendaknya seseorang tersebut tidak mengharapkan balasan atau pamrih dari tolah yang dia tolong.</span></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<br /></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">Seseorang yang
+senantiasa selalu beramal sholeh akan selalu mendapatkan banyak manfaat dari
+amalannya tersebut.</span><br />
+<div class="separator" style="clear: both; text-align: center;">
+<span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;"><a href="https://4.bp.blogspot.com/-vuC6z9Y0quI/WiQaDEh2NJI/AAAAAAAADfU/AeD6bsm_a80WeFK-ugh9RTq73T2TIPRRACLcBGAs/s1600/Capture.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="825" height="262" src="https://4.bp.blogspot.com/-vuC6z9Y0quI/WiQaDEh2NJI/AAAAAAAADfU/AeD6bsm_a80WeFK-ugh9RTq73T2TIPRRACLcBGAs/s640/Capture.JPG" width="640" /></a></span></div>
+</div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">Adapun manfaat bagi
+manusia yang selalu beramal sholeh antara lain :<o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<b><span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">1. Diberi
+ampunan dan pahala dari Allah SWT<o:p></o:p></span></b></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">Manfaat beramal sholeh
+yang pertama adalah akan mendapatkan ampunan dan pahala dari Allah SWT, hal ini
+telah dijelaskan di Al-Qur&#8217;an dalam firmannya pada surat Al-Maidah/ 5 : 9 yang
+artinya adalah &#8220;Allah telah menjanjikan kepada orang-orang yang beriman yang
+mengerjakan amalan sholeh, (bahwa) mereka akan memperoleh ampunan dan pahala
+yang besar&#8221;.<o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<br /></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<b><span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">2. Dihapuskan
+dosa-dosa yang telah diperbuatnya<o:p></o:p></span></b></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">Manfaat beramal sholeh
+yang kedua adalah dihapuskan dosa-dosa yang pernah dia lakukan, hal ini telah
+dijelaskan di dalam Al-Qur&#8217;an pada surat Al-Ankabut/ 29 : 7 yang artinya adalah
+&#8220;dan orang-rang yang beriman dan mengerjakan kebajikan, pasti akan kamu hapuskan
+kesalahan-kesalahannya dan mereka pasti akan kami berikan balasan yang lebih
+baik dari apa yang telah mereka kerjakan&#8221;.<o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<br /></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<b><span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">3. Diberi
+tambahan petunjuk<o:p></o:p></span></b></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">Manfaat beramal sholeh
+yang ketiga adalah diberikan tambahan petunjuk, hal ini telah dijelaskan di
+dalam Al-Qur&#8217;an pada surat Maryam/ 19 : 76 yang artinya adalah &#8220;dan Allah akan
+menambahkan petunjuk kepada mereka yang telah mendapatkan petunjuk, dan amal
+kebajikan yang kekal itu lebih baik pahalanya di sisi Tuhanmu dan lebih baik
+kesudahannya&#8221;.<o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<br /></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<b><span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">4. Dijauhkan
+dari kerugian di dunia dan akhirat<o:p></o:p></span></b></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">Manfaat beramal sholeh
+yang keempat adalah dijauhkan oleh Allah SWT dari segala kerugian di dunia dan
+di akhirat, hal ini telah dijelaskan di dalam Al-Qur&#8217;an pada surat Al-&#8216;Asr/ 103
+: 1 &#8211; 3 yang artinya adalah &#8220;Demi masa. Sesungguhnya manusia berada dalam
+kerugian, kecuali orang-orang yang beriman dan mengerjakan kebajikan serta
+saling menasehati untuk kebenaran dan saling menasehati untuk kesabaran&#8221;.<o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<br /></div>
+<div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
+<b><span style="font-family: &quot;arial&quot; , &quot;sans-serif&quot;;">5. Diberikan
+kehidupan yang baik dan layak<o:p></o:p></span></b></div>
+<span style="font-family: arial, sans-serif; text-align: justify;">Manfaat beramal sholeh
+yang kelima adalah diberikan oleh Allah SWT kehidupan yang baik dan layak, hal
+ini telah dijelaskan di dalam Al&#8217;Qur&#8217;an pada surat An-Nahl/ 16 :97 yang artinya
+adalah &#8220;Siapa mengerjakan kebajikan, baik laki-laki maupun perempuan dalam
+keadaan beriman, maka pasti akan Kami berikan kepadanya kehidupan yang bai dan
+akan Kami berikan balasan dengan pahala yang lebih baik dari apa yang telah
+mereka kerjakan&#8221;.</span>
+<script async='async' src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<ins class='adsbygoogle' data-ad-client='ca-pub-8403977479497665' data-ad-format='autorelaxed' data-ad-slot='2457716610' style='display:block'></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div style='clear: both;'></div>
+<div id='share-buttons-mobile'>
+<p>Share : </p>
+<a href='http://www.facebook.com/sharer.php?u=https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html' rel='nofollow' style='background:#3b5998;'>Facebook</a>
+<a href='http://plus.google.com/share?url=https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html' rel='nofollow' style='background:#c0361a;'>Google+</a>
+<a href='https://twitter.com/intent/tweet?url=https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html&text=5 Manfaat Beramal Sholeh&lang=id' rel='nofollow' style='background:#4099ff;'>Twitter</a>
+<div class='clear'></div>
+</div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h3>
+ 1 Response to "5 Manfaat Beramal Sholeh" 
+</h3>
+<div class='comments-content'>
+<script async='async' src='' type='text/javascript'></script>
+<script type='text/javascript'>
+    (function() {
+      var items = null;
+      var msgs = null;
+      var config = {};
 
-<div class="td_block_wrap tdb_header_user tdi_31_ad4 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_31_ad4" >
-<style>
+// <![CDATA[
+      var cursor = null;
+      if (items && items.length > 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
 
-/* inline tdc_css att */
+      var bodyFromEntry = function(entry) {
+        if (entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '<span class="deleted-comment">' + entry.content.$t + '</span>';
+            }
+          }
+        }
+        return entry.content.$t;
+      }
 
-.tdi_31_ad4{
-margin-left:30px !important;
-}
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data && data.feed && data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author && entry.author.constructor === Array) {
+              var auth = entry.author[0];
 
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px)
-{
-.tdi_31_ad4{
-margin-left:20px !important;
-}
-}
-
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px)
-{
-.tdi_31_ad4{
-margin-left:16px !important;
-}
-}
-
-</style>
-<style>
-/* custom css */
-.tdi_31_ad4{
-                    display: inline-block;
-                
-                    float: right;
-                    clear: none;
-                }.tdi_31_ad4 .tdb-block-inner{
-                    justify-content: flex-end;
-                }.tdi_31_ad4 .tdb-head-usr-avatar{
-                    width: 22px;
-                    padding-bottom: 22px;
-                
-                    margin-right: 10px;
-                
-                    border-radius: 22px;
-                }.tdi_31_ad4 .tdb-head-usr-name{
-                    margin-right: 10px;
-                
-                    color: #000000;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:23px !important;font-weight:700 !important;
-                }.tdi_31_ad4 .tdb-head-usr-log i{
-                    font-size: 12px;
-                
-                    margin-right: 10px;
-                
-                    top: 0px;
-                
-                    color: #000000;
-                }.tdi_31_ad4 .tdb-head-usr-name:hover{
-                    color: #52a580;
-                }.tdi_31_ad4 .tdb-head-usr-log{
-                    color: #000000;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:23px !important;font-weight:300 !important;
-                }.tdi_31_ad4 .tdb-head-usr-log:hover{
-                    color: #52a580;
-                }.tdi_31_ad4 .tdb-head-usr-log:hover i{
-                    color: #52a580;
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid && pid[1]) {
+                  comment.parentId = pid[1];
                 }
-
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_31_ad4 .tdb-head-usr-avatar{
-                    width: 18px;
-                    padding-bottom: 18px;
-                
-                    margin-right: 6px;
-                }.tdi_31_ad4 .tdb-head-usr-name{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:23px !important;font-weight:700 !important;
-                }.tdi_31_ad4 .tdb-head-usr-log{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:23px !important;font-weight:300 !important;
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                } else if (entry.gd$extendedProperty[k].name == 'blogger.displayTime') {
+                  comment.displayTime = entry.gd$extendedProperty[k].value;
                 }
-}
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
 
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_31_ad4 .tdb-head-usr-avatar{
-                    width: 16px;
-                    padding-bottom: 16px;
-                
-                    margin-right: 6px;
-                }.tdi_31_ad4 .tdb-head-usr-name{
-                    margin-right: 2px;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:11px !important;line-height:24px !important;font-weight:700 !important;
-                }.tdi_31_ad4 .tdb-head-usr-log i{
-                    margin-right: 3px;
-                }.tdi_31_ad4 .tdb-head-usr-log{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:11px !important;line-height:24px !important;font-weight:300 !important;
-                }
-}
-</style><div class="tdb-block-inner td-fix-index"><a class="td-login-modal-js tdb-head-usr-item tdb-head-usr-log" href="#login-form" data-effect="mpf-td-login-effect"><span class="tdb-head-usr-log-txt">Sign in / Join</span></a></div></div> <!-- ./block --><div class="td_block_wrap tdb_header_date tdi_33_ddd td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_33_ddd" >
-<style>
-/* custom css */
-.tdi_33_ddd{
-                    display: inline-block;
-                
-                    float: right;
-                    clear: none;
-                }.tdi_33_ddd .tdb-head-date-txt{
-                    color: #000000;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:23px !important;font-weight:300 !important;
-                }
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&v=2&orderby=published&reverse=false&max-results=50';
+          if (cursor) {
+            url += '&published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length < 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              && comment.author.name == config.authorName
+              && comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/delete-comment.g?blogID='
+               + config.blogId + '&postID=' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
 
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_33_ddd .tdb-head-date-txt{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:23px !important;font-weight:300 !important;
-                }
-}
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
 
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_33_ddd .tdb-head-date-txt{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:11px !important;line-height:24px !important;font-weight:300 !important;
-                }
-}
-</style><div class="tdb-block-inner td-fix-index"><div class="tdb-head-date-txt">Rabu, Maret 10, 2021</div></div></div> <!-- ./block --></div></div></div></div><div id="tdi_34_d67" class="tdc-row stretch_row_1400 td-stretch-content"><div class="vc_row tdi_35_dda  wpb_row td-pb-row" >
-<style scoped>
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox && (commentId !== replyParent)) {
+          document.getElementById(domId).insertBefore(replybox.parentNode, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
 
-/* custom css */
-.tdi_35_dda,
-                .tdi_35_dda .tdc-columns{
-                    min-height: 0;
-                }.tdi_35_dda,
-				.tdi_35_dda .tdc-columns{
-				    display: block;
-				}.tdi_35_dda .tdc-columns{
-				    width: 100%;
-				}
-</style><div class="vc_column tdi_37_64d  wpb_column vc_column_container tdc-column td-pb-span12">
-<style scoped>
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
 
-/* custom css */
-.tdi_37_64d{
-                    vertical-align: top;
-                }.tdi_37_64d > .wpb_wrapper,
-				.tdi_37_64d > .wpb_wrapper > .tdc-elements{
-				    display: block;
-				}.tdi_37_64d > .wpb_wrapper > .tdc-elements{
-				    width: 100%;
-				}.tdi_37_64d > .wpb_wrapper{
-				    width: auto;
-				    height: auto;
-				}
-</style><div class="wpb_wrapper"></div></div></div></div><div id="tdi_38_7df" class="tdc-row stretch_row_1400 td-stretch-content"><div class="vc_row tdi_39_066  wpb_row td-pb-row" >
-<style scoped>
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
 
-/* custom css */
-.tdi_39_066,
-                .tdi_39_066 .tdc-columns{
-                    min-height: 0;
-                }.tdi_39_066,
-				.tdi_39_066 .tdc-columns{
-				    display: block;
-				}.tdi_39_066 .tdc-columns{
-				    width: 100%;
-				}
-/* inline tdc_css att */
+      var render = function() {
+        if (window.goog && window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
 
-.tdi_39_066{
-padding-top:6px !important;
-padding-bottom:6px !important;
-}
+      // render now, or queue to render when library loads:
+      if (window.goog && window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]>
+  </script>
+<div id='comment-holder'>
+<div class="comment-thread toplevel-thread"><ol id="top-ra"><li class="comment" id="c3910175667763357146"><div class="avatar-image-container"><img src="//www.blogger.com/img/blogger_logo_round_35.png" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user"><a href="https://www.blogger.com/profile/16170303303825396101" rel="nofollow">Unknown</a></cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html?showComment=1527639386223#c3910175667763357146">May 30, 2018 at 7:16 AM</a></span></div><p class="comment-content">Terimakasih untuk artikelnya, semohga sukses selalu dan silahkan kunjungi web kami<br>http://fauziaherbal.com <br>http://mitoha-goldengamat.com/ <br>http://obatkelenjargetahbening.xyz/ </p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="3910175667763357146">Reply</a><span class="item-control blog-admin blog-admin pid-2025566622"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=6007621929206793116&amp;postID=3910175667763357146">Delete</a></span></span></div><div class="comment-replies"><div id="c3910175667763357146-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Replies</a></span></span><ol id="c3910175667763357146-ra" class="thread-chrome thread-expanded"><div></div><div id="c3910175667763357146-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="3910175667763357146">Reply</a></div></ol></div></div><div class="comment-replybox-single" id="c3910175667763357146-ce"></div></li></ol><div id="top-continue" class="continue"><a class="comment-reply" target="_self">Add comment</a></div><div class="comment-replybox-thread" id="top-ce"></div><div class="loadmore hidden" data-post-id="5564474417861894328"><a target="_self">Load more...</a></div></div>
+</div>
+</div>
+<p class='comment-footer'>
+<div class='comment-form'>
+<a name='comment-form'></a>
+<div class='pesan-komentar'><p>
+</p></div>
+<a href='https://www.blogger.com/comment-iframe.g?blogID=6007621929206793116&postID=5564474417861894328' id='comment-editor-src'></a>
+<iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'></iframe>
+<!--Can't find substitution for tag [post.friendConnectJs]-->
+<script src='https://www.blogger.com/static/v1/jsbin/3858658042-comment_from_post_iframe.js' type='text/javascript'></script>
+<script type='text/javascript'>
+      BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html', '0');
+    </script>
+</div>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+</div>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' onclick='return _WidgetManager._PopupConfig(document.getElementById("Blog1"));' rel='nofollow' target='configBlog1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div>
+</div>
+<div class='blog-pager' id='blog-pager'>
+<div class='mobile-link-button' id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='https://www.ilmupena.com/2017/12/3-syarat-diterimanya-amal-sholeh.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>&lsaquo;</a>
+</div>
+<div class='mobile-link-button' id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://www.ilmupena.com/2017/12/pidato-pentingnya-menjaga-kebersihan.html' id='Blog1_blog-pager-older-link' title='Older Post'>&rsaquo;</a>
+</div>
+<div class='mobile-link-button' id='blog-pager-home-link'>
+<a class='home-link' href='https://www.ilmupena.com/'>Home</a>
+</div>
+<div class='mobile-desktop-link'>
+<a class='home-link' href=''><!--Can't find substitution for tag [desktopLinkMsg]--></a>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML902'>
 
-.tdi_39_066 .td_block_wrap{ text-align:left }
+            <script type='text/javascript'>
+            var disqus_shortname = '
+';
+             (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+              })();
+            </script>
+          
+</div><div class='widget HTML' data-version='1' id='HTML901'>
+<div id='fb-root'></div><script>(function(d, s, id){var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><script>$(".facebook-tab").append("<div class='fb-comments' data-href='https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html' data-width='100%' data-numposts='5' data-colorscheme='light'></div>");</script>
+          
+</div></div>
+<div class='clear'></div>
+</div>
+</div>
+<!-- post wrapper end -->
+<!-- sidebar wrapper start -->
+<!-- sidebar wrapper start -->
+<aside id='sidebar-wrapper'>
+<script type='text/javascript'>
+//<![CDATA[
+// Multi tab widget
+jQuery(document).ready(function($){ $(".multitab-widget-content-widget-id").hide(); $("ul.multitab-widget-content-tabs-id li:first a").addClass("multitab-widget-current").show(); $(".multitab-widget-content-widget-id:first").show(); $("ul.multitab-widget-content-tabs-id li a").click(function() { $("ul.multitab-widget-content-tabs-id li a").removeClass("multitab-widget-current a"); $(this).addClass("multitab-widget-current"); $(".multitab-widget-content-widget-id").hide(); var activeTab = $(this).attr("href"); $(activeTab).fadeIn(); return false; }); });
+//]]>
+</script>
+<div class='multitab-section'>
+<ul class='multitab-widget multitab-widget-content-tabs-id'>
+<li class='multitab-tab'><a href='#multicolumn-widget-id1' title='Popular'><i class='fa fa-star fa-fw'></i>Popular</a></li>
+<li class='multitab-tab'><a href='#multicolumn-widget-id2' title='Label'><i class='fa fa-tags fa-fw'></i>Kategori</a></li>
+<li class='multitab-tab'><a href='#multicolumn-widget-id3' title='Arsip'><i class='fa fa-tasks fa-fw'></i>Arsip</a></li>
+</ul>
+<div class='multitab-widget-content multitab-widget-content-widget-id' id='multicolumn-widget-id1'>
+<div class='sidebar section' id='sidebartab1'><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>Entri Populer</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.ilmupena.com/2018/01/pidato-tentang-motivasi-belajar.html' target='_blank' title='Pidato Tentang Motivasi Belajar Membangun Semangat Belajar Menggapai Prestasi'>
+<img alt='Pidato Tentang Motivasi Belajar Membangun Semangat Belajar Menggapai Prestasi' height='72' src='https://2.bp.blogspot.com/-sXBFeq6pKio/WmYF34wDlnI/AAAAAAAAEFg/oXiBvnDA4qs08IIhVCra01lBZgICW5uWwCLcBGAs/s72-c/Capture%2B%25282%2529.JPG' title='Pidato Tentang Motivasi Belajar Membangun Semangat Belajar Menggapai Prestasi' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.ilmupena.com/2018/01/pidato-tentang-motivasi-belajar.html' title='Pidato Tentang Motivasi Belajar Membangun Semangat Belajar Menggapai Prestasi'>Pidato Tentang Motivasi Belajar Membangun Semangat Belajar Menggapai Prestasi</a></div>
+<div class='item-snippet'> Assalamu&#8217;alaikum Wr. Wb.     Yang saya hormati Bapak/ Ibu Kepala Sekolah   Yang saya hormati Bapak/ Ibu Guru dan Karyawan Sekolah   Dan yan...</div>
+</div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.ilmupena.com/2018/11/pengertian-syajaah-macam-macam-syajaah.html' target='_blank' title='Pengertian Syaja’ah, Macam-Macam Syaja&#39;ah, Ciri-Ciri Sifat Syaja&#39;ah, Contoh Perilaku Syaja&#39;ah dan Hikmahnya.'>
+<img alt='Pengertian Syaja’ah, Macam-Macam Syaja&#39;ah, Ciri-Ciri Sifat Syaja&#39;ah, Contoh Perilaku Syaja&#39;ah dan Hikmahnya.' height='72' src='https://1.bp.blogspot.com/-bR28ZUA4LKo/W_yi0Kj0G1I/AAAAAAAAGDM/i66WNjnj31oxUrkU_HVwU-su8BVdLNQNQCLcBGAs/s72-c/Untitled-1.png' title='Pengertian Syaja’ah, Macam-Macam Syaja&#39;ah, Ciri-Ciri Sifat Syaja&#39;ah, Contoh Perilaku Syaja&#39;ah dan Hikmahnya.' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.ilmupena.com/2018/11/pengertian-syajaah-macam-macam-syajaah.html' title='Pengertian Syaja’ah, Macam-Macam Syaja&#39;ah, Ciri-Ciri Sifat Syaja&#39;ah, Contoh Perilaku Syaja&#39;ah dan Hikmahnya.'>Pengertian Syaja&#8217;ah, Macam-Macam Syaja'ah, Ciri-Ciri Sifat Syaja'ah, Contoh Perilaku Syaja'ah dan Hikmahnya.</a></div>
+<div class='item-snippet'>    Syaja&#8217;ah secara etimologi memiliki arti berani. Sedangkan pengertian syaja&#8217;ah menurut kamus bahasa Arab memiliki arti keberanian atau ke...</div>
+</div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.ilmupena.com/2018/09/contoh-pidato-tentang-pola-hidup-sehat.html' target='_blank' title='Contoh Pidato Tentang Pola Hidup Sehat'>
+<img alt='Contoh Pidato Tentang Pola Hidup Sehat' height='72' src='https://1.bp.blogspot.com/-Y_EpF_bEQJ8/W68lnsr3vfI/AAAAAAAAFzg/cyZQwYRA1vsc0pnrRiw1ZZHwHWBQ8J6CgCLcBGAs/s72-c/Untitled-1.png' title='Contoh Pidato Tentang Pola Hidup Sehat' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.ilmupena.com/2018/09/contoh-pidato-tentang-pola-hidup-sehat.html' title='Contoh Pidato Tentang Pola Hidup Sehat'>Contoh Pidato Tentang Pola Hidup Sehat</a></div>
+<div class='item-snippet'>    Assalamu&#8217;alaikum Wr. Wb.       Yang terhormat Bapak Kepala Sekolah   Yang saya hormati Bapak Ibu Guru serta Karyawan Sekolah   Dan yang ...</div>
+</div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.ilmupena.com/2018/02/pidato-tentang-pentingnya-belajar.html' target='_blank' title='Pidato Tentang Pentingnya Belajar'>
+<img alt='Pidato Tentang Pentingnya Belajar' height='72' src='https://4.bp.blogspot.com/-hQ7wEOZD-iQ/WnneIdY58EI/AAAAAAAAEP8/Lz0uCLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7s/s72-c/Capture.JPG' title='Pidato Tentang Pentingnya Belajar' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.ilmupena.com/2018/02/pidato-tentang-pentingnya-belajar.html' title='Pidato Tentang Pentingnya Belajar'>Pidato Tentang Pentingnya Belajar</a></div>
+<div class='item-snippet'> Assalamu&#8217;alaikum Wr. Wb.     Yang terhormat Bapak/ Ibu Kepala Sekolah   Yang saya hormati Bapak/ Ibu Guru   Yang saya hormati seluruh Karya...</div>
+</div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.ilmupena.com/2018/11/perbedaan-al-quran-dengan-kitab-kitab.html' target='_blank' title='Perbedaan Al-Qur’an dengan Kitab-Kitab Lainnya'>
+<img alt='Perbedaan Al-Qur’an dengan Kitab-Kitab Lainnya' height='72' src='https://2.bp.blogspot.com/-3xe2mBBFMUs/W_-OjNODpgI/AAAAAAAAGDw/0SZgQRFi3dgfSVKpc1B9idTEuN3cBScszNHP9sAs/s72-c/Untitled-1.png' title='Perbedaan Al-Qur’an dengan Kitab-Kitab Lainnya' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.ilmupena.com/2018/11/perbedaan-al-quran-dengan-kitab-kitab.html' title='Perbedaan Al-Qur’an dengan Kitab-Kitab Lainnya'>Perbedaan Al-Qur&#8217;an dengan Kitab-Kitab Lainnya</a></div>
+<div class='item-snippet'> Salah satu dari rukun iman adalah iman kepada kitab-kitab Allah SWT. Iman adalah perbuatan membenarkan di dalam hati, diikrarkan dengan lis...</div>
+</div>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+<div class='multitab-widget-content multitab-widget-content-widget-id' id='multicolumn-widget-id2'>
+<div class='sidebar section' id='sidebartab2'><div class='widget Label' data-version='1' id='Label4'>
+<h2>Labels</h2>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='ltr' href='https://www.ilmupena.com/search/label/Busana?max-results=5'>Busana</a>
+</li>
+<li>
+<a dir='ltr' href='https://www.ilmupena.com/search/label/Cerita%20Islami?max-results=5'>Cerita Islami</a>
+</li>
+<li>
+<a dir='ltr' href='https://www.ilmupena.com/search/label/Pembelajaran?max-results=5'>Pembelajaran</a>
+</li>
+<li>
+<a dir='ltr' href='https://www.ilmupena.com/search/label/Pidato?max-results=5'>Pidato</a>
+</li>
+<li>
+<a dir='ltr' href='https://www.ilmupena.com/search/label/Tips?max-results=5'>Tips</a>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label4"));' rel='nofollow' target='configLabel4' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<div class='multitab-widget-content multitab-widget-content-widget-id' id='multicolumn-widget-id3'>
+<div class='sidebar section' id='sidebartab3'><div class='widget BlogArchive' data-version='1' id='BlogArchive2'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive2_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-</style><div class="vc_column tdi_41_667  wpb_column vc_column_container tdc-column td-pb-span12">
-<style scoped>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2020/'>
+2020
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-/* custom css */
-.tdi_41_667{
-                    vertical-align: baseline;
-                }.tdi_41_667 > .wpb_wrapper,
-				.tdi_41_667 > .wpb_wrapper > .tdc-elements{
-				    display: block;
-				}.tdi_41_667 > .wpb_wrapper > .tdc-elements{
-				    width: 100%;
-				}.tdi_41_667 > .wpb_wrapper{
-				    width: auto;
-				    height: auto;
-				}
-</style><div class="wpb_wrapper"><div class="wpb_wrapper td_block_separator td_block_wrap vc_separator tdi_43_66d  td_separator_solid td_separator_center"><span style="border-color:#EBEBEB;border-width:1px;width:100%;"></span>
-<style scoped>
-
-/* inline tdc_css att */
-
-.tdi_43_66d{
-margin-bottom:8px !important;
-padding-bottom:0px !important;
-}
-
-</style></div><div class="td_block_wrap tdb_header_menu tdi_44_303 tds_menu_active1 tds_menu_sub_active1 tdb-head-menu-inline tdb-mm-align-parent td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_44_303"  style=" z-index: 999;">
-<style>
-/* custom css */
-.tdi_44_303{
-                    display: inline-block;
-                }.tdi_44_303 .tdb-menu > li > a,
-                .tdi_44_303 .td-subcat-more{
-                    padding: 0 10px;
-                }.tdi_44_303 .tdb-menu > li .tdb-menu-sep,
-                .tdi_44_303 .tdb-menu-items-dropdown .tdb-menu-sep{
-                    font-size: 7px;
-                
-                    top: 0px;
-                }.tdi_44_303 .tdb-menu > li > a .tdb-sub-menu-icon,
-                .tdi_44_303 .td-subcat-more .tdb-menu-more-subicon{
-                    font-size: 20px;
-                
-                    margin-left: -5px;
-                
-                    top: 0px;
-                }.tdi_44_303 .td-subcat-more .tdb-menu-more-icon{
-                    top: 0px;
-                }.tdi_44_303 .tdb-menu > li > a,
-                .tdi_44_303 .td-subcat-more,
-                .tdi_44_303 .td-subcat-more > .tdb-menu-item-text{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:18px !important;line-height:52px !important;font-weight:700 !important;text-transform:none !important;
-                }.tdi_44_303 .tdb-normal-menu > ul,
-                .tdi_44_303 .td-pulldown-filter-list{
-                    left: -16px;
-                }.tdi_44_303 .tdb-normal-menu ul ul{
-                    margin-top: -16px;
-                }.tdi_44_303 .tdb-menu .tdb-normal-menu ul,
-                .tdi_44_303 .td-pulldown-filter-list{
-                    padding: 16px 10px;
-                
-                    box-shadow:  0px 1px 3px 0px rgba(0, 0, 0, 0.15);
-                }.tdi_44_303 .tdb-menu .tdb-normal-menu ul .tdb-menu-item > a,
-                .tdi_44_303 .td-pulldown-filter-list li a{
-                    padding: 8px 16px;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;font-weight:700 !important;
-                }.tdi_44_303 .tdb-normal-menu ul .tdb-menu-item > a .tdb-sub-menu-icon{
-                    font-size: 16px;
-                
-                    right: auto;
-                
-                    margin-top: 3px;
-                }.tdi_44_303 .tdb-normal-menu ul .tdb-menu-item > a .tdb-menu-item-text{
-                    margin-right: -3px;
-                
-                    display: inline-block;
-                }.tdi_44_303:not(.tdb-mm-align-screen) .tdb-mega-menu .sub-menu,
-                .tdi_44_303 .tdb-mega-menu .sub-menu > li{
-                    max-width: 500px !important;
-                }.tdi_44_303 .tdb-mega-menu .sub-menu{
-                    left: 0;
-                    transform: none;
-                    -webkit-transform: none;
-                    -moz-transform: none;
-                }.tdi_44_303 .tdb-mega-menu .sub-menu > li{
-                    margin-left: -16px;
-                }.tdi_44_303 .tdb-menu .tdb-mega-menu .sub-menu > li{
-					background-color: #ffffff;
-				
-					box-shadow:  0px 2px 6px 0px rgba(0, 0, 0, 0.1);
-				}@media (max-width: 1018px) {
-                    .tdi_44_303 .td-pulldown-filter-list {
-                        left: auto;
-                        right: -16px;
-                    }
-                }
-
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_44_303 .tdb-menu > li > a,
-                .tdi_44_303 .td-subcat-more{
-                    padding: 0 8px;
-                }.tdi_44_303 .tdb-menu > li > a,
-                .tdi_44_303 .td-subcat-more,
-                .tdi_44_303 .td-subcat-more > .tdb-menu-item-text{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:15px !important;line-height:42px !important;font-weight:700 !important;text-transform:none !important;
-                }.tdi_44_303 .tdb-normal-menu > ul,
-                .tdi_44_303 .td-pulldown-filter-list{
-                    left: -18px;
-                }.tdi_44_303 .tdb-normal-menu ul ul{
-                    margin-top: -10px;
-                }.tdi_44_303 .tdb-menu .tdb-normal-menu ul,
-                .tdi_44_303 .td-pulldown-filter-list{
-                    padding: 10px;
-                }.tdi_44_303 .tdb-menu .tdb-normal-menu ul .tdb-menu-item > a,
-                .tdi_44_303 .td-pulldown-filter-list li a{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:700 !important;
-                }.tdi_44_303:not(.tdb-mm-align-screen) .tdb-mega-menu .sub-menu,
-                .tdi_44_303 .tdb-mega-menu .sub-menu > li{
-                    max-width: 400px !important;
-                }@media (max-width: 1018px) {
-                    .tdi_44_303 .td-pulldown-filter-list {
-                        left: auto;
-                        right: -18px;
-                    }
-                }
-}
-
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_44_303 .tdb-menu > li > a,
-                .tdi_44_303 .td-subcat-more{
-                    padding: 0 6px;
-                }.tdi_44_303 .tdb-menu > li > a,
-                .tdi_44_303 .td-subcat-more,
-                .tdi_44_303 .td-subcat-more > .tdb-menu-item-text{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:42px !important;font-weight:700 !important;text-transform:none !important;
-                }.tdi_44_303 .tdb-normal-menu > ul,
-                .tdi_44_303 .td-pulldown-filter-list{
-                    left: -20px;
-                }.tdi_44_303 .tdb-normal-menu ul ul{
-                    margin-top: -10px;
-                }.tdi_44_303 .tdb-menu .tdb-normal-menu ul,
-                .tdi_44_303 .td-pulldown-filter-list{
-                    padding: 10px;
-                }.tdi_44_303 .tdb-menu .tdb-normal-menu ul .tdb-menu-item > a,
-                .tdi_44_303 .td-pulldown-filter-list li a{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:700 !important;
-                }.tdi_44_303:not(.tdb-mm-align-screen) .tdb-mega-menu .sub-menu,
-                .tdi_44_303 .tdb-mega-menu .sub-menu > li{
-                    max-width: 400px !important;
-                }@media (max-width: 1018px) {
-                    .tdi_44_303 .td-pulldown-filter-list {
-                        left: auto;
-                        right: -20px;
-                    }
-                }
-}
-</style>
-<style>
-.tdi_44_303 .tdb-menu > li.current-menu-item > a,
-				.tdi_44_303 .tdb-menu > li.current-menu-ancestor > a,
-				.tdi_44_303 .tdb-menu > li.current-category-ancestor > a,
-				.tdi_44_303 .tdb-menu > li:hover > a,
-				.tdi_44_303 .tdb-menu > li.tdb-hover > a,
-				.tdi_44_303 .tdb-menu-items-dropdown:hover .td-subcat-more{
-					color: #52a580;
-				}.tdi_44_303 .tdb-menu > li > a:after,
-				.tdi_44_303 .tdb-menu-items-dropdown .td-subcat-more:after{
-					background-color:     ;
-				
-					height: 0px;
-				
-					bottom: 0px;
-				}
-</style>
-<style>
-.tdi_44_303 .tdb-menu ul .tdb-normal-menu.current-menu-item > a,
-				.tdi_44_303 .tdb-menu ul .tdb-normal-menu.current-menu-ancestor > a,
-				.tdi_44_303 .tdb-menu ul .tdb-normal-menu.current-category-ancestor > a,
-				.tdi_44_303 .tdb-menu ul .tdb-normal-menu.tdb-hover > a,
-				.tdi_44_303 .tdb-menu ul .tdb-normal-menu:hover > a,
-				.tdi_44_303 .td-pulldown-filter-list li:hover a{
-					color: #52a580;
-				}
-</style><div id=tdi_44_303 class="td_block_inner td-fix-index"><ul id="menu-up" class="tdb-block-menu tdb-menu tdb-menu-items-visible"><li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home tdb-cur-menu-item menu-item-first tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-73"><a href="http://learniseasy.com"><div class="tdb-menu-item-text">Home</div></a></li>
-<li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-mega-menu tdb-mega-menu-inactive tdb-mega-menu-first menu-item-53"><a href="https://learniseasy.com/category/bahasa-indonesia/"><div class="tdb-menu-item-text">Bahasa Indonesia</div><i class="tdb-sub-menu-icon td-icon-point-round"></i></a>
-<ul class="sub-menu">
-	<li id="menu-item-0" class="menu-item-0"><div class="tdb-menu-item-text"><div class="tdb_header_mega_menu tdi_47_403 td-no-subcats td_with_ajax_pagination td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_47_403" >
-<style>
-/* custom css */
-.tdi_47_403 .block-mega-child-cats{
-					padding: 15px 25px 10px;
-				
-				    width: 100%;
-				}.tdi_47_403 .block-mega-child-cats:after{
-				    border-width: 0 1px 0 0;
-				}.tdi_47_403{
-				    flex-direction: column-reverse;
-				}.tdi_47_403 .block-mega-child-cats:before{
-				    left: 50%;
-				    transform: translateX(-50%);
-				    right: auto;
-				}.tdi_47_403 .block-mega-child-cats a{
-				    display: inline-block;
-				
-					margin-right: 5px;
-					margin-bottom: 5px;
-				
-					padding: 0 3px;
-				
-					color: #ffffff;
-				
-					background: #000000;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_47_403 .block-mega-child-cats a:last-child{
-				    margin-right: 0;
-				}.tdi_47_403 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0;
-					padding-bottom: 0;
-				}.tdi_47_403 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none;
-				}.tdi_47_403 .td_module_wrap{
-					padding-left: 11px;
-					padding-right: 11px;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_47_403 .td_block_inner{
-					margin-left: -11px;
-					margin-right: -11px;
-				}.tdi_47_403 .td-module-container:before{
-					bottom: -12px;
-				
-					border-color: #eaeaea;
-				}.tdi_47_403 .td-module-container{
-				    border-color: #eaeaea;
-				
-					flex-direction: row;
-				
-					background-color: #ffffff;
-				}.tdi_47_403 .entry-thumb{
-					background-position: center 0%;
-				}.tdi_47_403 .td-image-wrap{
-					padding-bottom: 80%;
-				}.tdi_47_403 .td-image-container{
-				 	flex: 0 0 30%;
-				 	width: 30%;
-			    
-                	display: block; order: 0;
-                }.ie10 .tdi_47_403 .td-image-container,
-				.ie11 .tdi_47_403 .td-image-container{
-				 	flex: 0 0 auto;
-			    }.ie10 .tdi_47_403 .td-module-meta-info,
-				.ie11 .tdi_47_403 .td-module-meta-info{
-				 	flex: 1;
-			    }.tdi_47_403 .td-post-vid-time{
-					display: block;
-				}.tdi_47_403 .td-module-meta-info{
-					margin: 0 0 0 20px;
-				
-					padding: 0px;
-				
-					border-color: #eaeaea;
-				}.tdi_47_403 .entry-title{
-					margin: 0 0 2px 0;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:20px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_47_403 .td-excerpt{
-					column-count: 1;
-				
-					column-gap: 48px;
-				
-					display: none;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:300 !important;
-				}.tdi_47_403 .td-audio-player{
-					font-size: 12px;
-				
-					opacity: 1;
-					visibility: visible;
-					height: auto;
-				}.tdi_47_403 .td-post-category{
-					margin: 0 0 7px;
-				
-					padding: 1px 3px;
-				
-					display: inline-block;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_47_403 .td-post-author-name{
-					display: none;
-				}.tdi_47_403 .td-icon-star,
-                .tdi_47_403 .td-icon-star-empty,
-                .tdi_47_403 .td-icon-star-half{
-					font-size: 15px;
-				}.tdi_47_403 .td-module-comments{
-					display: none;
-				}.tdi_47_403 .td-author-photo .avatar{
-				    width: 20px;
-				    height: 20px;
-				
-				    margin-right: 6px;
-				
-				    border-radius: 50%;
-				}.tdi_47_403 .block-mega-child-cats .cur-sub-cat{
-					color: #ffffff;
-				
-					background: #52a580;
-				
-					border-color: rgba(0,0,0,0);
-				}.tdi_47_403 .td-post-category:hover{
-					background-color: #000000 !important;
-				}.tdi_47_403 .td_module_wrap:hover .td-module-title a{
-					color: #52a580 !important;
-				}.tdi_47_403 .td-post-date,
-				.tdi_47_403 .td-post-author-name span{
-					color: #000000;
-				}.tdi_47_403.td_with_ajax_pagination .td-next-prev-wrap a:hover,
-				.tdi_47_403 .td-load-more-wrap a:hover{    
-					background-color: #52a580 !important;
-					border-color: #52a580 !important;
-				
-					border-color: #52a580 !important;
-				}.tdi_47_403 .td-editor-date,
-				.tdi_47_403 .td-editor-date .td-post-author-name,
-				.tdi_47_403 .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:300 !important;
-				}html:not([class*='ie']) .tdi_47_403 .td-module-container:hover .entry-thumb:before{
-                    opacity: 0;
-                }
-
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_47_403 .block-mega-child-cats a{
-					padding: 1px 3px 0;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_47_403 .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_47_403 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_47_403 .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_47_403 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_47_403 .td-module-container:before{
-					bottom: -12px;
-				}.tdi_47_403 .td-post-category{
-					padding: 2px 3px 1px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_47_403 .entry-title{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_47_403 .td-editor-date,
-				.tdi_47_403 .td-editor-date .td-post-author-name,
-				.tdi_47_403 .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}.tdi_47_403 .td-excerpt{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}
-}
-
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_47_403 .block-mega-child-cats a{
-					padding: 1px 3px 0;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_47_403 .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_47_403 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_47_403 .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_47_403 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_47_403 .td-module-container:before{
-					bottom: -12px;
-				}.tdi_47_403 .td-post-category{
-					padding: 2px 3px 1px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_47_403 .entry-title{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_47_403 .td-editor-date,
-				.tdi_47_403 .td-editor-date .td-post-author-name,
-				.tdi_47_403 .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}.tdi_47_403 .td-excerpt{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}
-}
-
-/* phone */
-@media (max-width: 767px){
-.tdi_47_403 .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_47_403 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_47_403 .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_47_403 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_47_403 .td-module-container:before{
-					bottom: -12px;
-				}
-}
-</style><script>var block_tdi_47_403 = new tdBlock();
-block_tdi_47_403.id = "tdi_47_403";
-block_tdi_47_403.atts = '{"mm_align_horiz":"content-horiz-left","modules_on_row_regular":"","modules_on_row_cats":"","image_size":"td_324x400","modules_category":"above","show_excerpt":"none","show_com":"none","show_date":"","show_author":"none","mm_sub_align_horiz":"content-horiz-right","mm_elem_align_horiz":"content-horiz-left","inline":"yes","tds_menu_active1-line_height":"0","menu_id":"2","f_elem_font_family":"fs_2","f_elem_font_weight":"700","f_elem_font_size":"eyJhbGwiOiIxOCIsInBvcnRyYWl0IjoiMTQiLCJsYW5kc2NhcGUiOiIxNSJ9","elem_padd":"eyJhbGwiOiIwIDEwcHgiLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7RyYWl0IjoiMCA2cHgifQ==","tds_menu_active1-text_color_h":"#52a580","mm_align_screen":"parent","f_title_font_family":"fs_2","f_title_font_weight":"700","f_ex_font_family":"fs_2","f_title_font_size":"eyJhbGwiOiIyMCIsInBvcnRyYWl0IjoiMTYiLCJsYW5kc2NhcGUiOiIxNiJ9","image_height":"80","mm_bg":"#ffffff","m_bg":"#ffffff","meta_padding":"0","h_effect":"","meta_info_horiz":"content-horiz-left","f_sub_elem_font_family":"fs_2","f_mm_sub_font_family":"fs_2","mm_elem_color_a":"#ffffff","title_txt_hover":"#52a580","f_sub_elem_font_transform":"","f_sub_elem_font_weight":"700","sub_elem_padd":"8px 16px","mm_elem_bg_a":"#52a580","mm_elem_border_color_a":"rgba(0,0,0,0)","pag_h_bg":"#52a580","pag_h_border":"#52a580","f_elem_font_line_height":"eyJhbGwiOiI1AHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRNQCeaRyYWl0IjoiNDJweCJ9","f_title_font_transform":"","f_mm_sub_font_size":"eyJwb3J0cmFpdCI6IjEyIiwiYWxsIjoiMTQiLCJsYW5kc2NhcGUiOiIxMiJ9","mm_elem_padd":"eyJwb3J0cmFpdCI6IjFweCAzcHggLgjH2m5c8emE66pjdExmgep47BAdKTrCJ77HPEwrJM2Ej2yFNYwwIn0=","mm_sub_padd":"15px 25px 10px","main_sub_icon_space":"-5","f_title_font_line_height":"1.1","sep_icon_size":"7","sep_icon_align":"0","tds_menu_sub_active":"tds_menu_sub_active1","sub_first_left":"eyJhbGwiOiItLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7J0cmFpdCI6Ii0yMCJ9","sub_shadow_shadow_size":"3","sub_shadow_shadow_offset_horizontal":"0","sub_shadow_shadow_offset_vertical":"1","f_elem_font_transform":"none","mm_width":"eyJhbGwiOiI1MDAiLCJsYW5kc2NhcGUiOiI0MDAiLCJwb3J0cmFpdCI6IjQwMCJ9","mm_sub_inline":"yes","mm_posts_limit":"4","image_width":"30","image_floated":"float_left","f_cat_font_family":"fs_2","f_meta_font_family":"fs_2","f_meta_font_weight":"300","f_ex_font_weight":"300","f_cat_font_weight":"700","f_cat_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_meta_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_ex_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","meta_margin":"0 0 0 20px","modules_category_padding":"eyJhbGwiOiIxcHggM1AHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRN47BAdKTrCJ70cmFpdCI6IjJweCAzcHggMXB4In0=","f_cat_font_transform":"uppercase","modules_category_margin":"0 0 7px","show_review":"","all_modules_space":"24","image_alignment":"0","date_txt":"#000000","art_title":"0 0 2px 0","f_sub_elem_font_size":"eyJhbGwiOiIxNiIsImxhbmRzY2FwZSI6IjE0IiwicG9ydHJhaXQiOiIxNCJ9","tds_menu_sub_active1-sub_text_color_h":"#52a580","main_sub_tdicon":"td-icon-point-round","main_sub_icon_size":"20","main_sub_icon_align":"0","sub_rest_top":"eyJhbGwiOiItLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7J0cmFpdCI6Ii0xMCJ9","mm_elem_color":"#ffffff","f_mm_sub_font_weight":"700","f_mm_sub_font_transform":"uppercase","f_mm_sub_font_line_height":"1","mm_elem_space":"5","mm_elem_bg":"#000000","mm_child_cats":"3","f_cat_font_line_height":"1","cat_bg_hover":"#000000","sub_padd":"eyJhbGwiOiIxNnB4IDEwcHgiLCJwb3J0cmFpdCI6IjEwcHgiLCJsYW5kc2NhcGUiOiIxMHB4In0=","sub_tdicon":"td-icon-point-round","sub_icon_size":"16","mm_offset":"-16","sub_icon_pos":"text","sub_icon_align":"3","sub_icon_space":"-3","block_type":"tdb_header_mega_menu","show_subcat":"","show_mega":"","show_mega_cats":"","separator":"","width":"","more":"","float_right":"","align_horiz":"content-horiz-left","elem_space":"","sep_tdicon":"","sep_icon_space":"","more_txt":"","more_tdicon":"","more_icon_size":"","more_icon_align":"0","sub_width":"","sub_align_horiz":"content-horiz-left","sub_elem_inline":"","sub_elem_space":"","sub_elem_radius":"0","mm_content_width":"","mm_height":"","mm_padd":"","mm_subcats_posts_limit":"4","mm_ajax_preloading":"","mm_hide_all_item":"","mm_sub_width":"","mm_sub_border":"","mm_elem_order":"name","mm_elem_border":"","mm_elem_border_a":"","mm_elem_border_rad":"","mc1_tl":"","mc1_el":"","modules_gap":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_divider":"","modules_divider_color":"#eaeaea","image_radius":"","hide_image":"","video_icon":"","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","vid_t_color":"","vid_t_bg_color":"","f_vid_time_font_header":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_width":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","art_audio":"","art_audio_size":"1","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_modified_date":"","review_size":"2.5","excerpt_middle":"","show_audio":"block","hide_audio":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","text_color":"","main_sub_color":"","sep_color":"","more_icon_color":"","tds_menu_active":"tds_menu_active1","hover_opacity":"","f_elem_font_header":"","f_elem_font_title":"Elements text","f_elem_font_settings":"","f_elem_font_style":"","f_elem_font_spacing":"","f_elem_":"","sub_bg_color":"","sub_border_size":"","sub_border_color":"","sub_text_color":"","sub_elem_bg_color":"","sub_color":"","sub_shadow_shadow_header":"","sub_shadow_shadow_title":"Shadow","sub_shadow_shadow_spread":"","sub_shadow_shadow_color":"","f_sub_elem_font_header":"","f_sub_elem_font_title":"Elements text","f_sub_elem_font_settings":"","f_sub_elem_font_line_height":"","f_sub_elem_font_style":"","f_sub_elem_font_spacing":"","f_sub_elem_":"","mm_border_size":"","mm_border_color":"","mm_shadow_shadow_header":"","mm_shadow_shadow_title":"Shadow","mm_shadow_shadow_size":"","mm_shadow_shadow_offset_horizontal":"","mm_shadow_shadow_offset_vertical":"","mm_shadow_shadow_spread":"","mm_shadow_shadow_color":"","mm_subcats_bg":"","mm_subcats_border_color":"","mm_elem_border_color":"","mm_elem_shadow_shadow_header":"","mm_elem_shadow_shadow_title":"Elements shadow","mm_elem_shadow_shadow_size":"","mm_elem_shadow_shadow_offset_horizontal":"","mm_elem_shadow_shadow_offset_vertical":"","mm_elem_shadow_shadow_spread":"","mm_elem_shadow_shadow_color":"","f_mm_sub_font_header":"","f_mm_sub_font_title":"Sub categories elements","f_mm_sub_font_settings":"","f_mm_sub_font_style":"","f_mm_sub_font_spacing":"","f_mm_sub_":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","all_underline_color":"#000","all_underline_height":"","cat_bg":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_border":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_style":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_style":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","el_class":"","block_template_id":"","td_column_number":3,"header_color":"","ajax_pagination_infinite_stop":"","offset":"","limit":"4","td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_filter_default_txt":"","td_ajax_filter_ids":"","color_preset":"","ajax_pagination":"next_prev","border_top":"","css":"","tdc_css_class":"tdi_47_403","tdc_css_class_style":"tdi_47_403_rand_style","category_id":"22","subcats_posts_limit":"4","child_cats_limit":"3","hide_all":"","tdc_css":"","class":"tdi_47_403"}';
-block_tdi_47_403.td_column_number = "3";
-block_tdi_47_403.block_type = "tdb_header_mega_menu";
-block_tdi_47_403.post_count = "4";
-block_tdi_47_403.found_posts = "17";
-block_tdi_47_403.header_color = "";
-block_tdi_47_403.ajax_pagination_infinite_stop = "";
-block_tdi_47_403.max_num_pages = "5";
-tdBlocksArray.push(block_tdi_47_403);
-</script><div class="tdb-mega-modules-wrap"><div id=tdi_47_403 class="td_block_inner">
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/teks-eksposisi-ciri-teks-eksposisi-dan-tujuan-serta-contoh-eksposisi/" rel="bookmark" class="td-image-wrap " title="Teks Eksposisi Ciri Teks Eksposisi dan Tujuan Serta Contoh Eksposisi" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2017/05/teks-eksposisi-dan-soal-teks-eksposisi-dan-ciri-ciri-teks-eksposisi-324x354.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/bahasa-indonesia/" class="td-post-category">Bahasa Indonesia</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/teks-eksposisi-ciri-teks-eksposisi-dan-tujuan-serta-contoh-eksposisi/" rel="bookmark" title="Teks Eksposisi Ciri Teks Eksposisi dan Tujuan Serta Contoh Eksposisi">Teks Eksposisi Ciri Teks Eksposisi dan Tujuan Serta Contoh Eksposisi</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
-
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-06-29T05:00:03+08:00" >Tanggal yang diubah: Juni 29, 2020</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/teks-eksposisi-ciri-teks-eksposisi-dan-tujuan-serta-contoh-eksposisi/#respond">0</a></span>                        </span>
-                    </div>
-
-                    <div class="td-excerpt">Learniseasy.com - Apa itu teks eksposisi ; Ciri ciri teks eksposisi ; Tujuan teks eksposisi ; Cara melengkapi paragraf eksposisi yang rumpang; Contoh teks...</div>
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/makna-rujukan-kata-ganti-tunjuk-dan-kata-ganti-orang/" rel="bookmark" class="td-image-wrap " title="Makna Rujukan : Kata Ganti Tunjuk dan Kata Ganti Orang" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2017/04/makna-rujukan-kata-ganti-orang-dan-kata-ganti-tunjuk-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/bahasa-indonesia/" class="td-post-category">Bahasa Indonesia</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/makna-rujukan-kata-ganti-tunjuk-dan-kata-ganti-orang/" rel="bookmark" title="Makna Rujukan : Kata Ganti Tunjuk dan Kata Ganti Orang">Makna Rujukan : Kata Ganti Tunjuk dan Kata Ganti Orang</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
-
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-06-26T14:08:55+08:00" >Tanggal yang diubah: Juni 26, 2020</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/makna-rujukan-kata-ganti-tunjuk-dan-kata-ganti-orang/#respond">0</a></span>                        </span>
-                    </div>
-
-                    <div class="td-excerpt">Learniseasy.com - Mari belajar Bahasa Indonesia. Kali ini kita akan pelajari makna rujukan. Kata rujukan ada dua yaitu kata ganti tunjuk dan kata ganti...</div>
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/16-contoh-teks-anekdot-beserta-strukturnya/" rel="bookmark" class="td-image-wrap " title="16 Contoh Teks Anekdot Beserta Strukturnya dan Pengertian" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2020/06/contoh-teks-anekdot-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/bahasa-indonesia/" class="td-post-category">Bahasa Indonesia</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/16-contoh-teks-anekdot-beserta-strukturnya/" rel="bookmark" title="16 Contoh Teks Anekdot Beserta Strukturnya dan Pengertian">16 Contoh Teks Anekdot Beserta Strukturnya dan Pengertian</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
-
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2021-01-20T21:14:45+08:00" >Tanggal yang diubah: Januari 20, 2021</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/16-contoh-teks-anekdot-beserta-strukturnya/#respond">0</a></span>                        </span>
-                    </div>
-
-                    <div class="td-excerpt">Apa itu Teks Anekdot?
-Contoh teks anekdot | Contoh karangan teks anekdot dan strukturnya | Teks Anekdot adalah susunan kata kata yang membentuk cerita pendek...</div>
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/pengertian-jenis-ciri-ciri-struktur-dan-contoh-teks-eksposisi/" rel="bookmark" class="td-image-wrap " title="Pengertian, Jenis, Ciri-Ciri, Struktur dan Contoh Teks Eksposisi" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2016/05/TEKS-EKSPOSISI-Pengertian-Struktur-Unsur-Kebahasaan-dan-Contoh-Teks-Eksposisi-Singkat-Ekonomi-dan-Pendidikan.png"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/bahasa-indonesia/" class="td-post-category">Bahasa Indonesia</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/pengertian-jenis-ciri-ciri-struktur-dan-contoh-teks-eksposisi/" rel="bookmark" title="Pengertian, Jenis, Ciri-Ciri, Struktur dan Contoh Teks Eksposisi">Pengertian, Jenis, Ciri-Ciri, Struktur dan Contoh Teks Eksposisi</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
-
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-06-18T13:19:53+08:00" >Tanggal yang diubah: Juni 18, 2020</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/pengertian-jenis-ciri-ciri-struktur-dan-contoh-teks-eksposisi/#respond">0</a></span>                        </span>
-                    </div>
-
-                    <div class="td-excerpt">
-&nbsp;Belajar Teks Eksposisi
-
-
-
-Apa itu Teks Ekposisi? Untuk menjawab pertanyaan ini kita harus mengetahui pengertian teks eksposisi, jenis jenis teks eksposisi, ciri ciri ciri teks...</div>
-                                    </div>
-            </div>
-        </div>
-
-        </div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-tdi_47_403" data-td_block_id="tdi_47_403"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-tdi_47_403" data-td_block_id="tdi_47_403"><i class="td-icon-font td-icon-menu-right"></i></a></div></div></div> <!-- ./block1 --></div></li>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2020/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
 </ul>
 </li>
-<li id="menu-item-57" class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-57"><a href="https://learniseasy.com/category/ilmu-agama/"><div class="tdb-menu-item-text">Ilmu Agama</div></a></li>
-<li id="menu-item-63" class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-63"><a href="https://learniseasy.com/category/sosial/"><div class="tdb-menu-item-text">Sosial</div></a></li>
-<li id="menu-item-70" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent tdb-menu-item-button tdb-menu-item tdb-mega-menu tdb-mega-menu-inactive tdb-mega-menu-cats-first menu-item-70"><a href="https://learniseasy.com/category/teknologi/"><div class="tdb-menu-item-text">Teknologi</div><i class="tdb-sub-menu-icon td-icon-point-round"></i></a>
-<ul class="sub-menu">
-	<li class="menu-item-0"><div class="tdb-menu-item-text"><div class="tdb_header_mega_menu tdi_48_e11 td_with_ajax_pagination td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_48_e11" >
-<style>
-/* custom css */
-.tdi_48_e11 .block-mega-child-cats{
-					padding: 15px 25px 10px;
-				
-				    width: 100%;
-				}.tdi_48_e11 .block-mega-child-cats:after{
-				    border-width: 0 1px 0 0;
-				}.tdi_48_e11{
-				    flex-direction: column-reverse;
-				}.tdi_48_e11 .block-mega-child-cats:before{
-				    left: 50%;
-				    transform: translateX(-50%);
-				    right: auto;
-				}.tdi_48_e11 .block-mega-child-cats a{
-				    display: inline-block;
-				
-					margin-right: 5px;
-					margin-bottom: 5px;
-				
-					padding: 0 3px;
-				
-					color: #ffffff;
-				
-					background: #000000;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_48_e11 .block-mega-child-cats a:last-child{
-				    margin-right: 0;
-				}.tdi_48_e11 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0;
-					padding-bottom: 0;
-				}.tdi_48_e11 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none;
-				}.tdi_48_e11 .td_module_wrap{
-					padding-left: 11px;
-					padding-right: 11px;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_48_e11 .td_block_inner{
-					margin-left: -11px;
-					margin-right: -11px;
-				}.tdi_48_e11 .td-module-container:before{
-					bottom: -12px;
-				
-					border-color: #eaeaea;
-				}.tdi_48_e11 .td-module-container{
-				    border-color: #eaeaea;
-				
-					flex-direction: row;
-				
-					background-color: #ffffff;
-				}.tdi_48_e11 .entry-thumb{
-					background-position: center 0%;
-				}.tdi_48_e11 .td-image-wrap{
-					padding-bottom: 80%;
-				}.tdi_48_e11 .td-image-container{
-				 	flex: 0 0 30%;
-				 	width: 30%;
-			    
-                	display: block; order: 0;
-                }.ie10 .tdi_48_e11 .td-image-container,
-				.ie11 .tdi_48_e11 .td-image-container{
-				 	flex: 0 0 auto;
-			    }.ie10 .tdi_48_e11 .td-module-meta-info,
-				.ie11 .tdi_48_e11 .td-module-meta-info{
-				 	flex: 1;
-			    }.tdi_48_e11 .td-post-vid-time{
-					display: block;
-				}.tdi_48_e11 .td-module-meta-info{
-					margin: 0 0 0 20px;
-				
-					padding: 0px;
-				
-					border-color: #eaeaea;
-				}.tdi_48_e11 .entry-title{
-					margin: 0 0 2px 0;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:20px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_48_e11 .td-excerpt{
-					column-count: 1;
-				
-					column-gap: 48px;
-				
-					display: none;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:300 !important;
-				}.tdi_48_e11 .td-audio-player{
-					font-size: 12px;
-				
-					opacity: 1;
-					visibility: visible;
-					height: auto;
-				}.tdi_48_e11 .td-post-category{
-					margin: 0 0 7px;
-				
-					padding: 1px 3px;
-				
-					display: inline-block;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_48_e11 .td-post-author-name{
-					display: none;
-				}.tdi_48_e11 .td-icon-star,
-                .tdi_48_e11 .td-icon-star-empty,
-                .tdi_48_e11 .td-icon-star-half{
-					font-size: 15px;
-				}.tdi_48_e11 .td-module-comments{
-					display: none;
-				}.tdi_48_e11 .td-author-photo .avatar{
-				    width: 20px;
-				    height: 20px;
-				
-				    margin-right: 6px;
-				
-				    border-radius: 50%;
-				}.tdi_48_e11 .block-mega-child-cats .cur-sub-cat{
-					color: #ffffff;
-				
-					background: #52a580;
-				
-					border-color: rgba(0,0,0,0);
-				}.tdi_48_e11 .td-post-category:hover{
-					background-color: #000000 !important;
-				}.tdi_48_e11 .td_module_wrap:hover .td-module-title a{
-					color: #52a580 !important;
-				}.tdi_48_e11 .td-post-date,
-				.tdi_48_e11 .td-post-author-name span{
-					color: #000000;
-				}.tdi_48_e11.td_with_ajax_pagination .td-next-prev-wrap a:hover,
-				.tdi_48_e11 .td-load-more-wrap a:hover{    
-					background-color: #52a580 !important;
-					border-color: #52a580 !important;
-				
-					border-color: #52a580 !important;
-				}.tdi_48_e11 .td-editor-date,
-				.tdi_48_e11 .td-editor-date .td-post-author-name,
-				.tdi_48_e11 .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:300 !important;
-				}html:not([class*='ie']) .tdi_48_e11 .td-module-container:hover .entry-thumb:before{
-                    opacity: 0;
-                }
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_48_e11 .block-mega-child-cats a{
-					padding: 1px 3px 0;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_48_e11 .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_48_e11 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_48_e11 .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_48_e11 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_48_e11 .td-module-container:before{
-					bottom: -12px;
-				}.tdi_48_e11 .td-post-category{
-					padding: 2px 3px 1px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_48_e11 .entry-title{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_48_e11 .td-editor-date,
-				.tdi_48_e11 .td-editor-date .td-post-author-name,
-				.tdi_48_e11 .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}.tdi_48_e11 .td-excerpt{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}
-}
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2019/'>
+2019
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_48_e11 .block-mega-child-cats a{
-					padding: 1px 3px 0;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_48_e11 .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_48_e11 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_48_e11 .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_48_e11 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_48_e11 .td-module-container:before{
-					bottom: -12px;
-				}.tdi_48_e11 .td-post-category{
-					padding: 2px 3px 1px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_48_e11 .entry-title{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_48_e11 .td-editor-date,
-				.tdi_48_e11 .td-editor-date .td-post-author-name,
-				.tdi_48_e11 .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}.tdi_48_e11 .td-excerpt{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}
-}
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2019/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-/* phone */
-@media (max-width: 767px){
-.tdi_48_e11 .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_48_e11 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_48_e11 .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_48_e11 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_48_e11 .td-module-container:before{
-					bottom: -12px;
-				}
-}
-</style><script>var block_tdi_48_e11 = new tdBlock();
-block_tdi_48_e11.id = "tdi_48_e11";
-block_tdi_48_e11.atts = '{"mm_align_horiz":"content-horiz-left","modules_on_row_regular":"","modules_on_row_cats":"","image_size":"td_324x400","modules_category":"above","show_excerpt":"none","show_com":"none","show_date":"","show_author":"none","mm_sub_align_horiz":"content-horiz-right","mm_elem_align_horiz":"content-horiz-left","inline":"yes","tds_menu_active1-line_height":"0","menu_id":"2","f_elem_font_family":"fs_2","f_elem_font_weight":"700","f_elem_font_size":"eyJhbGwiOiIxOCIsInBvcnRyYWl0IjoiMTQiLCJsYW5kc2NhcGUiOiIxNSJ9","elem_padd":"eyJhbGwiOiIwIDEwcHgiLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7RyYWl0IjoiMCA2cHgifQ==","tds_menu_active1-text_color_h":"#52a580","mm_align_screen":"parent","f_title_font_family":"fs_2","f_title_font_weight":"700","f_ex_font_family":"fs_2","f_title_font_size":"eyJhbGwiOiIyMCIsInBvcnRyYWl0IjoiMTYiLCJsYW5kc2NhcGUiOiIxNiJ9","image_height":"80","mm_bg":"#ffffff","m_bg":"#ffffff","meta_padding":"0","h_effect":"","meta_info_horiz":"content-horiz-left","f_sub_elem_font_family":"fs_2","f_mm_sub_font_family":"fs_2","mm_elem_color_a":"#ffffff","title_txt_hover":"#52a580","f_sub_elem_font_transform":"","f_sub_elem_font_weight":"700","sub_elem_padd":"8px 16px","mm_elem_bg_a":"#52a580","mm_elem_border_color_a":"rgba(0,0,0,0)","pag_h_bg":"#52a580","pag_h_border":"#52a580","f_elem_font_line_height":"eyJhbGwiOiI1AHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRNQCeaRyYWl0IjoiNDJweCJ9","f_title_font_transform":"","f_mm_sub_font_size":"eyJwb3J0cmFpdCI6IjEyIiwiYWxsIjoiMTQiLCJsYW5kc2NhcGUiOiIxMiJ9","mm_elem_padd":"eyJwb3J0cmFpdCI6IjFweCAzcHggLgjH2m5c8emE66pjdExmgep47BAdKTrCJ77HPEwrJM2Ej2yFNYwwIn0=","mm_sub_padd":"15px 25px 10px","main_sub_icon_space":"-5","f_title_font_line_height":"1.1","sep_icon_size":"7","sep_icon_align":"0","tds_menu_sub_active":"tds_menu_sub_active1","sub_first_left":"eyJhbGwiOiItLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7J0cmFpdCI6Ii0yMCJ9","sub_shadow_shadow_size":"3","sub_shadow_shadow_offset_horizontal":"0","sub_shadow_shadow_offset_vertical":"1","f_elem_font_transform":"none","mm_width":"eyJhbGwiOiI1MDAiLCJsYW5kc2NhcGUiOiI0MDAiLCJwb3J0cmFpdCI6IjQwMCJ9","mm_sub_inline":"yes","mm_posts_limit":"4","image_width":"30","image_floated":"float_left","f_cat_font_family":"fs_2","f_meta_font_family":"fs_2","f_meta_font_weight":"300","f_ex_font_weight":"300","f_cat_font_weight":"700","f_cat_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_meta_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_ex_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","meta_margin":"0 0 0 20px","modules_category_padding":"eyJhbGwiOiIxcHggM1AHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRN47BAdKTrCJ70cmFpdCI6IjJweCAzcHggMXB4In0=","f_cat_font_transform":"uppercase","modules_category_margin":"0 0 7px","show_review":"","all_modules_space":"24","image_alignment":"0","date_txt":"#000000","art_title":"0 0 2px 0","f_sub_elem_font_size":"eyJhbGwiOiIxNiIsImxhbmRzY2FwZSI6IjE0IiwicG9ydHJhaXQiOiIxNCJ9","tds_menu_sub_active1-sub_text_color_h":"#52a580","main_sub_tdicon":"td-icon-point-round","main_sub_icon_size":"20","main_sub_icon_align":"0","sub_rest_top":"eyJhbGwiOiItLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7J0cmFpdCI6Ii0xMCJ9","mm_elem_color":"#ffffff","f_mm_sub_font_weight":"700","f_mm_sub_font_transform":"uppercase","f_mm_sub_font_line_height":"1","mm_elem_space":"5","mm_elem_bg":"#000000","mm_child_cats":"3","f_cat_font_line_height":"1","cat_bg_hover":"#000000","sub_padd":"eyJhbGwiOiIxNnB4IDEwcHgiLCJwb3J0cmFpdCI6IjEwcHgiLCJsYW5kc2NhcGUiOiIxMHB4In0=","sub_tdicon":"td-icon-point-round","sub_icon_size":"16","mm_offset":"-16","sub_icon_pos":"text","sub_icon_align":"3","sub_icon_space":"-3","block_type":"tdb_header_mega_menu","show_subcat":"","show_mega":"","show_mega_cats":"","separator":"","width":"","more":"","float_right":"","align_horiz":"content-horiz-left","elem_space":"","sep_tdicon":"","sep_icon_space":"","more_txt":"","more_tdicon":"","more_icon_size":"","more_icon_align":"0","sub_width":"","sub_align_horiz":"content-horiz-left","sub_elem_inline":"","sub_elem_space":"","sub_elem_radius":"0","mm_content_width":"","mm_height":"","mm_padd":"","mm_subcats_posts_limit":"4","mm_ajax_preloading":"","mm_hide_all_item":"","mm_sub_width":"","mm_sub_border":"","mm_elem_order":"name","mm_elem_border":"","mm_elem_border_a":"","mm_elem_border_rad":"","mc1_tl":"","mc1_el":"","modules_gap":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_divider":"","modules_divider_color":"#eaeaea","image_radius":"","hide_image":"","video_icon":"","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","vid_t_color":"","vid_t_bg_color":"","f_vid_time_font_header":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_width":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","art_audio":"","art_audio_size":"1","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_modified_date":"","review_size":"2.5","excerpt_middle":"","show_audio":"block","hide_audio":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","text_color":"","main_sub_color":"","sep_color":"","more_icon_color":"","tds_menu_active":"tds_menu_active1","hover_opacity":"","f_elem_font_header":"","f_elem_font_title":"Elements text","f_elem_font_settings":"","f_elem_font_style":"","f_elem_font_spacing":"","f_elem_":"","sub_bg_color":"","sub_border_size":"","sub_border_color":"","sub_text_color":"","sub_elem_bg_color":"","sub_color":"","sub_shadow_shadow_header":"","sub_shadow_shadow_title":"Shadow","sub_shadow_shadow_spread":"","sub_shadow_shadow_color":"","f_sub_elem_font_header":"","f_sub_elem_font_title":"Elements text","f_sub_elem_font_settings":"","f_sub_elem_font_line_height":"","f_sub_elem_font_style":"","f_sub_elem_font_spacing":"","f_sub_elem_":"","mm_border_size":"","mm_border_color":"","mm_shadow_shadow_header":"","mm_shadow_shadow_title":"Shadow","mm_shadow_shadow_size":"","mm_shadow_shadow_offset_horizontal":"","mm_shadow_shadow_offset_vertical":"","mm_shadow_shadow_spread":"","mm_shadow_shadow_color":"","mm_subcats_bg":"","mm_subcats_border_color":"","mm_elem_border_color":"","mm_elem_shadow_shadow_header":"","mm_elem_shadow_shadow_title":"Elements shadow","mm_elem_shadow_shadow_size":"","mm_elem_shadow_shadow_offset_horizontal":"","mm_elem_shadow_shadow_offset_vertical":"","mm_elem_shadow_shadow_spread":"","mm_elem_shadow_shadow_color":"","f_mm_sub_font_header":"","f_mm_sub_font_title":"Sub categories elements","f_mm_sub_font_settings":"","f_mm_sub_font_style":"","f_mm_sub_font_spacing":"","f_mm_sub_":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","all_underline_color":"#000","all_underline_height":"","cat_bg":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_border":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_style":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_style":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","el_class":"","block_template_id":"","td_column_number":3,"header_color":"","ajax_pagination_infinite_stop":"","offset":"","limit":"4","td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_filter_default_txt":"","td_ajax_filter_ids":"","color_preset":"","ajax_pagination":"next_prev","border_top":"","css":"","tdc_css_class":"tdi_48_e11","tdc_css_class_style":"tdi_48_e11_rand_style","category_id":"19","subcats_posts_limit":"4","child_cats_limit":"3","hide_all":"","tdc_css":"","class":"tdi_48_e11"}';
-block_tdi_48_e11.td_column_number = "3";
-block_tdi_48_e11.block_type = "tdb_header_mega_menu";
-block_tdi_48_e11.post_count = "4";
-block_tdi_48_e11.found_posts = "9";
-block_tdi_48_e11.header_color = "";
-block_tdi_48_e11.ajax_pagination_infinite_stop = "";
-block_tdi_48_e11.max_num_pages = "3";
-tdBlocksArray.push(block_tdi_48_e11);
-</script><div class="block-mega-child-cats"><a 
-                        class="cur-sub-cat mega-menu-sub-cat-tdi_48_e11" 
-                        id="tdi_49_d00" 
-                        data-td_block_id="tdi_48_e11" 
-                        data-td_filter_value="" 
-                        href="https://learniseasy.com/category/teknologi/"
-                    >Semua</a><a 
-                        class="mega-menu-sub-cat-tdi_48_e11" 
-                        id="tdi_50_9c0" 
-                        data-td_block_id="tdi_48_e11" 
-                        data-td_filter_value="125" 
-                        href="https://learniseasy.com/category/teknologi/game/"
-                    >game</a><a 
-                        class="mega-menu-sub-cat-tdi_48_e11" 
-                        id="tdi_51_60d" 
-                        data-td_block_id="tdi_48_e11" 
-                        data-td_filter_value="20" 
-                        href="https://learniseasy.com/category/teknologi/internet/"
-                    >Internet</a></div><div class="tdb-mega-modules-wrap"><div id=tdi_48_e11 class="td_block_inner">
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/" rel="bookmark" class="td-image-wrap " title="10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/teknologi/internet/" class="td-post-category">Internet</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/" rel="bookmark" title="10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi">10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2019/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-06-22T10:04:04+08:00" >Tanggal yang diubah: Juni 22, 2020</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#respond">0</a></span>                        </span>
-                    </div>
-
-                    <div class="td-excerpt">Learniseasy.com - Cara Memperbanyak Followers Instagram tanpa aplikasi | Cara menambah followers instagram tanpa aplikasi dan dengan aplikasi instafollow | Cara menambah followers instagram...</div>
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/belajar-cara-bermain-game-pokemon-go-di-smartphone/" rel="bookmark" class="td-image-wrap " title="Belajar Cara  Bermain Game Pokemon Go Di Smartphone" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2016/07/pokemon-go-bermain-pokemon-go-SMALL.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/teknologi/game/" class="td-post-category">game</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/belajar-cara-bermain-game-pokemon-go-di-smartphone/" rel="bookmark" title="Belajar Cara  Bermain Game Pokemon Go Di Smartphone">Belajar Cara  Bermain Game Pokemon Go Di Smartphone</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
-
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-06-14T23:22:00+08:00" >Tanggal yang diubah: Juni 14, 2020</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/belajar-cara-bermain-game-pokemon-go-di-smartphone/#respond">0</a></span>                        </span>
-                    </div>
-
-                    <div class="td-excerpt">Belajar Cara Main Game Pokemon GO
-Game pokemon go sekarang ini sedang trend. Banyak yang mencoba untuk mengunduh game pokemon go di smartphone mereka. Anda...</div>
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/apa-itu-game-pokemon-go-dowload-pokemon-go/" rel="bookmark" class="td-image-wrap " title="Apa itu Game Pokemon Go: Dowload Pokemon Go" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2016/07/pokemon-go-bermain-pokemon-go-SMALL-1.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/teknologi/game/" class="td-post-category">game</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/apa-itu-game-pokemon-go-dowload-pokemon-go/" rel="bookmark" title="Apa itu Game Pokemon Go: Dowload Pokemon Go">Apa itu Game Pokemon Go: Dowload Pokemon Go</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
-
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-06-14T14:31:04+08:00" >Tanggal yang diubah: Juni 14, 2020</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/apa-itu-game-pokemon-go-dowload-pokemon-go/#comments">2</a></span>                        </span>
-                    </div>
-
-                    <div class="td-excerpt">Apa Itu Pokemon Go
-Apa itu pokemon go | Apa itu game pokemon go | Ayo main pokemon go. Bila anda capek belajar dan butuh...</div>
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/cara-membuat-blog-setting-basic-di-blogger/" rel="bookmark" class="td-image-wrap " title="Cara Membuat Blog: Setting Basic di Blogger" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2015/01/cara-pengaturan-dasar-di-blog-1-324x315.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/teknologi/internet/" class="td-post-category">Internet</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/cara-membuat-blog-setting-basic-di-blogger/" rel="bookmark" title="Cara Membuat Blog: Setting Basic di Blogger">Cara Membuat Blog: Setting Basic di Blogger</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
-
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-06-03T11:31:10+08:00" >Tanggal yang diubah: Juni 3, 2020</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/cara-membuat-blog-setting-basic-di-blogger/#respond">0</a></span>                        </span>
-                    </div>
-
-                    <div class="td-excerpt">Caramembuatpraktis| Kali ini, akan dijelaskan tentang kelanjutan dari cara membuat blog di blogger, yaitu  setting atau pengaturan basic atau dasar di blogger dashboard. Untuk...</div>
-                                    </div>
-            </div>
-        </div>
-
-        </div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-tdi_48_e11" data-td_block_id="tdi_48_e11"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-tdi_48_e11" data-td_block_id="tdi_48_e11"><i class="td-icon-font td-icon-menu-right"></i></a></div></div></div> <!-- ./block1 --></div></li>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2019/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
 </ul>
 </li>
-<li id="menu-item-5800" class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-mega-menu tdb-mega-menu-inactive menu-item-5800"><a href="https://learniseasy.com/category/biologi/"><div class="tdb-menu-item-text">Biologi</div><i class="tdb-sub-menu-icon td-icon-point-round"></i></a>
-<ul class="sub-menu">
-	<li class="menu-item-0"><div class="tdb-menu-item-text"><div class="tdb_header_mega_menu tdi_52_0ce td_with_ajax_pagination td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_52_0ce" >
-<style>
-/* custom css */
-.tdi_52_0ce .block-mega-child-cats{
-					padding: 15px 25px 10px;
-				
-				    width: 100%;
-				}.tdi_52_0ce .block-mega-child-cats:after{
-				    border-width: 0 1px 0 0;
-				}.tdi_52_0ce{
-				    flex-direction: column-reverse;
-				}.tdi_52_0ce .block-mega-child-cats:before{
-				    left: 50%;
-				    transform: translateX(-50%);
-				    right: auto;
-				}.tdi_52_0ce .block-mega-child-cats a{
-				    display: inline-block;
-				
-					margin-right: 5px;
-					margin-bottom: 5px;
-				
-					padding: 0 3px;
-				
-					color: #ffffff;
-				
-					background: #000000;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_52_0ce .block-mega-child-cats a:last-child{
-				    margin-right: 0;
-				}.tdi_52_0ce .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0;
-					padding-bottom: 0;
-				}.tdi_52_0ce .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none;
-				}.tdi_52_0ce .td_module_wrap{
-					padding-left: 11px;
-					padding-right: 11px;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_52_0ce .td_block_inner{
-					margin-left: -11px;
-					margin-right: -11px;
-				}.tdi_52_0ce .td-module-container:before{
-					bottom: -12px;
-				
-					border-color: #eaeaea;
-				}.tdi_52_0ce .td-module-container{
-				    border-color: #eaeaea;
-				
-					flex-direction: row;
-				
-					background-color: #ffffff;
-				}.tdi_52_0ce .entry-thumb{
-					background-position: center 0%;
-				}.tdi_52_0ce .td-image-wrap{
-					padding-bottom: 80%;
-				}.tdi_52_0ce .td-image-container{
-				 	flex: 0 0 30%;
-				 	width: 30%;
-			    
-                	display: block; order: 0;
-                }.ie10 .tdi_52_0ce .td-image-container,
-				.ie11 .tdi_52_0ce .td-image-container{
-				 	flex: 0 0 auto;
-			    }.ie10 .tdi_52_0ce .td-module-meta-info,
-				.ie11 .tdi_52_0ce .td-module-meta-info{
-				 	flex: 1;
-			    }.tdi_52_0ce .td-post-vid-time{
-					display: block;
-				}.tdi_52_0ce .td-module-meta-info{
-					margin: 0 0 0 20px;
-				
-					padding: 0px;
-				
-					border-color: #eaeaea;
-				}.tdi_52_0ce .entry-title{
-					margin: 0 0 2px 0;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:20px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_52_0ce .td-excerpt{
-					column-count: 1;
-				
-					column-gap: 48px;
-				
-					display: none;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:300 !important;
-				}.tdi_52_0ce .td-audio-player{
-					font-size: 12px;
-				
-					opacity: 1;
-					visibility: visible;
-					height: auto;
-				}.tdi_52_0ce .td-post-category{
-					margin: 0 0 7px;
-				
-					padding: 1px 3px;
-				
-					display: inline-block;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_52_0ce .td-post-author-name{
-					display: none;
-				}.tdi_52_0ce .td-icon-star,
-                .tdi_52_0ce .td-icon-star-empty,
-                .tdi_52_0ce .td-icon-star-half{
-					font-size: 15px;
-				}.tdi_52_0ce .td-module-comments{
-					display: none;
-				}.tdi_52_0ce .td-author-photo .avatar{
-				    width: 20px;
-				    height: 20px;
-				
-				    margin-right: 6px;
-				
-				    border-radius: 50%;
-				}.tdi_52_0ce .block-mega-child-cats .cur-sub-cat{
-					color: #ffffff;
-				
-					background: #52a580;
-				
-					border-color: rgba(0,0,0,0);
-				}.tdi_52_0ce .td-post-category:hover{
-					background-color: #000000 !important;
-				}.tdi_52_0ce .td_module_wrap:hover .td-module-title a{
-					color: #52a580 !important;
-				}.tdi_52_0ce .td-post-date,
-				.tdi_52_0ce .td-post-author-name span{
-					color: #000000;
-				}.tdi_52_0ce.td_with_ajax_pagination .td-next-prev-wrap a:hover,
-				.tdi_52_0ce .td-load-more-wrap a:hover{    
-					background-color: #52a580 !important;
-					border-color: #52a580 !important;
-				
-					border-color: #52a580 !important;
-				}.tdi_52_0ce .td-editor-date,
-				.tdi_52_0ce .td-editor-date .td-post-author-name,
-				.tdi_52_0ce .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:300 !important;
-				}html:not([class*='ie']) .tdi_52_0ce .td-module-container:hover .entry-thumb:before{
-                    opacity: 0;
-                }
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_52_0ce .block-mega-child-cats a{
-					padding: 1px 3px 0;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_52_0ce .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_52_0ce .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_52_0ce .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_52_0ce .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_52_0ce .td-module-container:before{
-					bottom: -12px;
-				}.tdi_52_0ce .td-post-category{
-					padding: 2px 3px 1px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_52_0ce .entry-title{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_52_0ce .td-editor-date,
-				.tdi_52_0ce .td-editor-date .td-post-author-name,
-				.tdi_52_0ce .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}.tdi_52_0ce .td-excerpt{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}
-}
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/'>
+2018
+</a>
+<span class='post-count' dir='ltr'>(72)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_52_0ce .block-mega-child-cats a{
-					padding: 1px 3px 0;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_52_0ce .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_52_0ce .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_52_0ce .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_52_0ce .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_52_0ce .td-module-container:before{
-					bottom: -12px;
-				}.tdi_52_0ce .td-post-category{
-					padding: 2px 3px 1px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_52_0ce .entry-title{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_52_0ce .td-editor-date,
-				.tdi_52_0ce .td-editor-date .td-post-author-name,
-				.tdi_52_0ce .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}.tdi_52_0ce .td-excerpt{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}
-}
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-/* phone */
-@media (max-width: 767px){
-.tdi_52_0ce .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_52_0ce .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_52_0ce .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_52_0ce .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_52_0ce .td-module-container:before{
-					bottom: -12px;
-				}
-}
-</style><script>var block_tdi_52_0ce = new tdBlock();
-block_tdi_52_0ce.id = "tdi_52_0ce";
-block_tdi_52_0ce.atts = '{"mm_align_horiz":"content-horiz-left","modules_on_row_regular":"","modules_on_row_cats":"","image_size":"td_324x400","modules_category":"above","show_excerpt":"none","show_com":"none","show_date":"","show_author":"none","mm_sub_align_horiz":"content-horiz-right","mm_elem_align_horiz":"content-horiz-left","inline":"yes","tds_menu_active1-line_height":"0","menu_id":"2","f_elem_font_family":"fs_2","f_elem_font_weight":"700","f_elem_font_size":"eyJhbGwiOiIxOCIsInBvcnRyYWl0IjoiMTQiLCJsYW5kc2NhcGUiOiIxNSJ9","elem_padd":"eyJhbGwiOiIwIDEwcHgiLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7RyYWl0IjoiMCA2cHgifQ==","tds_menu_active1-text_color_h":"#52a580","mm_align_screen":"parent","f_title_font_family":"fs_2","f_title_font_weight":"700","f_ex_font_family":"fs_2","f_title_font_size":"eyJhbGwiOiIyMCIsInBvcnRyYWl0IjoiMTYiLCJsYW5kc2NhcGUiOiIxNiJ9","image_height":"80","mm_bg":"#ffffff","m_bg":"#ffffff","meta_padding":"0","h_effect":"","meta_info_horiz":"content-horiz-left","f_sub_elem_font_family":"fs_2","f_mm_sub_font_family":"fs_2","mm_elem_color_a":"#ffffff","title_txt_hover":"#52a580","f_sub_elem_font_transform":"","f_sub_elem_font_weight":"700","sub_elem_padd":"8px 16px","mm_elem_bg_a":"#52a580","mm_elem_border_color_a":"rgba(0,0,0,0)","pag_h_bg":"#52a580","pag_h_border":"#52a580","f_elem_font_line_height":"eyJhbGwiOiI1AHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRNQCeaRyYWl0IjoiNDJweCJ9","f_title_font_transform":"","f_mm_sub_font_size":"eyJwb3J0cmFpdCI6IjEyIiwiYWxsIjoiMTQiLCJsYW5kc2NhcGUiOiIxMiJ9","mm_elem_padd":"eyJwb3J0cmFpdCI6IjFweCAzcHggLgjH2m5c8emE66pjdExmgep47BAdKTrCJ77HPEwrJM2Ej2yFNYwwIn0=","mm_sub_padd":"15px 25px 10px","main_sub_icon_space":"-5","f_title_font_line_height":"1.1","sep_icon_size":"7","sep_icon_align":"0","tds_menu_sub_active":"tds_menu_sub_active1","sub_first_left":"eyJhbGwiOiItLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7J0cmFpdCI6Ii0yMCJ9","sub_shadow_shadow_size":"3","sub_shadow_shadow_offset_horizontal":"0","sub_shadow_shadow_offset_vertical":"1","f_elem_font_transform":"none","mm_width":"eyJhbGwiOiI1MDAiLCJsYW5kc2NhcGUiOiI0MDAiLCJwb3J0cmFpdCI6IjQwMCJ9","mm_sub_inline":"yes","mm_posts_limit":"4","image_width":"30","image_floated":"float_left","f_cat_font_family":"fs_2","f_meta_font_family":"fs_2","f_meta_font_weight":"300","f_ex_font_weight":"300","f_cat_font_weight":"700","f_cat_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_meta_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_ex_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","meta_margin":"0 0 0 20px","modules_category_padding":"eyJhbGwiOiIxcHggM1AHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRN47BAdKTrCJ70cmFpdCI6IjJweCAzcHggMXB4In0=","f_cat_font_transform":"uppercase","modules_category_margin":"0 0 7px","show_review":"","all_modules_space":"24","image_alignment":"0","date_txt":"#000000","art_title":"0 0 2px 0","f_sub_elem_font_size":"eyJhbGwiOiIxNiIsImxhbmRzY2FwZSI6IjE0IiwicG9ydHJhaXQiOiIxNCJ9","tds_menu_sub_active1-sub_text_color_h":"#52a580","main_sub_tdicon":"td-icon-point-round","main_sub_icon_size":"20","main_sub_icon_align":"0","sub_rest_top":"eyJhbGwiOiItLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7J0cmFpdCI6Ii0xMCJ9","mm_elem_color":"#ffffff","f_mm_sub_font_weight":"700","f_mm_sub_font_transform":"uppercase","f_mm_sub_font_line_height":"1","mm_elem_space":"5","mm_elem_bg":"#000000","mm_child_cats":"3","f_cat_font_line_height":"1","cat_bg_hover":"#000000","sub_padd":"eyJhbGwiOiIxNnB4IDEwcHgiLCJwb3J0cmFpdCI6IjEwcHgiLCJsYW5kc2NhcGUiOiIxMHB4In0=","sub_tdicon":"td-icon-point-round","sub_icon_size":"16","mm_offset":"-16","sub_icon_pos":"text","sub_icon_align":"3","sub_icon_space":"-3","block_type":"tdb_header_mega_menu","show_subcat":"","show_mega":"","show_mega_cats":"","separator":"","width":"","more":"","float_right":"","align_horiz":"content-horiz-left","elem_space":"","sep_tdicon":"","sep_icon_space":"","more_txt":"","more_tdicon":"","more_icon_size":"","more_icon_align":"0","sub_width":"","sub_align_horiz":"content-horiz-left","sub_elem_inline":"","sub_elem_space":"","sub_elem_radius":"0","mm_content_width":"","mm_height":"","mm_padd":"","mm_subcats_posts_limit":"4","mm_ajax_preloading":"","mm_hide_all_item":"","mm_sub_width":"","mm_sub_border":"","mm_elem_order":"name","mm_elem_border":"","mm_elem_border_a":"","mm_elem_border_rad":"","mc1_tl":"","mc1_el":"","modules_gap":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_divider":"","modules_divider_color":"#eaeaea","image_radius":"","hide_image":"","video_icon":"","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","vid_t_color":"","vid_t_bg_color":"","f_vid_time_font_header":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_width":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","art_audio":"","art_audio_size":"1","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_modified_date":"","review_size":"2.5","excerpt_middle":"","show_audio":"block","hide_audio":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","text_color":"","main_sub_color":"","sep_color":"","more_icon_color":"","tds_menu_active":"tds_menu_active1","hover_opacity":"","f_elem_font_header":"","f_elem_font_title":"Elements text","f_elem_font_settings":"","f_elem_font_style":"","f_elem_font_spacing":"","f_elem_":"","sub_bg_color":"","sub_border_size":"","sub_border_color":"","sub_text_color":"","sub_elem_bg_color":"","sub_color":"","sub_shadow_shadow_header":"","sub_shadow_shadow_title":"Shadow","sub_shadow_shadow_spread":"","sub_shadow_shadow_color":"","f_sub_elem_font_header":"","f_sub_elem_font_title":"Elements text","f_sub_elem_font_settings":"","f_sub_elem_font_line_height":"","f_sub_elem_font_style":"","f_sub_elem_font_spacing":"","f_sub_elem_":"","mm_border_size":"","mm_border_color":"","mm_shadow_shadow_header":"","mm_shadow_shadow_title":"Shadow","mm_shadow_shadow_size":"","mm_shadow_shadow_offset_horizontal":"","mm_shadow_shadow_offset_vertical":"","mm_shadow_shadow_spread":"","mm_shadow_shadow_color":"","mm_subcats_bg":"","mm_subcats_border_color":"","mm_elem_border_color":"","mm_elem_shadow_shadow_header":"","mm_elem_shadow_shadow_title":"Elements shadow","mm_elem_shadow_shadow_size":"","mm_elem_shadow_shadow_offset_horizontal":"","mm_elem_shadow_shadow_offset_vertical":"","mm_elem_shadow_shadow_spread":"","mm_elem_shadow_shadow_color":"","f_mm_sub_font_header":"","f_mm_sub_font_title":"Sub categories elements","f_mm_sub_font_settings":"","f_mm_sub_font_style":"","f_mm_sub_font_spacing":"","f_mm_sub_":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","all_underline_color":"#000","all_underline_height":"","cat_bg":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_border":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_style":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_style":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","el_class":"","block_template_id":"","td_column_number":3,"header_color":"","ajax_pagination_infinite_stop":"","offset":"","limit":"4","td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_filter_default_txt":"","td_ajax_filter_ids":"","color_preset":"","ajax_pagination":"next_prev","border_top":"","css":"","tdc_css_class":"tdi_52_0ce","tdc_css_class_style":"tdi_52_0ce_rand_style","category_id":"260","subcats_posts_limit":"4","child_cats_limit":"3","hide_all":"","tdc_css":"","class":"tdi_52_0ce"}';
-block_tdi_52_0ce.td_column_number = "3";
-block_tdi_52_0ce.block_type = "tdb_header_mega_menu";
-block_tdi_52_0ce.post_count = "4";
-block_tdi_52_0ce.found_posts = "137";
-block_tdi_52_0ce.header_color = "";
-block_tdi_52_0ce.ajax_pagination_infinite_stop = "";
-block_tdi_52_0ce.max_num_pages = "35";
-tdBlocksArray.push(block_tdi_52_0ce);
-</script><div class="block-mega-child-cats"><a 
-                        class="cur-sub-cat mega-menu-sub-cat-tdi_52_0ce" 
-                        id="tdi_53_a4d" 
-                        data-td_block_id="tdi_52_0ce" 
-                        data-td_filter_value="" 
-                        href="https://learniseasy.com/category/biologi/"
-                    >Semua</a><a 
-                        class="mega-menu-sub-cat-tdi_52_0ce" 
-                        id="tdi_54_3ed" 
-                        data-td_block_id="tdi_52_0ce" 
-                        data-td_filter_value="928" 
-                        href="https://learniseasy.com/category/biologi/tulang/"
-                    >Tulang</a></div><div class="tdb-mega-modules-wrap"><div id=tdi_52_0ce class="td_block_inner">
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/simbiosis-mutualisme-bakteri-dalam-usus-besar/" rel="bookmark" class="td-image-wrap " title="Hubungan antara bakteri dalam usus besar manusia membentuk Simbiosis" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2020/11/hubungan-antara-bakteri-dalam-usus-besar-manusia-membentuk-simbiosis-mutualisme-324x323.webp"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/biologi/" class="td-post-category">Biologi</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/simbiosis-mutualisme-bakteri-dalam-usus-besar/" rel="bookmark" title="Hubungan antara bakteri dalam usus besar manusia membentuk Simbiosis">Hubungan antara bakteri dalam usus besar manusia membentuk Simbiosis</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-11-21T13:08:14+08:00" >Tanggal yang diubah: November 21, 2020</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/simbiosis-mutualisme-bakteri-dalam-usus-besar/#respond">0</a></span>                        </span>
-                    </div>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-                    <div class="td-excerpt">
-Usus besar adalah organ tubuh manusia yang merupakan sistem organ pencernaan tubuh manusia. Sistem pencernaan manusia yang dimulai dari mulut, esofagus, kemudian lambung dan...</div>
-                                    </div>
-            </div>
-        </div>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/hubungan-antara-bunga-rafflesia-dengan-lalat-merupakan-simbiosis/" rel="bookmark" class="td-image-wrap " title="Hubungan antara bunga rafflesia dengan lalat merupakan simbiosis" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2020/11/hubungan-antara-bunga-raflesia-dengan-lalat-buah-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/biologi/" class="td-post-category">Biologi</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/hubungan-antara-bunga-rafflesia-dengan-lalat-merupakan-simbiosis/" rel="bookmark" title="Hubungan antara bunga rafflesia dengan lalat merupakan simbiosis">Hubungan antara bunga rafflesia dengan lalat merupakan simbiosis</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2021-01-20T23:49:22+08:00" >Tanggal yang diubah: Januari 20, 2021</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/hubungan-antara-bunga-rafflesia-dengan-lalat-merupakan-simbiosis/#respond">0</a></span>                        </span>
-                    </div>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-                    <div class="td-excerpt">
-Hubungan antara bunga rafflesia dengan lalat merupakan simbiosis komensalisme. Hubungan interaksi antara lalat dan bunga rafflesia ini hanya menguntungkan bunga Rafflesia saja, sedangkan lalat...</div>
-                                    </div>
-            </div>
-        </div>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/jelaskan-simbiosi-hubungan-ikan-hiu-dan-ikan-remora/" rel="bookmark" class="td-image-wrap " title="Jelaskan Simbiosi hubungan ikan hiu dan ikan remora" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2020/11/jelaskan-hubungan-antara-ikan-hiu-dan-ikan-remora-simbiosis-komensalisme-324x328.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/biologi/" class="td-post-category">Biologi</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/jelaskan-simbiosi-hubungan-ikan-hiu-dan-ikan-remora/" rel="bookmark" title="Jelaskan Simbiosi hubungan ikan hiu dan ikan remora">Jelaskan Simbiosi hubungan ikan hiu dan ikan remora</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-11-20T09:08:21+08:00" >Tanggal yang diubah: November 20, 2020</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/jelaskan-simbiosi-hubungan-ikan-hiu-dan-ikan-remora/#respond">0</a></span>                        </span>
-                    </div>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-                    <div class="td-excerpt">
-Ikan hiu adalah salah satu jenis ikan karnivora yang memangsa ikan lain. Hubungan ikan Hiu dengan ikan jenis lain biasanya merupakan simbiosis predasi, dimana...</div>
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack">
-            <div class="td-module-container td-category-pos-above">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://learniseasy.com/interaksi-antar-semut-kutu-daun-simbiosis-mutualisme/" rel="bookmark" class="td-image-wrap " title="Mengapa interaksi antar semut dan kutu daun disebut simbiosis mutualisme" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://learniseasy.com/wp-content/uploads/2020/11/mengapa-interaksi-antara-semut-dan-kutu-daun-disebut-simbiosis-mutualisme-324x323.webp"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                    <a href="https://learniseasy.com/category/biologi/" class="td-post-category">Biologi</a>
-                    <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/interaksi-antar-semut-kutu-daun-simbiosis-mutualisme/" rel="bookmark" title="Mengapa interaksi antar semut dan kutu daun disebut simbiosis mutualisme">Mengapa interaksi antar semut dan kutu daun disebut simbiosis mutualisme</a></h3>
-                    
-                    <div class="td-editor-date">
-                        
-                        <span class="td-author-date">
-                            <span class="td-author-info">
-                                                                <span class="td-post-author-name"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a> <span>-</span> </span>                            </span>
-
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-11-19T15:12:46+08:00" >Tanggal yang diubah: November 19, 2020</time></span>                                                        <span class="td-module-comments"><a href="https://learniseasy.com/interaksi-antar-semut-kutu-daun-simbiosis-mutualisme/#respond">0</a></span>                        </span>
-                    </div>
-
-                    <div class="td-excerpt">
-Interaksi antar semut dan kutu daun adalah simbiosis mutuliasme. Artinya semut diuntungkan dengan keberadaan dan hubungannya dengan kutu daun.
-
-
-
-Apa itu Kutu Daun
-
-
-
-Kutu daun adalah...</div>
-                                    </div>
-            </div>
-        </div>
-
-        </div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-tdi_52_0ce" data-td_block_id="tdi_52_0ce"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-tdi_52_0ce" data-td_block_id="tdi_52_0ce"><i class="td-icon-font td-icon-menu-right"></i></a></div></div></div> <!-- ./block1 --></div></li>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2018/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
 </ul>
 </li>
-<li id="menu-item-8042" class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-8042"><a href="https://learniseasy.com/category/tata-cara-sholat/"><div class="tdb-menu-item-text">Sholat</div></a></li>
-<li id="menu-item-8043" class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-8043"><a href="https://learniseasy.com/category/contoh-surat/"><div class="tdb-menu-item-text">Contoh Surat</div></a></li>
-<li id="menu-item-8044" class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-8044"><a href="https://learniseasy.com/category/seni-dan-budaya/"><div class="tdb-menu-item-text">Seni dan Budaya</div></a></li>
-<li id="menu-item-8045" class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-8045"><a href="https://learniseasy.com/category/pidato/"><div class="tdb-menu-item-text">Pidato</div></a></li>
-</ul></div></div><div class="td_block_wrap tdb_header_search tdi_56_6d0 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_56_6d0" >
-<style>
-/* custom css */
-.tdi_56_6d0 .tdb-head-search-btn i{
-                    font-size: 22px;
-                
-                    width: 52.8px;
-					height: 52.8px;
-					line-height:  52.8px;
-                
-                    color: #000000;
-                }.tdi_56_6d0{
-                    display: inline-block;
-                
-                    float: right;
-                    clear: none;
-                }.tdi_56_6d0 .tdb-search-txt{
-                    top: 0px;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:300 !important;
-                }.tdi_56_6d0 .tdb-drop-down-search .tdb-drop-down-search-inner{
-                    max-width: 500px;
-                }.tdi_56_6d0 .tdb-search-form{
-                    padding: 24px;
-                
-                    border-width: 0px;
-                }.tdi_56_6d0 .tdb-drop-down-search{
-                    left: auto;
-                    right: 0;
-                }.tdi_56_6d0 .tdb-drop-down-search-inner,
-                .tdi_56_6d0 .tdb-search-form,
-                .tdi_56_6d0 .tdb-aj-search{
-                    margin-left: auto;
-                    margin-right: 0;
-                }.tdi_56_6d0 .tdb-head-search-form-input,
-                .tdi_56_6d0 .tdb-head-search-placeholder{
-                    padding: 0 14px;
-                }.tdi_56_6d0 .tdb-head-search-form-btn i{
-                    font-size: 12px;
-                
-                    margin-left: 10px;
-                
-                    top: 0px;
-                }.tdi_56_6d0 .tdb-head-search-form-btn{
-                    padding: 8px 20px;
-                
-                    background-color: #52a580;
-                
-                    box-shadow:  0px 0px 6px 0px rgba(0,0,0,0.39);
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:700 !important;text-transform:uppercase !important;
-                }.tdi_56_6d0 .tdb-aj-search-results{
-                    padding: 0 24px 24px;
-                
-                    border-width: 0 0 1px 0;
-                }.tdi_56_6d0 .result-msg{
-                    padding: 6px 0;
-                
-                    text-align: center;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-style:normal !important;font-weight:300 !important;
-                }.tdi_56_6d0 .tdb-head-search-btn:hover i{
-                    color: #000000;
-                }.tdi_56_6d0 .tdb-head-search-btn .tdb-search-txt{
-                    color: #000000;
-                }.tdi_56_6d0 .tdb-head-search-btn:after{
-                    border-bottom-color: #ffffff;
-                }.tdi_56_6d0 .tdb-drop-down-search-inner{
-                    box-shadow:  0px 2px 6px 0px rgba(0, 0, 0, 0.2);
-                }.tdi_56_6d0 .tdb-search-form-inner{
-                    background-color: rgba(0,0,0,0.03);
-                }.tdi_56_6d0 .tdb-search-form-inner:after{
-                    border-color: rgba(0,0,0,0.03);
-                }.tdi_56_6d0 .tdb-head-search-form-btn:hover{
-                    background-color: #000000;
-                }.tdi_56_6d0 .result-msg,
-                .tdi_56_6d0 .result-msg a{
-                    color: #000000;
-                }.tdi_56_6d0 .result-msg a:hover{
-                    color: #52a580;
-                }.tdi_56_6d0 .tdb-head-search-form-input{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:300 !important;
-                }.tdi_56_6d0 .tdb-head-search-placeholder{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-weight:300 !important;
-                }.tdi_56_6d0 .td_module_wrap{
-					width: 100%;
-					float: left;
-				
-					padding-left: 11px;
-					padding-right: 11px;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_56_6d0 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0;
-					padding-bottom: 0;
-				}.tdi_56_6d0 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none;
-				}.tdi_56_6d0 .tdb-aj-search-inner{
-					margin-left: -11px;
-					margin-right: -11px;
-				}.tdi_56_6d0 .td-module-container:before{
-					bottom: -12px;
-				}.tdi_56_6d0 .td-module-container{
-				    border-color: #eaeaea;
-				
-					flex-direction: row;
-				}.tdi_56_6d0 .entry-thumb{
-					background-position: center 50%;
-				}.tdi_56_6d0 .td-image-wrap{
-					padding-bottom: 70%;
-				}.tdi_56_6d0 .td-image-container{
-				 	flex: 0 0 30%;
-				 	width: 30%;
-			    
-                	display: block; order: 0;
-                }.ie10 .tdi_56_6d0 .td-image-container,
-				.ie11 .tdi_56_6d0 .td-image-container{
-				 	flex: 0 0 auto;
-			    }.ie10 .tdi_56_6d0 .td-module-meta-info,
-				.ie11 .tdi_56_6d0 .td-module-meta-info{
-				 	flex: 1;
-			    }.tdi_56_6d0 .td-post-vid-time{
-					display: block;
-				}.tdi_56_6d0 .td-module-meta-info{
-					padding: 2px 0 0 15px;
-				
-					border-color: #eaeaea;
-				}.tdi_56_6d0 .entry-title{
-					margin: 0 0 5px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:20px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_56_6d0 .td-excerpt{
-					margin: 6px 0 10px 0;
-				
-					column-count: 1;
-				
-					column-gap: 48px;
-				
-					display: none;
-				
-					color: #000000;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:300 !important;
-				}.tdi_56_6d0 .td-post-category{
-					margin: 0 0 7px;
-				
-					padding: 1px 3px;
-				
-					display: inline-block;
-				
-					background-color: #000000;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_56_6d0 .td-read-more{
-					display: none;
-				}.tdi_56_6d0 .td-post-author-name{
-					display: none;
-				}.tdi_56_6d0 .td-icon-star,
-                .tdi_56_6d0 .td-icon-star-empty,
-                .tdi_56_6d0 .td-icon-star-half{
-					font-size: 15px;
-				}.tdi_56_6d0 .td-module-comments{
-					display: none;
-				}.tdi_56_6d0 .tdb-author-photo .avatar{
-				    width: 20px;
-				    height: 20px;
-				
-				    margin-right: 6px;
-				
-				    border-radius: 50%;
-				}.tdi_56_6d0 .td-post-category:hover{
-					background-color: #000000 !important;
-				
-					color: #ffffff;
-				}.td-theme-wrap .tdi_56_6d0 .td_module_wrap:hover .td-module-title a,
-				.tdi_56_6d0 .tdb-aj-cur-element .entry-title a{
-					color: #52a580 !important;
-				}.tdi_56_6d0 .td-post-author-name a{
-					color: #000000;
-				}.tdi_56_6d0 .td-post-date,
-				.tdi_56_6d0 .td-post-author-name span{
-					color: #000000;
-				}.tdi_56_6d0 .td-editor-date,
-				.tdi_56_6d0 .td-editor-date .td-post-author-name,
-				.tdi_56_6d0 .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:300 !important;
-				}
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
 
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_56_6d0 .tdb-head-search-btn i{
-                    font-size: 20px;
-                
-                    width: 44px;
-					height: 44px;
-					line-height:  44px;
-                }.tdi_56_6d0 .tdb-drop-down-search .tdb-drop-down-search-inner{
-                    max-width: 400px;
-                }.tdi_56_6d0 .tdb-search-form{
-                    padding: 20px;
-                }.tdi_56_6d0 .tdb-aj-search-results{
-                    padding: 0 20px 20px;
-                }.tdi_56_6d0 .tdb-head-search-form-btn{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:700 !important;text-transform:uppercase !important;
-                }.tdi_56_6d0 .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_56_6d0 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_56_6d0 .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_56_6d0 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_56_6d0 .td-module-container:before{
-					bottom: -12px;
-				}.tdi_56_6d0 .td-post-category{
-					padding: 2px 3px 1px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_56_6d0 .entry-title{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_56_6d0 .td-editor-date,
-				.tdi_56_6d0 .td-editor-date .td-post-author-name,
-				.tdi_56_6d0 .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}.tdi_56_6d0 .td-excerpt{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}
-}
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2017/'>
+2017
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
 
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_56_6d0 .tdb-head-search-btn i{
-                    font-size: 20px;
-                
-                    width: 40px;
-					height: 40px;
-					line-height:  40px;
-                }.tdi_56_6d0 .tdb-drop-down-search .tdb-drop-down-search-inner{
-                    max-width: 400px;
-                }.tdi_56_6d0 .tdb-search-form{
-                    padding: 20px;
-                }.tdi_56_6d0 .tdb-head-search-form-btn{
-                    padding: 6px 16px;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:700 !important;text-transform:uppercase !important;
-                }.tdi_56_6d0 .tdb-aj-search-results{
-                    padding: 0 20px 20px;
-                }.tdi_56_6d0 .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_56_6d0 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_56_6d0 .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_56_6d0 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_56_6d0 .td-module-container:before{
-					bottom: -12px;
-				}.tdi_56_6d0 .td-post-category{
-					padding: 2px 3px 1px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_56_6d0 .entry-title{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_56_6d0 .td-editor-date,
-				.tdi_56_6d0 .td-editor-date .td-post-author-name,
-				.tdi_56_6d0 .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}.tdi_56_6d0 .td-excerpt{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:300 !important;
-				}
-}
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2017/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+<ul class='posts'>
+<li><a href='https://www.ilmupena.com/2017/12/kisah-islami-keadilan-khalifah-umar-bin.html'>Kisah Islami : Keadilan Khalifah Umar Bin Khaththa...</a></li>
+<li><a href='https://www.ilmupena.com/2017/12/kisah-islami-kejujuran-seorang-anak.html'>Kisah Islami : Kejujuran Seorang Anak Kecil</a></li>
+<li><a href='https://www.ilmupena.com/2017/12/pengertian-aurat-dan-batasan-aurat.html'>Pengertian Aurat dan Batasan Aurat</a></li>
+<li><a href='https://www.ilmupena.com/2017/12/sifat-sifat-malaikat.html'>Sifat-Sifat Malaikat</a></li>
+<li><a href='https://www.ilmupena.com/2017/12/pengertian-amal-sholeh-dan-amal-sayyiah.html'>Pengertian Amal Sholeh dan Amal Sayyi&#39;ah</a></li>
+<li><a href='https://www.ilmupena.com/2017/12/3-syarat-diterimanya-amal-sholeh.html'>3 Syarat Diterimanya Amal Sholeh</a></li>
+<li><a href='https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html'>5 Manfaat Beramal Sholeh</a></li>
+<li><a href='https://www.ilmupena.com/2017/12/pidato-pentingnya-menjaga-kebersihan.html'>Pidato Pentingnya Menjaga Kebersihan</a></li>
+<li><a href='https://www.ilmupena.com/2017/12/pidato-tentang-kesehatan.html'>Pidato Tentang Kesehatan</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-/* phone */
-@media (max-width: 767px){
-.tdi_56_6d0 .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_56_6d0 .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_56_6d0 .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_56_6d0 .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_56_6d0 .td-module-container:before{
-					bottom: -12px;
-				}
-}
-</style><div class="tdb-block-inner td-fix-index"><div class="tdb-drop-down-search" aria-labelledby="td-header-search-button"><div class="tdb-drop-down-search-inner"><form method="get" class="tdb-search-form" action="https://learniseasy.com/"><div class="tdb-search-form-inner"><input class="tdb-head-search-form-input" type="text" value="" name="s" autocomplete="off" /><button class="wpb_button wpb_btn-inverse btn tdb-head-search-form-btn" type="submit"><span>Search</span><i class="tdc-font-tdmp tdc-font-tdmp-arrow-cut-right"></i></button></div></form><div class="tdb-aj-search"></div></div></div><a href="#" role="button" class="tdb-head-search-btn dropdown-toggle" data-toggle="dropdown"><i class="tdb-search-icon td-icon-magnifier-big-rounded"></i></a></div></div> <!-- ./block --></div></div></div></div></div></div>                    </div>
-                                <div class="td-header-desktop-sticky-wrap tdc-zone-sticky-invisible tdc-zone-sticky-inactive" style="display: none">
-                    <div id="tdi_57_64c" class="tdc-zone"><div class="tdc_zone tdi_58_4de  wpb_row td-pb-row tdc-element-style" data-sticky-offset="100" >
-<style scoped>
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2017/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-/* custom css */
-.tdi_58_4de{
-                    min-height: 0;
-                }.td-header-desktop-sticky-wrap.td-header-active{
-                    opacity: 1;
-                
-                    transform: translateY(0);
-                    -webkit-transform: translateY(0);
-                    -moz-transform: translateY(0);
-                    -ms-transform: translateY(0);
-                    -o-transform: translateY(0);
-                }.td-header-desktop-sticky-wrap{
-                    transform: translateY(-120%);
-                    -webkit-transform: translateY(-120%);
-                    -moz-transform: translateY(-120%);
-                    -ms-transform: translateY(-120%);
-                    -o-transform: translateY(-120%);
-                
-                    -webkit-transition: all 0.3s ease-in-out;
-                    -moz-transition: all 0.3s ease-in-out;
-                    -o-transition: all 0.3s ease-in-out;
-                    transition: all 0.3s ease-in-out;
-                }
-/* inline tdc_css att */
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2017/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-.tdi_58_4de{
-position:relative;
-}
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2016/'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
 
-</style>
-<div class="tdi_57_64c_rand_style td-element-style" ><style>
-.tdi_57_64c_rand_style{
-background-color:#ffffff !important;
-}
- </style></div><div id="tdi_59_7df" class="tdc-row stretch_row_1400 td-stretch-content"><div class="vc_row tdi_60_e5e  wpb_row td-pb-row" >
-<style scoped>
-
-/* custom css */
-.tdi_60_e5e,
-                .tdi_60_e5e .tdc-columns{
-                    min-height: 0;
-                }.tdi_60_e5e,
-				.tdi_60_e5e .tdc-columns{
-				    display: block;
-				}.tdi_60_e5e .tdc-columns{
-				    width: 100%;
-				}
-/* inline tdc_css att */
-
-.tdi_60_e5e{
-padding-top:5px !important;
-}
-
-.tdi_60_e5e .td_block_wrap{ text-align:left }
-
-</style><div class="vc_column tdi_62_d0d  wpb_column vc_column_container tdc-column td-pb-span12">
-<style scoped>
-
-/* custom css */
-.tdi_62_d0d{
-                    vertical-align: baseline;
-                }.tdi_62_d0d > .wpb_wrapper,
-				.tdi_62_d0d > .wpb_wrapper > .tdc-elements{
-				    display: block;
-				}.tdi_62_d0d > .wpb_wrapper > .tdc-elements{
-				    width: 100%;
-				}.tdi_62_d0d > .wpb_wrapper{
-				    width: auto;
-				    height: auto;
-				}
-</style><div class="wpb_wrapper"><div class="td_block_wrap tdb_header_menu tdi_63_7f7 tds_menu_active1 tds_menu_sub_active1 tdb-head-menu-inline tdb-mm-align-parent td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_63_7f7"  style=" z-index: 999;">
-<style>
-/* custom css */
-.tdi_63_7f7{
-                    display: inline-block;
-                }.tdi_63_7f7 .tdb-menu > li > a,
-                .tdi_63_7f7 .td-subcat-more{
-                    padding: 0 10px;
-                }.tdi_63_7f7 .tdb-menu > li .tdb-menu-sep,
-                .tdi_63_7f7 .tdb-menu-items-dropdown .tdb-menu-sep{
-                    font-size: 7px;
-                
-                    top: 0px;
-                }.tdi_63_7f7 .tdb-menu > li > a .tdb-sub-menu-icon,
-                .tdi_63_7f7 .td-subcat-more .tdb-menu-more-subicon{
-                    font-size: 20px;
-                
-                    margin-left: -5px;
-                
-                    top: 0px;
-                }.tdi_63_7f7 .td-subcat-more .tdb-menu-more-icon{
-                    top: 0px;
-                }.tdi_63_7f7 .tdb-menu > li > a,
-                .tdi_63_7f7 .td-subcat-more,
-                .tdi_63_7f7 .td-subcat-more > .tdb-menu-item-text{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:18px !important;line-height:52px !important;font-weight:700 !important;text-transform:none !important;
-                }.tdi_63_7f7 .tdb-normal-menu > ul,
-                .tdi_63_7f7 .td-pulldown-filter-list{
-                    left: -16px;
-                }.tdi_63_7f7 .tdb-normal-menu ul ul{
-                    margin-top: -16px;
-                }.tdi_63_7f7 .tdb-menu .tdb-normal-menu ul,
-                .tdi_63_7f7 .td-pulldown-filter-list{
-                    padding: 16px 10px;
-                
-                    box-shadow:  0px 1px 3px 0px rgba(0, 0, 0, 0.15);
-                }.tdi_63_7f7 .tdb-menu .tdb-normal-menu ul .tdb-menu-item > a,
-                .tdi_63_7f7 .td-pulldown-filter-list li a{
-                    padding: 8px 16px;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;font-weight:700 !important;
-                }.tdi_63_7f7 .tdb-normal-menu ul .tdb-menu-item > a .tdb-sub-menu-icon{
-                    font-size: 16px;
-                
-                    right: auto;
-                
-                    margin-top: 3px;
-                }.tdi_63_7f7 .tdb-normal-menu ul .tdb-menu-item > a .tdb-menu-item-text{
-                    margin-right: -3px;
-                
-                    display: inline-block;
-                }.tdi_63_7f7:not(.tdb-mm-align-screen) .tdb-mega-menu .sub-menu,
-                .tdi_63_7f7 .tdb-mega-menu .sub-menu > li{
-                    max-width: 500px !important;
-                }.tdi_63_7f7 .tdb-mega-menu .sub-menu{
-                    left: 0;
-                    transform: none;
-                    -webkit-transform: none;
-                    -moz-transform: none;
-                }.tdi_63_7f7 .tdb-mega-menu .sub-menu > li{
-                    margin-left: -16px;
-                }.tdi_63_7f7 .tdb-menu .tdb-mega-menu .sub-menu > li{
-					background-color: #ffffff;
-				
-					box-shadow:  0px 2px 6px 0px rgba(0, 0, 0, 0.1);
-				}@media (max-width: 1018px) {
-                    .tdi_63_7f7 .td-pulldown-filter-list {
-                        left: auto;
-                        right: -16px;
-                    }
-                }
-
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_63_7f7 .tdb-menu > li > a,
-                .tdi_63_7f7 .td-subcat-more{
-                    padding: 0 8px;
-                }.tdi_63_7f7 .tdb-menu > li > a,
-                .tdi_63_7f7 .td-subcat-more,
-                .tdi_63_7f7 .td-subcat-more > .tdb-menu-item-text{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:15px !important;line-height:42px !important;font-weight:700 !important;text-transform:none !important;
-                }.tdi_63_7f7 .tdb-normal-menu > ul,
-                .tdi_63_7f7 .td-pulldown-filter-list{
-                    left: -18px;
-                }.tdi_63_7f7 .tdb-normal-menu ul ul{
-                    margin-top: -10px;
-                }.tdi_63_7f7 .tdb-menu .tdb-normal-menu ul,
-                .tdi_63_7f7 .td-pulldown-filter-list{
-                    padding: 10px;
-                }.tdi_63_7f7 .tdb-menu .tdb-normal-menu ul .tdb-menu-item > a,
-                .tdi_63_7f7 .td-pulldown-filter-list li a{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:700 !important;
-                }.tdi_63_7f7:not(.tdb-mm-align-screen) .tdb-mega-menu .sub-menu,
-                .tdi_63_7f7 .tdb-mega-menu .sub-menu > li{
-                    max-width: 400px !important;
-                }@media (max-width: 1018px) {
-                    .tdi_63_7f7 .td-pulldown-filter-list {
-                        left: auto;
-                        right: -18px;
-                    }
-                }
-}
-
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_63_7f7 .tdb-menu > li > a,
-                .tdi_63_7f7 .td-subcat-more{
-                    padding: 0 6px;
-                }.tdi_63_7f7 .tdb-menu > li > a .tdb-sub-menu-icon,
-                .tdi_63_7f7 .td-subcat-more .tdb-menu-more-subicon{
-                    font-size: 16px;
-                }.tdi_63_7f7 .tdb-menu > li > a,
-                .tdi_63_7f7 .td-subcat-more,
-                .tdi_63_7f7 .td-subcat-more > .tdb-menu-item-text{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:42px !important;font-weight:700 !important;text-transform:none !important;
-                }.tdi_63_7f7 .tdb-normal-menu > ul,
-                .tdi_63_7f7 .td-pulldown-filter-list{
-                    left: -20px;
-                }.tdi_63_7f7 .tdb-normal-menu ul ul{
-                    margin-top: -10px;
-                }.tdi_63_7f7 .tdb-menu .tdb-normal-menu ul,
-                .tdi_63_7f7 .td-pulldown-filter-list{
-                    padding: 10px;
-                }.tdi_63_7f7 .tdb-menu .tdb-normal-menu ul .tdb-menu-item > a,
-                .tdi_63_7f7 .td-pulldown-filter-list li a{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:700 !important;
-                }.tdi_63_7f7:not(.tdb-mm-align-screen) .tdb-mega-menu .sub-menu,
-                .tdi_63_7f7 .tdb-mega-menu .sub-menu > li{
-                    max-width: 400px !important;
-                }@media (max-width: 1018px) {
-                    .tdi_63_7f7 .td-pulldown-filter-list {
-                        left: auto;
-                        right: -20px;
-                    }
-                }
-}
-</style>
-<style>
-.tdi_63_7f7 .tdb-menu > li.current-menu-item > a,
-				.tdi_63_7f7 .tdb-menu > li.current-menu-ancestor > a,
-				.tdi_63_7f7 .tdb-menu > li.current-category-ancestor > a,
-				.tdi_63_7f7 .tdb-menu > li:hover > a,
-				.tdi_63_7f7 .tdb-menu > li.tdb-hover > a,
-				.tdi_63_7f7 .tdb-menu-items-dropdown:hover .td-subcat-more{
-					color: #52a580;
-				}.tdi_63_7f7 .tdb-menu > li > a:after,
-				.tdi_63_7f7 .tdb-menu-items-dropdown .td-subcat-more:after{
-					background-color:     ;
-				
-					height: 0px;
-				
-					bottom: 0px;
-				}
-</style>
-<style>
-.tdi_63_7f7 .tdb-menu ul .tdb-normal-menu.current-menu-item > a,
-				.tdi_63_7f7 .tdb-menu ul .tdb-normal-menu.current-menu-ancestor > a,
-				.tdi_63_7f7 .tdb-menu ul .tdb-normal-menu.current-category-ancestor > a,
-				.tdi_63_7f7 .tdb-menu ul .tdb-normal-menu.tdb-hover > a,
-				.tdi_63_7f7 .tdb-menu ul .tdb-normal-menu:hover > a,
-				.tdi_63_7f7 .td-pulldown-filter-list li:hover a{
-					color: #52a580;
-				}
-</style><div id=tdi_63_7f7 class="td_block_inner td-fix-index"><ul id="menu-newman-1" class="tdb-block-menu tdb-menu tdb-menu-items-visible"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home tdb-cur-menu-item menu-item-first tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-8731"><a href="https://learniseasy.com/"><div class="tdb-menu-item-text">Home</div></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-8726"><a href="https://learniseasy.com/category/biologi/"><div class="tdb-menu-item-text">Biologi</div></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-8727"><a href="https://learniseasy.com/category/contoh-surat/"><div class="tdb-menu-item-text">contoh surat</div></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-8728"><a href="https://learniseasy.com/category/pendidikan-kewarganegaraan-pkn/"><div class="tdb-menu-item-text">Pendidikan Kewarganegaraan (PKN)</div></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-8729"><a href="https://learniseasy.com/category/tata-cara-sholat/"><div class="tdb-menu-item-text">Sholat</div></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-8730"><a href="https://learniseasy.com/category/sosial/"><div class="tdb-menu-item-text">Sosial</div></a></li>
-</ul></div></div><div class="td_block_wrap tdb_header_search tdi_66_ced td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_66_ced" >
-<style>
-/* custom css */
-.tdi_66_ced .tdb-head-search-btn i{
-                    font-size: 22px;
-                
-                    width: 52.8px;
-					height: 52.8px;
-					line-height:  52.8px;
-                
-                    color: #000000;
-                }.tdi_66_ced{
-                    display: inline-block;
-                
-                    float: right;
-                    clear: none;
-                }.tdi_66_ced .tdb-search-txt{
-                    top: 0px;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:100 !important;
-                }.tdi_66_ced .tdb-drop-down-search .tdb-drop-down-search-inner{
-                    max-width: 500px;
-                }.tdi_66_ced .tdb-search-form{
-                    padding: 24px;
-                
-                    border-width: 0px;
-                }.tdi_66_ced .tdb-drop-down-search{
-                    left: auto;
-                    right: 0;
-                }.tdi_66_ced .tdb-drop-down-search-inner,
-                .tdi_66_ced .tdb-search-form,
-                .tdi_66_ced .tdb-aj-search{
-                    margin-left: auto;
-                    margin-right: 0;
-                }.tdi_66_ced .tdb-head-search-form-input,
-                .tdi_66_ced .tdb-head-search-placeholder{
-                    padding: 0 14px;
-                }.tdi_66_ced .tdb-head-search-form-btn i{
-                    font-size: 12px;
-                
-                    margin-left: 10px;
-                
-                    top: 0px;
-                }.tdi_66_ced .tdb-head-search-form-btn{
-                    padding: 8px 20px;
-                
-                    background-color: #52a580;
-                
-                    box-shadow:  0px 0px 6px 0px rgba(0,0,0,0.39);
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:700 !important;text-transform:uppercase !important;
-                }.tdi_66_ced .tdb-aj-search-results{
-                    padding: 0 24px 24px;
-                
-                    border-width: 0 0 1px 0;
-                }.tdi_66_ced .result-msg{
-                    padding: 6px 0;
-                
-                    text-align: center;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-style:normal !important;font-weight:100 !important;
-                }.tdi_66_ced .tdb-head-search-btn:hover i{
-                    color: #000000;
-                }.tdi_66_ced .tdb-head-search-btn .tdb-search-txt{
-                    color: #000000;
-                }.tdi_66_ced .tdb-head-search-btn:after{
-                    border-bottom-color: #ffffff;
-                }.tdi_66_ced .tdb-drop-down-search-inner{
-                    box-shadow:  0px 2px 6px 0px rgba(0, 0, 0, 0.2);
-                }.tdi_66_ced .tdb-search-form-inner{
-                    background-color: rgba(0,0,0,0.03);
-                }.tdi_66_ced .tdb-search-form-inner:after{
-                    border-color: rgba(0,0,0,0.03);
-                }.tdi_66_ced .tdb-head-search-form-btn:hover{
-                    background-color: #000000;
-                }.tdi_66_ced .result-msg,
-                .tdi_66_ced .result-msg a{
-                    color: #000000;
-                }.tdi_66_ced .result-msg a:hover{
-                    color: #52a580;
-                }.tdi_66_ced .tdb-head-search-form-input{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:100 !important;
-                }.tdi_66_ced .tdb-head-search-placeholder{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-weight:100 !important;
-                }.tdi_66_ced .td_module_wrap{
-					width: 100%;
-					float: left;
-				
-					padding-left: 11px;
-					padding-right: 11px;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_66_ced .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0;
-					padding-bottom: 0;
-				}.tdi_66_ced .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none;
-				}.tdi_66_ced .tdb-aj-search-inner{
-					margin-left: -11px;
-					margin-right: -11px;
-				}.tdi_66_ced .td-module-container:before{
-					bottom: -12px;
-				}.tdi_66_ced .td-module-container{
-				    border-color: #eaeaea;
-				
-					flex-direction: row;
-				}.tdi_66_ced .entry-thumb{
-					background-position: center 50%;
-				}.tdi_66_ced .td-image-wrap{
-					padding-bottom: 70%;
-				}.tdi_66_ced .td-image-container{
-				 	flex: 0 0 30%;
-				 	width: 30%;
-			    
-                	display: block; order: 0;
-                }.ie10 .tdi_66_ced .td-image-container,
-				.ie11 .tdi_66_ced .td-image-container{
-				 	flex: 0 0 auto;
-			    }.ie10 .tdi_66_ced .td-module-meta-info,
-				.ie11 .tdi_66_ced .td-module-meta-info{
-				 	flex: 1;
-			    }.tdi_66_ced .td-post-vid-time{
-					display: block;
-				}.tdi_66_ced .td-module-meta-info{
-					padding: 2px 0 0 15px;
-				
-					border-color: #eaeaea;
-				}.tdi_66_ced .entry-title{
-					margin: 0 0 5px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:20px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_66_ced .td-excerpt{
-					margin: 6px 0 10px 0;
-				
-					column-count: 1;
-				
-					column-gap: 48px;
-				
-					display: none;
-				
-					color: #000000;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:100 !important;
-				}.tdi_66_ced .td-post-category{
-					margin: 0 0 7px;
-				
-					padding: 1px 3px;
-				
-					display: inline-block;
-				
-					background-color: #000000;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_66_ced .td-read-more{
-					display: none;
-				}.tdi_66_ced .td-post-author-name{
-					display: none;
-				}.tdi_66_ced .td-icon-star,
-                .tdi_66_ced .td-icon-star-empty,
-                .tdi_66_ced .td-icon-star-half{
-					font-size: 15px;
-				}.tdi_66_ced .td-module-comments{
-					display: none;
-				}.tdi_66_ced .tdb-author-photo .avatar{
-				    width: 20px;
-				    height: 20px;
-				
-				    margin-right: 6px;
-				
-				    border-radius: 50%;
-				}.tdi_66_ced .td-post-category:hover{
-					background-color: #000000 !important;
-				
-					color: #ffffff;
-				}.td-theme-wrap .tdi_66_ced .td_module_wrap:hover .td-module-title a,
-				.tdi_66_ced .tdb-aj-cur-element .entry-title a{
-					color: #52a580 !important;
-				}.tdi_66_ced .td-post-author-name a{
-					color: #000000;
-				}.tdi_66_ced .td-post-date,
-				.tdi_66_ced .td-post-author-name span{
-					color: #000000;
-				}.tdi_66_ced .td-editor-date,
-				.tdi_66_ced .td-editor-date .td-post-author-name,
-				.tdi_66_ced .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:14px !important;font-weight:100 !important;
-				}
-
-/* landscape */
-@media (min-width: 1019px) and (max-width: 1140px){
-.tdi_66_ced .tdb-head-search-btn i{
-                    font-size: 20px;
-                
-                    width: 44px;
-					height: 44px;
-					line-height:  44px;
-                }.tdi_66_ced .tdb-drop-down-search .tdb-drop-down-search-inner{
-                    max-width: 400px;
-                }.tdi_66_ced .tdb-search-form{
-                    padding: 20px;
-                }.tdi_66_ced .tdb-aj-search-results{
-                    padding: 0 20px 20px;
-                }.tdi_66_ced .tdb-head-search-form-btn{
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:700 !important;text-transform:uppercase !important;
-                }.tdi_66_ced .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_66_ced .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_66_ced .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_66_ced .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_66_ced .td-module-container:before{
-					bottom: -12px;
-				}.tdi_66_ced .td-post-category{
-					padding: 2px 3px 1px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_66_ced .entry-title{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_66_ced .td-editor-date,
-				.tdi_66_ced .td-editor-date .td-post-author-name,
-				.tdi_66_ced .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:100 !important;
-				}.tdi_66_ced .td-excerpt{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:100 !important;
-				}
-}
-
-/* portrait */
-@media (min-width: 768px) and (max-width: 1018px){
-.tdi_66_ced .tdb-head-search-btn i{
-                    font-size: 18px;
-                
-                    width: 41.4px;
-					height: 41.4px;
-					line-height:  41.4px;
-                }.tdi_66_ced .tdb-drop-down-search .tdb-drop-down-search-inner{
-                    max-width: 400px;
-                }.tdi_66_ced .tdb-search-form{
-                    padding: 20px;
-                }.tdi_66_ced .tdb-head-search-form-btn{
-                    padding: 6px 16px;
-                
-                    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:700 !important;text-transform:uppercase !important;
-                }.tdi_66_ced .tdb-aj-search-results{
-                    padding: 0 20px 20px;
-                }.tdi_66_ced .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_66_ced .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_66_ced .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_66_ced .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_66_ced .td-module-container:before{
-					bottom: -12px;
-				}.tdi_66_ced .td-post-category{
-					padding: 2px 3px 1px;
-				
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;line-height:1 !important;font-weight:700 !important;text-transform:uppercase !important;
-				}.tdi_66_ced .entry-title{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:16px !important;line-height:1.1 !important;font-weight:700 !important;
-				}.tdi_66_ced .td-editor-date,
-				.tdi_66_ced .td-editor-date .td-post-author-name,
-				.tdi_66_ced .td-module-comments a{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:100 !important;
-				}.tdi_66_ced .td-excerpt{
-					font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size:12px !important;font-weight:100 !important;
-				}
-}
-
-/* phone */
-@media (max-width: 767px){
-.tdi_66_ced .td_module_wrap{
-					padding-bottom: 12px !important;
-					margin-bottom: 12px !important;
-				
-					padding-bottom: 12px;
-					margin-bottom: 12px;
-				}.tdi_66_ced .td_module_wrap:nth-last-child(-n+1){
-					margin-bottom: 0 !important;
-					padding-bottom: 0 !important;
-				}.tdi_66_ced .td_module_wrap .td-module-container:before{
-					display: block !important;
-				}.tdi_66_ced .td_module_wrap:nth-last-child(-n+1) .td-module-container:before{
-					display: none !important;
-				}.tdi_66_ced .td-module-container:before{
-					bottom: -12px;
-				}
-}
-</style><div class="tdb-block-inner td-fix-index"><div class="tdb-drop-down-search" aria-labelledby="td-header-search-button"><div class="tdb-drop-down-search-inner"><form method="get" class="tdb-search-form" action="https://learniseasy.com/"><div class="tdb-search-form-inner"><input class="tdb-head-search-form-input" type="text" value="" name="s" autocomplete="off" /><button class="wpb_button wpb_btn-inverse btn tdb-head-search-form-btn" type="submit"><span>Search</span><i class="tdc-font-tdmp tdc-font-tdmp-arrow-cut-right"></i></button></div></form><div class="tdb-aj-search"></div></div></div><a href="#" role="button" class="tdb-head-search-btn dropdown-toggle" data-toggle="dropdown"><i class="tdb-search-icon td-icon-magnifier-big-rounded"></i></a></div></div> <!-- ./block --><div class="wpb_wrapper td_block_separator td_block_wrap vc_separator tdi_68_4d0  td_separator_solid td_separator_center"><span style="border-color:#EBEBEB;border-width:1px;width:100%;"></span>
-<style scoped>
-
-/* inline tdc_css att */
-
-.tdi_68_4d0{
-margin-bottom:0px !important;
-padding-bottom:0px !important;
-}
-
-</style></div></div></div></div></div></div></div>                </div>
-            </div>
-            
-    <div class="td-main-content-wrap td-container-wrap">
-
-        <div class="td-container td-post-template-default ">
-            <div class="td-crumb-container"><div class="entry-crumbs"><span><a title="" class="entry-crumb" href="https://learniseasy.com/">Beranda</a></span> <i class="td-icon-right td-bread-sep"></i> <span><a title="Lihat semua kiriman dalam Teknologi" class="entry-crumb" href="https://learniseasy.com/category/teknologi/">Teknologi</a></span> <i class="td-icon-right td-bread-sep"></i> <span><a title="Lihat semua kiriman dalam Internet" class="entry-crumb" href="https://learniseasy.com/category/teknologi/internet/">Internet</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi</span></div></div>
-
-            <div class="td-pb-row">
-                                        <div class="td-pb-span8 td-main-content" role="main">
-                            <div class="td-ss-main-content">
-                                <div class='code-block code-block-1' style='margin: 2px 20px 30px 0; float: left;'>
-<br>ADS BY GOOGLE</br>
-<!-- Pilar kecil 2 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:160px;height:600px"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="4335059895"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-    <article id="post-5827" class="post-5827 post type-post status-publish format-standard has-post-thumbnail category-internet category-teknologi tag-follower-instagram tag-instagram tag-medsos tag-tipshack" 0>
-        <div class="td-post-header">
-
-            <!-- category --><ul class="td-category"><li class="entry-category"><a  href="https://learniseasy.com/category/teknologi/">Teknologi</a></li><li class="entry-category"><a  href="https://learniseasy.com/category/teknologi/internet/">Internet</a></li></ul>
-            <header class="td-post-title">
-                <h1 class="entry-title">10 Cara Memperbanyak Followers Instagram Tanpa Aplikasi dan Aplikasi</h1>
-                
-
-                <div class="td-module-meta-info">
-                    <!-- author --><div class="td-post-author-name"><div class="td-author-by">Penulis</div> <a href="https://learniseasy.com/author/admin/">Juliar Nur</a><div class="td-author-line"> - </div> </div>                    <!-- date --><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-06-22T10:04:04+08:00" >Juni 22, 2020</time></span>                    <!-- comments --><div class="td-post-comments"><a href="https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#respond"><i class="td-icon-comments"></i>0</a></div>                    <!-- views --><div class="td-post-views"><i class="td-icon-views"></i><span class="td-nr-views-5827">770011</span></div>                </div>
-
-            </header>
-
-        </div>
-
-        <div class="td-post-sharing-top"><div id="td_social_sharing_article_top" class="td-post-sharing td-ps-bg td-ps-notext td-post-sharing-style1 "><div class="td-post-sharing-visible"><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flearniseasy.com%2F10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi%2F">
-                                        <div class="td-social-but-icon"><i class="td-icon-facebook"></i></div>
-                                        <div class="td-social-but-text">Facebook</div>
-                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-whatsapp" href="https://api.whatsapp.com/send?text=10+Cara+Memperbanyak+Followers+Instagram+Tanpa+Aplikasi+dan+Aplikasi %0A%0A https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/">
-                                        <div class="td-social-but-icon"><i class="td-icon-whatsapp"></i></div>
-                                        <div class="td-social-but-text">WhatsApp</div>
-                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-twitter" href="https://twitter.com/intent/tweet?text=10+Cara+Memperbanyak+Followers+Instagram+Tanpa+Aplikasi+dan+Aplikasi&url=https%3A%2F%2Flearniseasy.com%2F10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi%2F&via=Learn+Is+Easy">
-                                        <div class="td-social-but-icon"><i class="td-icon-twitter"></i></div>
-                                        <div class="td-social-but-text">Twitter</div>
-                                    </a></div><div class="td-social-sharing-hidden"><ul class="td-pulldown-filter-list"></ul><a class="td-social-sharing-button td-social-handler td-social-expand-tabs" href="#" data-block-uid="td_social_sharing_article_top">
-                                    <div class="td-social-but-icon"><i class="td-icon-plus td-social-expand-tabs-icon"></i></div>
-                                </a></div></div></div>
-        <div class="td-post-content tagdiv-type">
-            <!-- image --><div class="td-post-featured-image"><figure><a href="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram.jpg" data-caption="cara memperbanyak follower instagram dengan aplikasi dan tanpa aplikasi"><img width="696" height="522" class="entry-thumb td-modal-image" src="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-696x522.jpg" srcset="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-696x522.jpg 696w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-300x225.jpg 300w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-768x576.jpg 768w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram.jpg 1024w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-80x60.jpg 80w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-265x198.jpg 265w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-560x420.jpg 560w" sizes="(max-width: 696px) 100vw, 696px" alt="cara memperbanyak follower instagram dengan aplikasi dan tanpa aplikasi" title="cara-memperbanyak-follower-instagram"/></a><figcaption class="wp-caption-text">cara memperbanyak follower instagram dengan aplikasi dan tanpa aplikasi</figcaption></figure></div>
-            <!-- content --><p><a href="https://learniseasy.com/" target="_blank" rel="noopener noreferrer">Learniseasy.com</a> &#8211; Cara Memperbanyak Followers Instagram tanpa aplikasi | Cara menambah followers instagram tanpa aplikasi dan dengan aplikasi instafollow | Cara menambah followers instagram 2017 dengan instafollow cepat dan instan | Cara memperbanyak followers instagram free instan cepat.</p>
-<div id="ez-toc-container" class="ez-toc-v2_0_11 counter-hierarchy ez-toc-grey">
-<div class="ez-toc-title-container">
-<p class="ez-toc-title">Daftar Isi Artikel </p>
-<span class="ez-toc-title-toggle"><a class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"><i class="ez-toc-glyphicon ez-toc-icon-toggle"></i></a></span></div>
-<nav><ul class="ez-toc-list ez-toc-list-level-1"><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-1" href="#Apa_itu_Instagram" title="Apa itu Instagram">Apa itu Instagram</a></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-2" href="#Apa_Itu_Follower_Di_Instagram" title="Apa Itu Follower Di Instagram">Apa Itu Follower Di Instagram</a></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-3" href="#Kenapa_Butuh_Follower_Banyak" title="Kenapa Butuh Follower Banyak">Kenapa Butuh Follower Banyak</a></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-4" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7engan_Cepat_dan_Mudah" title="Cara Memperbanyak Followers Instagram dengan Cepat dan Mudah">Cara Memperbanyak Followers Instagram dengan Cepat dan Mudah</a><ul class="ez-toc-list-level-3"><li class="ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-5" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7anpa_Aplikasi" title="Cara Memperbanyak Followers instagram Tanpa Aplikasi">Cara Memperbanyak Followers instagram Tanpa Aplikasi</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-6" href="#Follow_Akun_Baru_Cara_Menambah_Followers_Instagram" title="Follow Akun Baru : Cara Menambah Followers Instagram">Follow Akun Baru : Cara Menambah Followers Instagram</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-7" href="#Follow_dan_Unfollow_Akun_Publik_Figur_Cara_Memperbanyak_Follower_Instagram" title="Follow dan Unfollow Akun Publik Figur : Cara Memperbanyak Follower Instagram">Follow dan Unfollow Akun Publik Figur : Cara Memperbanyak Follower Instagram</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-8" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7shtag_/_Tag_Populer" title="Cara Memperbanyak Follower Instagram : Hashtag / Tag Populer">Cara Memperbanyak Follower Instagram : Hashtag / Tag Populer</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-9" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7enggunakan_Sinkronisasi_Akun" title="Cara Memperbanyak Followers Instagram Menggunakan Sinkronisasi Akun">Cara Memperbanyak Followers Instagram Menggunakan Sinkronisasi Akun</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-10" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7reatifitas" title="Cara Memperbanyak Followers Instagram: Kreatifitas">Cara Memperbanyak Followers Instagram: Kreatifitas</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-11" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ72Vu8Ke6GEY5W51wwPPMqKZJowXQCeat_Follower" title="Cara Memperbanyak Follower Instagram : Adakan Event Follower dan Suggest Follower">Cara Memperbanyak Follower Instagram : Adakan Event Follower dan Suggest Follower</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-12" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7m_Postingan_Sara" title="Cara Memperbanyak Followers : Hindari Spam Postingan Sara">Cara Memperbanyak Followers : Hindari Spam Postingan Sara</a></li></ul></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-13" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7enggunakan_Aplikasi" title="Cara Memperbanyak Followers Instagram Menggunakan Aplikasi">Cara Memperbanyak Followers Instagram Menggunakan Aplikasi</a><ul class="ez-toc-list-level-3"><li class="ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-14" href="#Cara_Tambah_Followers_Instagram_Aplikasi_www_101follow_tk" title="Cara Tambah Followers Instagram : Aplikasi www.101follow.tk">Cara Tambah Followers Instagram : Aplikasi www.101follow.tk</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-15" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7om" title="Cara Memperbanyak Followers : Instaindo.com">Cara Memperbanyak Followers : Instaindo.com</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-16" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7deoranje_net" title="Cara Memperbanyak Followers: Hubungi musdeoranje.net">Cara Memperbanyak Followers: Hubungi musdeoranje.net</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-17" href="#Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7ddmefast_com" title="Cara Memperbanyak Followers Instagram : Addmefast.com">Cara Memperbanyak Followers Instagram : Addmefast.com</a></li></ul></li></ul></nav></div>
-<h2><span class="ez-toc-section" id="Apa_itu_Instagram"></span>Apa itu Instagram<span class="ez-toc-section-end"></span></h2>
-<p>Instagram adalah aplikasi media sosial yang merupakan milik facebook sekarang yang mengutamakan fitur berbagi gambar dan video. Jadi berbeda dengan medsos lainnya, instagram mengharuskan adanya file selain kata kata kalian.</p>
-<p>Jadi bagi kalian yang kebetulan mengunjungi artikel ini artinya anda memiliki followers sedikit dan ingin menambah followers kalian hingga jadi banyak.</p>
-<p>Aplikasi Instagram atau sering disebut IG, memiliki fitur unik yaitu following dan following back atau follback. Fitur tersebut menjadi sangat efektif untuk orang yang mengatur akunnya menjadi privat. Bila kalian memfollow seseorang, orang tersebut tidak perlu tau postingan kamu, tetapi kau tau postingan orang yang kamu follow.</p>
-<p>Lalu sebenarnya apa gunanya punya Instagram? Jadi ada beberapa manfaat memiliki instagram, pertama adalah agar anda tidak gaptek dan memiliki pergaulan yang luas. Kedua dan seterusnya adalah apabila anda penjual ataupun &#8220;content creator&#8221; yang membutuhkan media untuk menyalurkan atau menampilkan hasil karya kalian.</p>
-<p>Manfaat bonus dan yang sekarang ini dimanfaatkan orang adalah untuk cari uang menggunakan sistem endorse barang atau pun jasa. Jadi akun instagram yang memiliki banyak follower bisa mendapatkan duit dengan menampilkan produk milik orang lain di postingan video ataupun gambarnya.</p>
-<p>Banyak juga yang kemudian beralih ke membuat brand sendiri. Jadi untuk orang orang yang sudah memiliki followers instagram ratusan ribu hingga jutaan, sebaiknya membuat brand sendiri dan mengendorsenya. Contoh, bikin butik atau baju sendiri dengan brand nya kamu.</p>
-<h2><span class="ez-toc-section" id="Apa_Itu_Follower_Di_Instagram"></span>Apa Itu Follower Di Instagram<span class="ez-toc-section-end"></span></h2>
-<p>Followers adalah para pengikut. Jadi dalam instagram (lihat gambar dibawah). Itu adalah nilai yang menunjukkan sebarapa banyak orang yang akan melihat foto ataupun video baru kamu di instagram.</p>
-<p>Sebaliknya dengan &#8220;following&#8221; adalah seberapa banyak yang kamu ikuti sehingga kamu bisa liat thread mereka di instagram.</p><div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- In Article -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="7500135121"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<p>Banyak orang terkenal contoh artis ataupun pejabat hanya memiliki sedikit following dan banyak followers, itupun yang mereka follow hanya sesama artis saja.</p>
-<p>Untuk orang orang menggunakan Instagram untuk sekedar berkomunikasi sesama teman teman, maka memiliki follower instagram yang seimbang dengan instagram yang dia ikuti (following).</p><div class='code-block code-block-4' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- Kotak samping Learniseasy.com -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="3050503406"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<figure id="attachment_5830" aria-describedby="caption-attachment-5830" style="width: 300px" class="wp-caption aligncenter"><a href="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram.jpg"><img loading="lazy" class="size-medium wp-image-5830" src="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-300x225.jpg" alt="cara memperbanyak follower instagram dengan aplikasi dan tanpa aplikasi" width="300" height="225" srcset="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-300x225.jpg 300w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-768x576.jpg 768w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram.jpg 1024w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-80x60.jpg 80w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-265x198.jpg 265w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-696x522.jpg 696w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-560x420.jpg 560w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-5830" class="wp-caption-text">cara memperbanyak follower instagram dengan aplikasi dan tanpa aplikasi</figcaption></figure><div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- Midimg learnieasy -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="6170741582"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<h2><span class="ez-toc-section" id="Kenapa_Butuh_Follower_Banyak"></span>Kenapa Butuh Follower Banyak<span class="ez-toc-section-end"></span></h2>
-<p>Ada beribu alasan kenapa followers instagram kita harus banyak. Alasan yang paling utama adalah karena kamu adalah sosialita.</p>
-<p>Semakin banyak followers kamu akan meningkatkan status sosial kamu baik itu di instagram maupun di dunia nyata.</p>
-<p>Selain itu, bagi penjual atau olshop (online shop) di instagram, akan sangat menentukan tingkat penjualan bila kamu (yang melakukan olshop) memiliki followers yang banyak.</p>
-<p>Saya pernah melakukan eksperimen penjualan olshop melalui endorse menggunakan instagram orang orang. Jadi terlihat bahwa hanya 10 persen followers yang akan melihat endorse tersebut. Dan rerata 0,7 persen pembelian yang terjadi dari jumlah followers.</p>
-<p>Tentu saja hal ini berbeda untuk tiap barang dan tiap followers. Jadi apabila kamu beriklan kosmetik kecantikan di akun instagram yang cantik , maka kemungkinan tingkat penjualan dan engaging lebih tinggi dari yang diatas.</p>
-<p>Jadi apabila sebuah olshop memiliki followers 10000, atau 10 k maka yang melihat postingan gambarnya hanya 1000 akun instagram, dan hanya 100 atau 70 akun yang kemungkinan memesan barang atau produk endorse.</p>
-<p>Jadi bila ingin memperbanyak penjualan, bagi olshop artinya harus menambah followers instagram mereka.</p>
-<figure id="attachment_5831" aria-describedby="caption-attachment-5831" style="width: 300px" class="wp-caption aligncenter"><a href="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting-olshop.jpg"><img loading="lazy" class="size-medium wp-image-5831" src="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting-olshop-300x225.jpg" alt="cara memperbanyak follower instagram cara menambah follower instagram" width="300" height="225" srcset="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting-olshop-300x225.jpg 300w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting-olshop-80x60.jpg 80w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting-olshop-265x198.jpg 265w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting-olshop.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-5831" class="wp-caption-text">Olshop yang di endorse instagram ayu tingting &#8211; instagram dengan follower terbanyak di indonesia</figcaption></figure>
-<p>Jadi bagi kalian yang memang memiliki jiwa sosialita ataupun memiliki olshop atau berminat menjadi pencari duit dengan mendorse barang atau produk orang, sehingga berusaha memperbanyak followers instagram, maka anda sudah tepat membaca artikel ini.</p><div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- In Article -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="7500135121"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<h2><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7engan_Cepat_dan_Mudah"></span>Cara Memperbanyak Followers Instagram dengan Cepat dan Mudah<span class="ez-toc-section-end"></span></h2>
-<p>Dalam memperbanyak atau menambah followers instagram, ada dua jenis cara cepat dan mudah. Pertama adalah tanpa aplikasi atau lebih terkesan manual dan tidak otomatis. Cara memperbanyak followers instagram yang kedua menggunakan aplikasi atau website tertentu seperti instafollow, instaindo dan banyak lagi.</p>
-<p>Pertama ktia akan membahas cara memperbanyak follower instagram yang pertama.</p>
-<h3><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7anpa_Aplikasi"></span>Cara Memperbanyak Followers instagram Tanpa Aplikasi<span class="ez-toc-section-end"></span></h3>
-<p>Ada beberapa cara dalam menambah followers IG anda tanpa aplikasi, silahkan baca dan pahami cara cara dibawah ini.</p>
-<h3><span class="ez-toc-section" id="Follow_Akun_Baru_Cara_Menambah_Followers_Instagram"></span>Follow Akun Baru : Cara Menambah Followers Instagram<span class="ez-toc-section-end"></span></h3>
-<p>Cara ini terbilang sangat mudah dan aman untuk menambah folllowers instagram kamu.</p>
-<p>Langkah pertama adalah cari akun instagram yang paling banyak dan paling sering bertambah followersnya, contoh akunnya IG nya ayu tingting dengan Id <a href="https://www.instagram.com/ayutingting92/" target="_blank" rel="noopener noreferrer">#ayutingting92</a> dengan folllower 19,3 m dan following 471.  Ini merupakan akun instagram dengan followers terbanyak di Indonesia.</p>
-<figure id="attachment_5832" aria-describedby="caption-attachment-5832" style="width: 300px" class="wp-caption aligncenter"><a href="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting.jpg"><img loading="lazy" class="size-medium wp-image-5832" src="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting-300x225.jpg" alt="cara memperbanyak follower instagram cara menambah follower instagram" width="300" height="225" srcset="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting-300x225.jpg 300w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting-80x60.jpg 80w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting-265x198.jpg 265w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-5832" class="wp-caption-text">Halaman Profil Instagram Ayu Tingting &#8211; Instagram dengan follower terbanyak di Indonesia</figcaption></figure><div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- Midimg learnieasy -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="6170741582"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<p>Jadi setelah kamu temukan akun Instagram kayak artis ataupun pejabat yang lagi naik daun atau followers nya cepat meningkat, kamu follow semua akun tersebut.</p>
-<figure id="attachment_5833" aria-describedby="caption-attachment-5833" style="width: 300px" class="wp-caption aligncenter"><a href="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting92-Copy.jpg"><img loading="lazy" class="wp-image-5833 size-medium" src="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting92-Copy-300x225.jpg" alt="cara menambah follower menggunakan instagram follower" width="300" height="225" srcset="https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting92-Copy-300x225.jpg 300w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting92-Copy-80x60.jpg 80w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting92-Copy-265x198.jpg 265w, https://learniseasy.com/wp-content/uploads/2017/03/cara-memperbanyak-follower-instagram-ayu-tingting92-Copy.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-5833" class="wp-caption-text">Follower Instagram</figcaption></figure>
-<p>Setelah kamu follow, masuk ke salah satu profil akun tersebut, contoh, masuk ke profil akun Ayu tingting92. Lalu klik ke tab followers / pengikut nya.</p>
-<p>Disitu, seperti gambar diatas, akan terliat followers yang dimiliki ayu tingting. Biasanya, follower yang baru saja memfollow ayu tingting akan muncul diatas. Rerata pengguna baru, akan langsung memfollow kembali (follback) selagi masih aktif.</p>
-<p>Lakukan cara diatas dengan memakai jeda, mungkin jeda 10 menit untuk 10 atau 15 akun. Jadi setelah memfollow 10 -15 akun, kalian berhenti dulu 10 atau 15 menit agar penambahan follower kamu terlihat natural dan aman. Ini untuk menghindari banned /blokir oleh Instagram akibat menambah follower instagram yang tidak wajar.</p>
-<p>Apabila kamu tidak ingin banyak following kamu tapi banyak followers, silahkan unfollow mereka beberapa hari setelahnya.</p><div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- In Article -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="7500135121"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<p>Bagi kalian yang ingin tahu siapa saja unfollow akun IG kalian, silahkan instal Instafollow di googleplay atau playstore. Jadi dsitu kalian dapat liat beberapa jenis followers kamu. Seperti lost followers (orang yang unfollow kamu), non-follower (orang yang follow kamu tapi tidak follback).</p>
-<p>Jadi bagi kalian yang penjual atau mementikan data statistik tentang interaksi pengguna Instagram di akun jualan anda, silahkan upgrade instafollow. Murah kok cuman 40 ribuan.</p>
-<h3><span class="ez-toc-section" id="Follow_dan_Unfollow_Akun_Publik_Figur_Cara_Memperbanyak_Follower_Instagram"></span>Follow dan Unfollow Akun Publik Figur : Cara Memperbanyak Follower Instagram<span class="ez-toc-section-end"></span></h3>
-<p>Kalian kan sebelumnya telah cari akun akun mana saja yang banyak followers nya atau sudah jadi publik figur. Jadi yang harus kalian lakukan selanjutnya untuk memperbanyak follower instagram kalian dengan cepat dan mudah serta aman adalah meng &#8211; unfollow dan kembali follow dan meng- unfollow.</p>
-<p>Jadi cara ini cukup mudah, cukup follow akun instagram orang orang terkenal baik dalam negeri maupun luar negeri.</p>
-<p>Setelah 1-2 menit berlalu, unfollow akun instagram orang orang terkenal tersebut. Boleh langsung beberapa orang, dan boleh juga satu orang saja.</p>
-<p>Setelah itu, biarkan berlalu 1-2 menit, lalu, follow kembali. Ulangi langkah langkah diatas hingga beberapa kali (boleh dibilang sampai anda cuapek).</p>
-<p>Setelah beberapa saat, mungkin 1-2 jam. Follower anda akan meningkat drastis.</p>
-<p>Kelebihan cara ini adalah anda dapat menambah follower akun instagram kalian tanpa menambah following kamu. Jadi buat orang orang yang tidak suka terlalu banyak following, silahkan gunakan cara memperbanyak follower instagram menggunakan cara ini.</p>
-<h3><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7shtag_/_Tag_Populer"></span>Cara Memperbanyak Follower Instagram : Hashtag / Tag Populer<span class="ez-toc-section-end"></span></h3>
-<p>Kalian tau hashtag / Tag populer. Bagi kalian yang sudah pernah liat postingan instagram pasti pernah liat ini. Jadi hastag itu seperti #doyangngemil #makansehat #instafood .</p>
-<p>Jadi hastag itu seperti mengelompokkan gambar atau video kalian sesuai kategori yang sesuai. Kategori tersebut, atau hastag tersebut akan menghubungkan postingan yang memiliki hastag yang sama.</p><div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- In Article -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="7500135121"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<p>Contoh kalau hastagnya itu #instafood, maka semua pengupload foto atau video tentang makanan akan masuk dalam kategori tersebut. Dengan begitu, para pencinta makanan berpeluang untuk memfollow akun anda.</p>
-<div class='code-block code-block-3' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="7299769391"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-<p>Ingat, bila gunakan hastag, selalu jadikan akun anda publik, bukan private.</p>
-<h3><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7enggunakan_Sinkronisasi_Akun"></span>Cara Memperbanyak Followers Instagram Menggunakan Sinkronisasi Akun<span class="ez-toc-section-end"></span></h3>
-<p>Cara ini memiliki maksud yang sama dengan hastag, yaitu meningkatkan kemungkinan calon followers untuk melihat hasil karya anda di instagram.</p>
-<p>Sinkronisasi akun akan menghubungkan instagram anda dengan facebook, twitter, flickr dan medsos lainnya yang harusnya anda miliki bila ingin membuat olshop, menjadi sosialita dan sejenisnya.</p>
-<h3><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7reatifitas"></span>Cara Memperbanyak Followers Instagram: Kreatifitas<span class="ez-toc-section-end"></span></h3>
-<p>Jadi cara ini merupakan cara yang paling aman dan memang dianjurkan untuk Instagram. Cara ini memang membutuhkan kerja keras dan banyak berpikir.</p>
-<p>Kreatifitas paling mudah untuk mendapatkan followers instagram tidak perlu membuat karya, cukup menampilkan foto foto yang unik, atau kejadian ataupun fakta fakta unik tiap hari.</p>
-<p>Ingat tambahkan hastag dan sikronisasi. Pengguna medsos akan menghargai usaha anda dan akan mengikuti anda karena suka dengan postingan anda.</p>
-<p>Tentu saja bila kalian memiliki target followers seperti range umur, range pendidikan ataupun jenis kelamin tertentu, kalian harus dekati diwilayah yang mereka suka.</p>
-<p>Bila kalian butuh followers anak anak, perbanyak postingan tentang anak anak seperti slime, mainan, dan mainan unik mahal.</p>
-<p>Bila kalian membutuhkan memperbanyak followers instagram Ibu ibu, perbanyak postingan gambar atau video berhubungan dengan resep makanan ataupun tentang kesehatan anak dan ibu, dan cara muaskan suami.</p><div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- In Article -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="7500135121"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<p>Bagi kalian yang ingin memperbanyak followers instagram laki / cowok, kalian posting hal hal yang banyak cowok akan tunggu postingan selanjutnya.</p>
-<p>Bagi kalian yang ingin memperbanyak followers instagram perempuan / gadis, kosmetik dan resep makanan serta butik akan menjadi area postingan anda.</p>
-<h3><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ72Vu8Ke6GEY5W51wwPPMqKZJowXQCeat_Follower"></span>Cara Memperbanyak Follower Instagram : Adakan Event Follower dan Suggest Follower<span class="ez-toc-section-end"></span></h3>
-<p>Jadi bagi kalian yang memiliki cukup modal, kalian bisa juga adakan event untuk tambah follower. Jadi di halaman profil kalian, kalian tuliskan saja event suggest follow akun anda.</p>
-<p>Aturannya sederhana cukup berikan hadiah bagi orang yang memberikan suggest untuk follow akun kamu. Cara buktikannya mudah, yaitu setiap akun yang follow kamu karena suggest, harus  dm (direct message) kamu dan tulis #suggestby?????. Jadi ????? itu diisi dengan id akun instagram yang suggest.</p>
-<p>Cara ini terbilang sangat bagus dan jelas terbukti.</p>
-<p>Jadi kalian harus adil yah, perhitungan dan reportasenya harus bagus (kalau perlu divideokan) agar untuk even setelanjutnya mereka semangat (percaya kalau event tersebut tidak diatur).</p>
-<p>Begitupula dengan penyerahan hadiahnya.</p>
-<h3><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7m_Postingan_Sara"></span>Cara Memperbanyak Followers : Hindari Spam Postingan Sara<span class="ez-toc-section-end"></span></h3>
-<p>Jadi bagi kalian yang ingin menambah dan memperbanyak follower instagram, hal paling penting adalah hindari pengurangan follower.</p>
-<p>Rerata pengguna instagram tidak suka postingan SARA, yang menyangkut kebencian antar umat beragama, ras dan seterusnya.</p>
-<p>Bagi kalian yang mementikan followers diatas segalanya, silahkan hindari ini.</p><div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- In Article -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="7500135121"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<p>Itulah diatas beberapa cara menambah atau cara memperbanyak followers instagram tanpa aplikasi dengan aman cepat dan mudah.</p>
-<p>Selanjutnya kita akan membahas tentang cara memperbanyak followers instagram menggunakan aplikasi.</p>
-<h2><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7enggunakan_Aplikasi"></span>Cara Memperbanyak Followers Instagram Menggunakan Aplikasi<span class="ez-toc-section-end"></span></h2>
-<p>Berikut adalah beberapa cara menambah followers menggunakan aplikasi web di internet.</p>
-<h3><span class="ez-toc-section" id="Cara_Tambah_Followers_Instagram_Aplikasi_www_101follow_tk"></span>Cara Tambah Followers Instagram : Aplikasi www.101follow.tk<span class="ez-toc-section-end"></span></h3>
-<p>Silahkan kunjungi website tersebut. Selanjutnya klik free followers. Setelah itu. Anda akan masuk ke menu login.</p>
-<p>Masukkan username instagram anda. Untuk password, jangan masukkan pasword asli anda, cukup masukkan password sembarang.</p>
-<p>Lalu centang &#8220;Im not robot&#8221;, lalu klik &#8220;log in with instagram&#8221;. Setelah itu akan muncul tulisan &#8220;Thankyou, please wait&#8230;.&#8221;.</p>
-<p>Followers instagram anda akan bertambah banyak setelahnya.</p>
-<p>Bila ingin melakukannya lagi (ingin menambah follower lagi), silahkan ubah dlu nama IG anda, kemudian ulangi langkah diatas dengan nama IG anda yang baru.</p>
-<p>Jangan terlalu sering, nanti anda diblokir karena aktivitas tidak wajar oleh instagram.</p>
-<h3><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7om"></span>Cara Memperbanyak Followers : Instaindo.com<span class="ez-toc-section-end"></span></h3>
-<p>Cara ini terbilang mudah. Cukup kunjungi halaman followergratis.net. Kemudian dari situ anda akan diarahkan untuk ke instaindo.com</p><div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- In Article -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="7500135121"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<p>Di dalam website followergratis.net anda akan dijelaskan dengan detail langkah langkah yang benar dalam menambah followers anda menggunakan aplikasi instaindo.</p>
-<h3><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7deoranje_net"></span>Cara Memperbanyak Followers: Hubungi musdeoranje.net<span class="ez-toc-section-end"></span></h3>
-<p>Jadi cara ini bagus buat kalian yang punya duit dan butuh followers. Jadi sekaligus investasi di followers kalian.</p>
-<p>Silahkan masuki website diatas, dan pilih bagian menu atas, &#8220;Layanan&#8221; dan pilih jual follower instagram.</p>
-<p>Anda akan dihadapkan dengan beberapa pilihan jumlah followers. Silahkan sesuaikan dengan budget anda yah.</p>
-<h3><span class="ez-toc-section" id="Cara_LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7ddmefast_com"></span>Cara Memperbanyak Followers Instagram : Addmefast.com<span class="ez-toc-section-end"></span></h3>
-<p>Silahkan masuk ke website addmefast.com untuk menambahkan followers instagram anda dengan otomatis.</p>
-<p>Saat anda masuk, silahkan klik &#8220;Try for Free Now&#8221;. Kemudian masukkan email anda yang menurut saya anda harus buat email yang baru yang jarang anda pakai. Silahkan ikuti langkah selanjutnya yang diarahkan oleh addmefast.com.</p>
-<p>Anda dapat melakukan cara cara diatas menggunakan android, iphone, HP, dan PC anda.</p>
-<p>Itulah diatas beberapa cara memperbanyak follower instagram tanpa aplikasi dan cara memperbanyak followers instagram menggunakan aplikasi.</p>
-<p>Googlesearchtag: cara memperbanyak followers instagram dengan cepat tanpa following cara memperbanyak followers instagram dengan cepat dan gratis cara memperbanyak followers instagram dengan cepat tanpa following gratis  cara memperbanyak followers instagram dengan cepat dan aman</p>
-<p>cara menambah follower instagram otomatis cara menambah follower instagram orang indonesia cara menambah followers instagram otomatis cara menambah followers instagram orang indonesia cara menambah follower instagram tanpa password</p><div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<!-- In Article -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3543976455994135"
-     data-ad-slot="7500135121"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-
-<p>cara menambah followers instagram tanpa ribet cara menambah followers instagram menjadi ribuan cara memperbanyak followers instagram secara otomatis cara memperbanyak followers instagram secara instan</p>
-<p>cara memperbanyak followers instagram secara cepat cara memperbanyak followers instagram secara alami cara memperbanyak followers instagram tanpa following gratis cara memperbanyak followers instagram tanpa following bertambah</p>
-<!-- AI CONTENT END 2 -->
-<div class="td-a-rec td-a-rec-id-content_bottom  tdi_69_e46 td_block_template_1">
-<style>
-/* custom css */
-.tdi_69_e46.td-a-rec{
-					text-align: center;
-				}.tdi_69_e46 .td-element-style{
-					z-index: -1;
-				}.tdi_69_e46.td-a-rec-img{
-				    text-align: left;
-				}.tdi_69_e46.td-a-rec-img img{
-                    margin: 0 auto 0 0;
-                }@media (max-width: 767px) {
-				    .tdi_69_e46.td-a-rec-img {
-				        text-align: center;
-				    }
-                }
-</style><div style="height:120px; width:240px;"><a href="//www.dmca.com/Protection/Status.aspx?ID=3d1a7c6c-9364-4de1-96b2-998952675581" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=3d1a7c6c-9364-4de1-96b2-998952675581"  alt="DMCA.com Protection Status" /></a></div></div>        </div>
-
-        <footer>
-            <!-- post pagination -->            <!-- review -->
-            <div class="td-post-source-tags">
-                <!-- source via -->                <!-- tags --><ul class="td-tags td-post-small-box clearfix"><li><span>TOPIK</span></li><li><a href="https://learniseasy.com/tag/follower-instagram/">follower instagram</a></li><li><a href="https://learniseasy.com/tag/instagram/">instagram</a></li><li><a href="https://learniseasy.com/tag/medsos/">medsos</a></li><li><a href="https://learniseasy.com/tag/tipshack/">tipshack</a></li></ul>            </div>
-
-            <div class="td-post-sharing-bottom"><div class="td-post-sharing-classic"><iframe frameBorder="0" src="https://www.facebook.com/plugins/like.php?href=https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:auto; height:21px; background-color:transparent;"></iframe></div><div id="td_social_sharing_article_bottom" class="td-post-sharing td-ps-bg td-ps-notext td-post-sharing-style1 "><div class="td-post-sharing-visible"><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flearniseasy.com%2F10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi%2F">
-                                        <div class="td-social-but-icon"><i class="td-icon-facebook"></i></div>
-                                        <div class="td-social-but-text">Facebook</div>
-                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-whatsapp" href="https://api.whatsapp.com/send?text=10+Cara+Memperbanyak+Followers+Instagram+Tanpa+Aplikasi+dan+Aplikasi %0A%0A https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/">
-                                        <div class="td-social-but-icon"><i class="td-icon-whatsapp"></i></div>
-                                        <div class="td-social-but-text">WhatsApp</div>
-                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-twitter" href="https://twitter.com/intent/tweet?text=10+Cara+Memperbanyak+Followers+Instagram+Tanpa+Aplikasi+dan+Aplikasi&url=https%3A%2F%2Flearniseasy.com%2F10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi%2F&via=Learn+Is+Easy">
-                                        <div class="td-social-but-icon"><i class="td-icon-twitter"></i></div>
-                                        <div class="td-social-but-text">Twitter</div>
-                                    </a></div><div class="td-social-sharing-hidden"><ul class="td-pulldown-filter-list"></ul><a class="td-social-sharing-button td-social-handler td-social-expand-tabs" href="#" data-block-uid="td_social_sharing_article_bottom">
-                                    <div class="td-social-but-icon"><i class="td-icon-plus td-social-expand-tabs-icon"></i></div>
-                                </a></div></div></div>            <!-- next prev --><div class="td-block-row td-post-next-prev"><div class="td-block-span6 td-post-prev-post"><div class="td-post-next-prev-content"><span>Artikel sebelumnya</span><a href="https://learniseasy.com/pengertian-demokrasi-menurut-para-ahli/">Pengertian Demokrasi Menurut para Ahli</a></div></div><div class="td-next-prev-separator"></div><div class="td-block-span6 td-post-next-post"><div class="td-post-next-prev-content"><span>Artikel Terbaru</span><a href="https://learniseasy.com/pengertian-sel-sejarah-sel-tumbuhan-hewan/">Pengertian Sel dan Sejarah Sel Tumbuhan dan Hewan</a></div></div></div>            <!-- author box --><div class="author-box-wrap"><a href="https://learniseasy.com/author/admin/"><img src="https://learniseasy.com/wp-content/uploads/2020/09/foto-crop-150x150.jpg" width="96" height="96" alt="Juliar Nur" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo" /></a><div class="desc"><div class="td-author-name vcard author"><span class="fn"><a href="https://learniseasy.com/author/admin/">Juliar Nur</a></span></div><div class="td-author-url"><a href="https://learniseasy.com">https://learniseasy.com</a></div><div class="td-author-description">Salam Kenal, Saya Juliar Nur.S.Si, Sarjana Biologi Universitas Hasanuddin angkatan 2010 dan Guru Biologi SMA. Saya senang mempelajari banyak hal, khususnya seputar materi Biologi</div><div class="td-author-social">
-        <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.facebook.com/jun.mahardika" title="Facebook">
-                <i class="td-icon-font td-icon-facebook"></i>
-            </a>
-        </span></div><div class="clearfix"></div></div></div>            <!-- meta -->        </footer>
-
-    </article> <!-- /.post -->
-
-    <div class="td_block_wrap td_block_related_posts tdi_70_1db td_with_ajax_pagination td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_70_1db" ><script>var block_tdi_70_1db = new tdBlock();
-block_tdi_70_1db.id = "tdi_70_1db";
-block_tdi_70_1db.atts = '{"limit":3,"ajax_pagination":"next_prev","live_filter":"cur_post_same_categories","td_ajax_filter_type":"td_custom_related","class":"tdi_70_1db","td_column_number":3,"block_type":"td_block_related_posts","live_filter_cur_post_id":5827,"live_filter_cur_post_author":"1","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_ajax_preloading":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","tdc_css_class":"tdi_70_1db","tdc_css_class_style":"tdi_70_1db_rand_style"}';
-block_tdi_70_1db.td_column_number = "3";
-block_tdi_70_1db.block_type = "td_block_related_posts";
-block_tdi_70_1db.post_count = "3";
-block_tdi_70_1db.found_posts = "8";
-block_tdi_70_1db.header_color = "";
-block_tdi_70_1db.ajax_pagination_infinite_stop = "";
-block_tdi_70_1db.max_num_pages = "3";
-tdBlocksArray.push(block_tdi_70_1db);
-</script><h4 class="td-related-title td-block-title"><a id="tdi_71_97d" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="tdi_70_1db" href="#">ARTIKEL TERKAIT</a><a id="tdi_72_107" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="tdi_70_1db" href="#">DARI PENULIS</a></h4><div id=tdi_70_1db class="td_block_inner">
-
-	<div class="td-related-row">
-
-	<div class="td-related-span4">
-
-        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
-            <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://learniseasy.com/belajar-cara-bermain-game-pokemon-go-di-smartphone/" rel="bookmark" class="td-image-wrap " title="Belajar Cara  Bermain Game Pokemon Go Di Smartphone" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRNFAHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRNVEmfwoLpUCqP4voctsbaWRnZsjUyiS3GGFZsyf+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="Belajar Cara  Bermain Game Pokemon Go Di Smartphone" data-type="image_tag" data-img-url="https://learniseasy.com/wp-content/uploads/2016/07/pokemon-go-bermain-pokemon-go-SMALL-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
-            <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/belajar-cara-bermain-game-pokemon-go-di-smartphone/" rel="bookmark" title="Belajar Cara  Bermain Game Pokemon Go Di Smartphone">Belajar Cara  Bermain Game Pokemon Go Di Smartphone</a></h3>            </div>
-        </div>
-        
-	</div> <!-- ./td-related-span4 -->
-
-	<div class="td-related-span4">
-
-        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
-            <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://learniseasy.com/apa-itu-game-pokemon-go-dowload-pokemon-go/" rel="bookmark" class="td-image-wrap " title="Apa itu Game Pokemon Go: Dowload Pokemon Go" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRNFAHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRNVEmfwoLpUCqP4voctsbaWRnZsjUyiS3GGFZsyf+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="Apa itu Game Pokemon Go: Dowload Pokemon Go" data-type="image_tag" data-img-url="https://learniseasy.com/wp-content/uploads/2016/07/pokemon-go-bermain-pokemon-go-SMALL-1-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
-            <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/apa-itu-game-pokemon-go-dowload-pokemon-go/" rel="bookmark" title="Apa itu Game Pokemon Go: Dowload Pokemon Go">Apa itu Game Pokemon Go: Dowload Pokemon Go</a></h3>            </div>
-        </div>
-        
-	</div> <!-- ./td-related-span4 -->
-
-	<div class="td-related-span4">
-
-        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
-            <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://learniseasy.com/cara-membuat-blog-setting-basic-di-blogger/" rel="bookmark" class="td-image-wrap " title="Cara Membuat Blog: Setting Basic di Blogger" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRNFAHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRNVEmfwoLpUCqP4voctsbaWRnZsjUyiS3GGFZsyf+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="Cara Membuat Blog: Setting Basic di Blogger" data-type="image_tag" data-img-url="https://learniseasy.com/wp-content/uploads/2015/01/cara-pengaturan-dasar-di-blog-1-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
-            <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://learniseasy.com/cara-membuat-blog-setting-basic-di-blogger/" rel="bookmark" title="Cara Membuat Blog: Setting Basic di Blogger">Cara Membuat Blog: Setting Basic di Blogger</a></h3>            </div>
-        </div>
-        
-	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-tdi_70_1db" data-td_block_id="tdi_70_1db"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-tdi_70_1db" data-td_block_id="tdi_70_1db"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
-        <div class="comments" id="comments">
-        	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">TINGGALKAN KOMENTAR <small><a rel="nofollow" id="cancel-comment-reply-link" href="/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/#respond" style="display:none;">Batal membalas</a></small></h3><form action="https://learniseasy.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><div class="clearfix"></div>
-				<div class="comment-form-input-wrap td-form-comment">
-					<textarea placeholder="Komentar:" id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea>
-					<div class="td-warning-comment">Silakan masukkan komentar anda!</div>
-				</div>
-		        <div class="comment-form-input-wrap td-form-author">
-			            <input class="" id="author" name="author" placeholder="Nama:*" type="text" value="" size="30"  aria-required='true' />
-			            <div class="td-warning-author">Silakan masukkan nama Anda di sini</div>
-			         </div>
-<div class="comment-form-input-wrap td-form-email">
-			            <input class="" id="email" name="email" placeholder="Email:*" type="text" value="" size="30"  aria-required='true' />
-			            <div class="td-warning-email-error">Anda telah memasukkan alamat email yang salah!</div>
-			            <div class="td-warning-email">Silakan masukkan alamat email Anda di sini</div>
-			         </div>
-<div class="comment-form-input-wrap td-form-url">
-			            <input class="" id="url" name="url" placeholder="Website:" type="text" value="" size="30" />
-                     </div>
-<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /><label for="wp-comment-cookies-consent">Simpan nama, email, dan situs web saya di browser ini untuk lain kali saya berkomentar.</label></p>
-<p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Beritahu saya akan tindak lanjut komentar melalui surel.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Kirim Komentar" /> <input type='hidden' name='comment_post_ID' value='5827' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p></form>	</div><!-- #respond -->
-	    </div> <!-- /.content -->
-                                </div>
-                        </div>
-                        <div class="td-pb-span4 td-main-sidebar" role="complementary">
-                            <div class="td-ss-main-sidebar">
-                                
-		<aside id="recent-posts-3" class="td_block_template_1 widget recent-posts-3 widget_recent_entries">
-		<h4 class="block-title"><span>Pos-pos Terbaru</span></h4>
-		<ul>
-											<li>
-					<a href="https://learniseasy.com/simbiosis-mutualisme-bakteri-dalam-usus-besar/">Hubungan antara bakteri dalam usus besar manusia membentuk Simbiosis</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/hubungan-antara-bunga-rafflesia-dengan-lalat-merupakan-simbiosis/">Hubungan antara bunga rafflesia dengan lalat merupakan simbiosis</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/jelaskan-simbiosi-hubungan-ikan-hiu-dan-ikan-remora/">Jelaskan Simbiosi hubungan ikan hiu dan ikan remora</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/interaksi-antar-semut-kutu-daun-simbiosis-mutualisme/">Mengapa interaksi antar semut dan kutu daun disebut simbiosis mutualisme</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/hubungan-antara-anggrek-pohon-mangga-contoh-simbiosis/">Hubungan Antara Anggrek dan Pohon Mangga adalah Contoh Simbiosis</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/simbiosis-mutualisme-antara-rayap-flagellata/">Jelaskan Simbiosis Mutualisme antara rayap dan flagellata</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/jelaskan-simbiosis-mutualisme-ganggang-jamur/">Jelaskan Simbiosis mutualisme antara ganggang dan jamur</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/jenis-simbiosis-antar-kerbau-burung-jalak/">Jenis simbiosis antar kerbau dan burung jalak adalah simbiosis</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/pernyataan-benar-mengenai-hukum-2-mendel/">Pernyataan Yang Benar Mengenai Hukum 2 Mendel</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/jenis-simbiosis-antara-nyamuk-dan-manusia-adalah-simbiosis/">Jenis simbiosis antara nyamuk dan manusia adalah simbiosis</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/interaksi-makhluk-hidup-berikut-yang-termasuk-simbiosis-komensalisme-adalah/">Interaksi makhluk hidup berikut yang termasuk simbiosis komensalisme adalah</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/tanaman-kembang-sepatu-berbunga-besar-warna-kuning-disilangkan-dengan-tanaman-sejenis-berbunga-besar-warna-putih/">Tanaman kembang sepatu berbunga besar- warna kuning disilangkan dengan tanaman sejenis berbunga besar-warna putih</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/faktor-pembawa-sifat-yang-diwariskan-dari-induk-pada-keturunannya-disebut/">Faktor Pembawa sifat yang diwariskan dari induk pada keturunannya disebut</a>
-									</li>
-											<li>
-					<a href="https://learniseasy.com/osmosis/">Osmosis adalah: Pengertian, Sejarah, Mekanisme, Faktor, Contoh, Fungsi</a>
-									</li>
-					</ul>
-
-		</aside>                            </div>
-                        </div>
-                                    </div> <!-- /.td-pb-row -->
-        </div> <!-- /.td-container -->
-    </div> <!-- /.td-main-content-wrap -->
-
-<!-- Instagram -->
-
-	
-	
-            <div class="tdc-footer-wrap ">
-
-                <!-- Footer -->
-				
-                <!-- Sub Footer -->
-				    <div class="td-sub-footer-container td-container-wrap ">
-        <div class="td-container">
-            <div class="td-pb-row">
-                <div class="td-pb-span td-sub-footer-menu">
-                    <div class="menu-down-container"><ul id="menu-down" class="td-subfooter-menu"><li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-14"><a href="https://learniseasy.com/contact-us/">Contact Us</a></li>
-<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-15"><a href="https://learniseasy.com/disclaimer/">Disclaimer</a></li>
-<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy td-menu-item td-normal-menu menu-item-16"><a href="https://learniseasy.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17"><a href="https://learniseasy.com/about-us/">About Us</a></li>
-<li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-179"><a href="https://learniseasy.com/hubungi-kami/">Hubungi Kami</a></li>
-</ul></div>                </div>
-
-                <div class="td-pb-span td-sub-footer-copy">
-                    &copy;                 </div>
-            </div>
-        </div>
-    </div>
-            </div><!--close td-footer-wrap-->
-			
-</div><!--close td-outer-wrap-->
-
-
-	<div style="display:none">
-	<div class="grofile-hash-map-93bce5cd9a8a4f9624df1bd71216a30a">
-	</div>
-	</div>
-
-
-    <!--
-
-        Theme: Newspaper by tagDiv.com 2020
-        Version: 10.3.9.1 (rara)
-        Deploy mode: deploy
-        
-        uid: 6047edd720a64
-    -->
-
-    
-<!-- Custom css from theme panel -->
-<style type="text/css" media="screen">
-/* custom css theme panel */
-    .youtube-player {
-        position: relative;
-        padding-bottom: 56.23%;
-        /* Use 75% for 4:3 videos */
-        height: 0;
-        overflow: hidden;
-        max-width: 100%;
-        background: #000;
-        margin: 5px;
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.ilmupena.com/2016/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive2"));' rel='nofollow' target='configBlogArchive2' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<div class='clear'></div>
+<div class='sidebar section section' id='sidebar'><div class='widget Followers' data-version='1' id='Followers1'>
+<h2 class='title'>Blog Followers</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<div><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<div id="followers-iframe-container"></div>
+<script type="text/javascript">
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d6007621929206793116\x26colors\x3dCgt0cmFuc1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi8emE66pjdExmgep47BGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiQCeaEuN3cBScszNHP9s7f0\x26pageSize\x3d21\x26postID\x3d5564474417861894328\x26origin\x3dhttps://www.ilmupena.com/");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              },
+              'blogger-ping': function() {
+              }
+            }
+          });
+        }
+      });
     }
-    
-    .youtube-player iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        z-index: 100;
-        background: transparent;
-    }
-    
-    .youtube-player img {
-        bottom: 0;
-        display: block;
-        left: 0;
-        margin: auto;
-        max-width: 100%;
-        width: 100%;
-        position: absolute;
-        right: 0;
-        top: 0;
-        border: none;
-        height: auto;
-        cursor: pointer;
-        -webkit-transition: .4s all;
-        -moz-transition: .4s all;
-        transition: .4s all;
-    }
-    
-    .youtube-player img:hover {
-        -webkit-filter: brightness(75%);
-    }
-    
-    .youtube-player .play {
-        height: 72px;
-        width: 72px;
-        left: 50%;
-        top: 50%;
-        margin-left: -36px;
-        margin-top: -36px;
-        position: absolute;
-        background: url("//i.imgur.com/TxzC70f.png") no-repeat;
-        cursor: pointer;
-    }
-
-
-/* custom responsive css from theme panel (Advanced CSS) */
-@media (min-width: 1141px) {
-.td-post-featured-image{display:none}
-}
-
-
-/* custom responsive css from theme panel (Advanced CSS) */
-@media (min-width: 1019px) and (max-width: 1140px) {
-.td-post-featured-image{display:none}
-}
-
-
-/* custom responsive css from theme panel (Advanced CSS) */
-@media (min-width: 768px) and (max-width: 1018px) {
-.td-post-featured-image{display:none}
-}
-</style>
-
- <script type="text/javascript">
-document.addEventListener("DOMContentLoaded",
- function() {
- var div, n,
- v = document.getElementsByClassName("youtube-player");
- for (n = 0; n < v.length; n++) {
- div = document.createElement("div");
- div.setAttribute("data-id", v[n].dataset.id);
- div.innerHTML = slearniseasyThumb(v[n].dataset.id);
- div.onclick = slearniseasyIframe;
- v[n].appendChild(div);
- }
- });
- function slearniseasyThumb(id) {
- var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
- play = '<div class="play"></div>';
- return thumb.replace("ID", id) + play;
- }
- function slearniseasyIframe() {
- var iframe = document.createElement("iframe");
- var embed = "https://www.youtube.com/embed/ID?autoplay=1";
- iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
- iframe.setAttribute("frameborder", "0");
- iframe.setAttribute("allowfullscreen", "1");
- this.parentNode.replaceChild(iframe, this);
- }
- </script>
- 		<div id="amp-mobile-version-switcher" hidden>
-			<a rel="amphtml" href="https://learniseasy.com/10-cara-memperbanyak-follower-instagram-tanpa-aplikasi-dan-aplikasi/?amp=1">
-				Go to mobile version			</a>
-		</div>
-
-				<script type='text/javascript' src='https://learniseasy.com/wp-content/plugins/accordion-blocks/js/accordion-blocks.min.js?ver=1.2.2' id='pb-accordion-blocks-frontend-script-js'></script>
-<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202110' id='grofiles-cards-js'></script>
-<script type='text/javascript' id='wpgroho-js-extra'>
-/* <![CDATA[ */
-var WPGroHo = {"my_hash":""};
-/* ]]> */
+    followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d6007621929206793116\x26colors\x3dCgt0cmFuc1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi8emE66pjdExmgep47BGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiQCeaEuN3cBScszNHP9s7f0\x26pageSize\x3d21\x26postID\x3d5564474417861894328\x26origin\x3dhttps://www.ilmupena.com/");
+  </script></div>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' rel='nofollow' target='configFollowers1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+<div class='widget HTML' data-version='1' id='HTML3'>
+<div class='widget-content'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- automotiveenginering_sidebar_AdSense2_1x1_as -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8403977479497665"
+     data-ad-slot="8924854055"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type='text/javascript' src='https://learniseasy.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=9.3.1' id='wpgroho-js'></script>
-<script type='text/javascript' src='https://learniseasy.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
-<script type='text/javascript' src='https://learniseasy.com/wp-content/plugins/td-cloud-library/assets/js/js_posts_autoload.min.js?ver=a50385a2d79d6600973a7e697f735a0b' id='tdb_js_posts_autoload-js'></script>
-<script type='text/javascript' src='https://learniseasy.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?ver=10.3.9.1' id='td-site-min-js'></script>
-<script type='text/javascript' src='https://learniseasy.com/wp-includes/js/comment-reply.min.js?ver=5.6.2' id='comment-reply-js'></script>
-<script type='text/javascript' src='https://learniseasy.com/wp-content/plugins/td-cloud-library/assets/js/js_files_for_front.min.js?ver=a50385a2d79d6600973a7e697f735a0b' id='tdb_js_files_for_front-js'></script>
-<script type='text/javascript' src='https://learniseasy.com/wp-content/plugins/easy-table-of-contents/vendor/smooth-scroll/jquery.smooth-scroll.min.js?ver=2.2.0' id='jquery-smooth-scroll-js'></script>
-<script type='text/javascript' src='https://learniseasy.com/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js?ver=2.2.1' id='js-cookie-js'></script>
-<script type='text/javascript' src='https://learniseasy.com/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2' id='jquery-sticky-kit-js'></script>
-<script type='text/javascript' id='ez-toc-js-js-extra'>
-/* <![CDATA[ */
-var ezTOC = {"visibility_hide_by_default":"","width":"auto","scroll_offset":"30"};
-/* ]]> */
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' rel='nofollow' target='configHTML3' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</aside>
+<!-- sidebar wrapper end -->
+</div>
+<!-- content wrapper end -->
+<div class='clear'></div>
+<aside id='bottombar'>
+<div class='left section section' id='left'><div class='widget Label' data-version='1' id='Label1'>
+<h2>Kategori</h2>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='https://www.ilmupena.com/search/label/Pidato?max-results=5'>Pidato</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='https://www.ilmupena.com/search/label/Pembelajaran?max-results=5'>Pembelajaran</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='https://www.ilmupena.com/search/label/Cerita%20Islami?max-results=5'>Cerita Islami</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='https://www.ilmupena.com/search/label/Tips?max-results=5'>Tips</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='https://www.ilmupena.com/search/label/Busana?max-results=5'>Busana</a>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' rel='nofollow' target='configLabel1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+<div class='center section section' id='center'><div class='widget FeaturedPost' data-version='1' id='FeaturedPost1'>
+<h2 class='title'>Post Terakhir</h2>
+<div class='post-summary'>
+<h3><a href='https://www.ilmupena.com/2020/09/kisah-pemilik-dua-kebun-yang-sombong.html'> Kisah Pemilik Dua Kebun Yang Sombong</a></h3>
+<p>
+Disebutkan dalam Al Qur&#8217;an pada Surah Al Kahfi ayat 32-44. Kisah ini menceritakan seorang pemilik kebun yang dibutakan oleh kenikmatan dunia...
+</p>
+<img class='image' src='https://1.bp.blogspot.com/-Bmk4aWBosnY/X2n1QAS6tgI/AAAAAAAAGyk/WlTA6WGS2Y4DLCme8t-pgKmg-j5SPAPMwCLcBGAsYHQ/w582-h298/6.jpg'/>
+</div>
+<style type='text/css'>
+    .image {
+      width: 100%;
+    }
+  </style>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' onclick='return _WidgetManager._PopupConfig(document.getElementById("FeaturedPost1"));' rel='nofollow' target='configFeaturedPost1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<div class='right section section' id='right'><div class='widget Text' data-version='1' id='Text1'>
+<h2 class='title'>Tentang Kami</h2>
+<div class='widget-content'>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text1"));' rel='nofollow' target='configText1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='widget-content'>
+<a href="http://www.dmca.com/Protection/Status.aspx?ID=5461691d-233c-473f-aac1-e801e29ab73a" title="DMCA.com Protection Status" class="dmca-badge"> <img src="//images.dmca.com/Badges/dmca-badge-w250-2x1-03.png?ID=5461691d-233c-473f-aac1-e801e29ab73a" alt="DMCA.com Protection Status" /></a> <script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' rel='nofollow' target='configHTML2' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML4'>
+<div class='widget-content'>
+<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4029129,4,106,210,40,00011111']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?4029129&amp;101" alt="" border="0" /></a></noscript>
+<!-- Histats.com  END  -->
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' rel='nofollow' target='configHTML4' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</aside>
+<!-- footer wrapper start -->
+<footer id='footer-wrapper'>
+<div class='footer-left'>
+		Copyright 2017 <a href='https://www.ilmupena.com/'>IlmuPena.com</a>
+</div>
+<div class='footer-right'>
+		Powered by <a href="//www.blogger.com/" title="Blogger">Blogger.com</a>
+</div>
+</footer>
+<!-- footer wrapper end -->
+<!-- wrapper end -->
+</div>
+<div class='back-to-top'><a href='#' id='back-to-top' title='back to top'>
+<i class='fa fa-chevron-up'></i>
+</a></div>
+<script>            
+$(window).scroll(function() {
+    if($(this).scrollTop() > 200) {
+        $('#back-to-top').fadeIn();
+    } else {
+        $('#back-to-top').fadeOut();
+    }
+});
+
+$('#back-to-top').hide().click(function() {
+    $('html, body').animate({scrollTop:0}, 1000);
+    return false;
+});
 </script>
-<script type='text/javascript' src='https://learniseasy.com/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.11-1588394622' id='ez-toc-js-js'></script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
-<script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-<!-- JS generated by theme -->
-
-<script>
-    
-
-            
-                /* global jQuery:{} */
-                jQuery(window).on( 'load', function () {
-
-                    var tdbMenuItem = new tdbMenu.item();
-                    tdbMenuItem.blockUid = 'tdi_44_303';
-                    tdbMenuItem.jqueryObj = jQuery('.tdi_44_303');
-
-	                
-	                
-                    tdbMenuItem.isMegaMenuParentPos = true;
-
-	                
-	                
-                    tdbMenu.addItem(tdbMenuItem);
-
-                });
-            
-            
-
-        
-            jQuery().ready(function () {
-
-                var tdbSearchItem = new tdbSearch.item();
-
-                //block unique ID
-                tdbSearchItem.blockUid = 'tdi_56_6d0';
-                tdbSearchItem.blockAtts = '{"results_msg_align":"content-horiz-center","image_floated":"float_left","image_size":"td_324x400","show_btn":"none","show_date":"","show_review":"","show_com":"none","show_excerpt":"none","show_author":"none","art_title":"0 0 5px","all_modules_space":"12px","tdc_css":"eyJhbGwiOnsiZGlzcGxheSI6IiJ9LCJwb3J0cmFpdCI6eyJkaXNwbGF5IjoiIn0sInBvcnRyYWl0X21heF93aWR0aCI6LgjH2m5c8emE66pjdExmgep47BAdKTrCJ72Vu8Ke6GEY5W51wwPPMqKZJowXQCeayFNYwjoiIn0sImxhbmRzY2FwZV9tYXnHiSgDznyvEWLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7OjEwMTl9","form_padding":"eyJhbGwiOiIyNHB4IiwibGFuZHNjYXBlIjoiMjBweCIsInBvcnRyYWl0IjoiMjBweCJ9","form_border":"0","form_align":"content-horiz-right","results_padding":"eyJhbGwiOiIwIDI0cHggLgjH2m5c8emE66pjdExmgep47BAdKTrCJ72Vu8Ke6GEY5W51wwPPMqKZJowXQCeaKTrCJ7BweCJ9","results_border":"0 0 1px 0","results_msg_padding":"6px 0","modules_divider":"","modules_divider_color":"","h_effect":"","image_height":"70","meta_info_horiz":"content-horiz-left","meta_info_align":"","results_msg_color":"#000000","f_title_font_size":"eyJhbGwiOiIyLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7JhaXQiOiIxNiJ9","f_title_font_weight":"700","modules_category":"above","mc1_el":"16","f_title_font_line_height":"1.1","btn_bg":"#52a580","btn_tdicon":"tdc-font-tdmp tdc-font-tdmp-arrow-cut-right","btn_icon_size":"12","btn_padding":"eyJhbGwiOiI4cHggMjBweCIsInBvcnRyYWl0IjoiNnB4IDE2cHgifQ==","btn_icon_space":"10","input_border_color":"rgba(0,0,0,0.03)","btn_shadow_shadow_size":"6","btn_shadow_shadow_color":"rgba(0,0,0,0.39)","input_bg":"rgba(0,0,0,0.03)","btn_icon_pos":"after","inline":"yes","input_padding":"0 14px","title_txt_hover":"#52a580","icon_size":"eyJhbGwiOjIyLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7l0IjoiMjAifQ==","form_width":"eyJhbGwiOiI1MDAiLCJwb3J0cmFpdCI6IjQwMCIsImxhbmRzY2FwZSI6IjQwMCJ9","f_input_font_family":"fs_2","f_placeholder_font_family":"fs_2","f_title_font_family":"fs_2","f_title_font_transform":"","f_ex_font_family":"fs_2","f_btn_font_family":"fs_2","f_btn_font_transform":"uppercase","f_btn_font_weight":"700","cat_txt_hover":"#ffffff","cat_bg_hover":"#000000","image_width":"30","show_form":"yes","tdicon":"td-icon-magnifier-big-rounded","icon_color_h":"#000000","arrow_color":"#ffffff","btn_bg_h":"#000000","f_ex_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","art_excerpt":"6px 0 10px 0","ex_txt":"#000000","mc1_tl":"16","float_block":"yes","icon_color":"#000000","toggle_txt_pos":"","toggle_txt_color":"#000000","f_toggle_txt_font_family":"fs_2","f_toggle_txt_font_weight":"300","f_toggle_txt_font_size":"14","f_placeholder_font_weight":"300","f_input_font_weight":"300","f_btn_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_input_font_size":"14","f_results_msg_font_family":"fs_2","f_results_msg_font_size":"14","f_results_msg_font_weight":"300","f_results_msg_font_style":"normal","cat_bg":"#000000","f_cat_font_family":"fs_2","f_meta_font_family":"fs_2","f_ex_font_weight":"300","f_meta_font_weight":"300","f_cat_font_weight":"700","f_cat_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_meta_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_cat_font_transform":"uppercase","f_cat_font_line_height":"1","modules_category_padding":"eyJhbGwiOiIxcHggM1AHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRN47BAdKTrCJ70cmFpdCI6IjJweCAzcHggMXB4In0=","author_txt":"#000000","date_txt":"#000000","meta_padding":"2px 0 0 15px","modules_category_margin":"0 0 7px","results_msg_color_h":"#52a580","icon_padding":"eyJhbGwiOjIuNCwibGFuZHNjYXBlIjoiMi4yIiwicG9ydHJhaXQiOiIyIn0=","block_type":"tdb_header_search","separator":"","toggle_txt":"","toggle_txt_align":"0","toggle_txt_space":"","toggle_horiz_align":"content-horiz-left","form_offset":"","form_offset_left":"","form_content_width":"","form_align_screen":"","input_placeholder":"","placeholder_travel":"0","input_border":"","input_radius":"","btn_text":"Search","btn_icon_align":"0","btn_margin":"","btn_border":"","btn_radius":"","results_msg_border":"","results_limit":"","modules_on_row":"100%","modules_gap":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","image_alignment":"50","image_radius":"","hide_image":"","video_icon":"","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","vid_t_color":"","vid_t_bg_color":"","f_vid_time_font_header":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_width":"","meta_margin":"","excerpt_col":"1","excerpt_gap":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_modified_date":"","review_size":"2.5","excerpt_middle":"","btn_title":"","btn_border_width":"","form_general_bg":"","toggle_txt_color_h":"","f_toggle_txt_font_header":"","f_toggle_txt_font_title":"Text","f_toggle_txt_font_settings":"","f_toggle_txt_font_line_height":"","f_toggle_txt_font_style":"","f_toggle_txt_font_transform":"","f_toggle_txt_font_spacing":"","f_toggle_txt_":"","form_bg":"","form_border_color":"","form_shadow_shadow_header":"","form_shadow_shadow_title":"Shadow","form_shadow_shadow_size":"","form_shadow_shadow_offset_horizontal":"","form_shadow_shadow_offset_vertical":"","form_shadow_shadow_spread":"","form_shadow_shadow_color":"","input_color":"","placeholder_color":"","placeholder_opacity":"0","input_shadow_shadow_header":"","input_shadow_shadow_title":"Input shadow","input_shadow_shadow_size":"","input_shadow_shadow_offset_horizontal":"","input_shadow_shadow_offset_vertical":"","input_shadow_shadow_spread":"","input_shadow_shadow_color":"","btn_color":"","btn_color_h":"","btn_icon_color":"","btn_icon_color_h":"","btn_border_color":"","btn_border_color_h":"","btn_shadow_shadow_header":"","btn_shadow_shadow_title":"Button shadow","btn_shadow_shadow_offset_horizontal":"","btn_shadow_shadow_offset_vertical":"","btn_shadow_shadow_spread":"","f_input_font_header":"","f_input_font_title":"Input text","f_input_font_settings":"","f_input_font_line_height":"","f_input_font_style":"","f_input_font_transform":"","f_input_font_spacing":"","f_input_":"","f_placeholder_font_title":"Placeholder text","f_placeholder_font_settings":"","f_placeholder_font_size":"","f_placeholder_font_line_height":"","f_placeholder_font_style":"","f_placeholder_font_transform":"","f_placeholder_font_spacing":"","f_placeholder_":"","f_btn_font_title":"Button text","f_btn_font_settings":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_spacing":"","f_btn_":"","results_bg":"","results_border_color":"","results_msg_bg":"","results_msg_border_color":"","f_results_msg_font_header":"","f_results_msg_font_title":"Text","f_results_msg_font_settings":"","f_results_msg_font_line_height":"","f_results_msg_font_transform":"","f_results_msg_font_spacing":"","f_results_msg_":"","m_bg":"","color_overlay":"","shadow_module_shadow_header":"","shadow_module_shadow_title":"Module Shadow","shadow_module_shadow_size":"","shadow_module_shadow_offset_horizontal":"","shadow_module_shadow_offset_vertical":"","shadow_module_shadow_spread":"","shadow_module_shadow_color":"","title_txt":"","all_underline_color":"#000","all_underline_height":"","cat_txt":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt_hover":"","com_bg":"","com_txt":"","rev_txt":"","shadow_meta_shadow_header":"","shadow_meta_shadow_title":"Meta info shadow","shadow_meta_shadow_size":"","shadow_meta_shadow_offset_horizontal":"","shadow_meta_shadow_offset_vertical":"","shadow_meta_shadow_spread":"","shadow_meta_shadow_color":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border_hover":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_style":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_style":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","el_class":"","block_template_id":"","td_column_number":3,"header_color":"","ajax_pagination_infinite_stop":"","offset":"","limit":"5","td_ajax_preloading":"","td_ajax_filter_type":"","td_filter_default_txt":"","td_ajax_filter_ids":"","color_preset":"","ajax_pagination":"","border_top":"","css":"","class":"tdi_56_6d0","tdc_css_class":"tdi_56_6d0","tdc_css_class_style":"tdi_56_6d0_rand_style"}';
-                tdbSearchItem.jqueryObj = jQuery('.tdi_56_6d0');
-                tdbSearchItem._openSearchFormClass = 'tdb-drop-down-search-open';
-                tdbSearchItem._resultsLimit = '4';
-
-                
-                tdbSearch.addItem( tdbSearchItem );
-
-            });
-        
-        
-
-            
-                /* global jQuery:{} */
-                jQuery(window).on( 'load', function () {
-
-                    var tdbMenuItem = new tdbMenu.item();
-                    tdbMenuItem.blockUid = 'tdi_63_7f7';
-                    tdbMenuItem.jqueryObj = jQuery('.tdi_63_7f7');
-
-	                
-	                
-                    tdbMenuItem.isMegaMenuParentPos = true;
-
-	                
-	                
-                    tdbMenu.addItem(tdbMenuItem);
-
-                });
-            
-            
-
-        
-            jQuery().ready(function () {
-
-                var tdbSearchItem = new tdbSearch.item();
-
-                //block unique ID
-                tdbSearchItem.blockUid = 'tdi_66_ced';
-                tdbSearchItem.blockAtts = '{"results_msg_align":"content-horiz-center","image_floated":"float_left","image_size":"td_324x400","show_btn":"none","show_date":"","show_review":"","show_com":"none","show_excerpt":"none","show_author":"none","art_title":"0 0 5px","all_modules_space":"12px","tdc_css":"eyJhbGwiOnsiZGlzcGxheSI6IiJ9LCJwb3J0cmFpdCI6eyJkaXNwbGF5IjoiIn0sInBvcnRyYWl0X21heF93aWR0aCI6LgjH2m5c8emE66pjdExmgep47BAdKTrCJ72Vu8Ke6GEY5W51wwPPMqKZJowXQCeayFNYwjoiIn0sImxhbmRzY2FwZV9tYXnHiSgDznyvEWLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7OjEwMTl9","form_padding":"eyJhbGwiOiIyNHB4IiwibGFuZHNjYXBlIjoiMjBweCIsInBvcnRyYWl0IjoiMjBweCJ9","form_border":"0","form_align":"content-horiz-right","results_padding":"eyJhbGwiOiIwIDI0cHggLgjH2m5c8emE66pjdExmgep47BAdKTrCJ72Vu8Ke6GEY5W51wwPPMqKZJowXQCeaKTrCJ7BweCJ9","results_border":"0 0 1px 0","results_msg_padding":"6px 0","modules_divider":"","modules_divider_color":"","h_effect":"","image_height":"70","meta_info_horiz":"content-horiz-left","meta_info_align":"","results_msg_color":"#000000","f_title_font_size":"eyJhbGwiOiIyLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7JhaXQiOiIxNiJ9","f_title_font_weight":"700","modules_category":"above","mc1_el":"16","f_title_font_line_height":"1.1","btn_bg":"#52a580","btn_tdicon":"tdc-font-tdmp tdc-font-tdmp-arrow-cut-right","btn_icon_size":"12","btn_padding":"eyJhbGwiOiI4cHggMjBweCIsInBvcnRyYWl0IjoiNnB4IDE2cHgifQ==","btn_icon_space":"10","input_border_color":"rgba(0,0,0,0.03)","btn_shadow_shadow_size":"6","btn_shadow_shadow_color":"rgba(0,0,0,0.39)","input_bg":"rgba(0,0,0,0.03)","btn_icon_pos":"after","inline":"yes","input_padding":"0 14px","title_txt_hover":"#52a580","icon_size":"eyJhbGwiOjIyLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7l0IjoiMTgifQ==","form_width":"eyJhbGwiOiI1MDAiLCJwb3J0cmFpdCI6IjQwMCIsImxhbmRzY2FwZSI6IjQwMCJ9","f_input_font_family":"fs_2","f_placeholder_font_family":"fs_2","f_title_font_family":"fs_2","f_title_font_transform":"","f_ex_font_family":"fs_2","f_btn_font_family":"fs_2","f_btn_font_transform":"uppercase","f_btn_font_weight":"700","cat_txt_hover":"#ffffff","cat_bg_hover":"#000000","image_width":"30","show_form":"yes","tdicon":"td-icon-magnifier-big-rounded","icon_color_h":"#000000","arrow_color":"#ffffff","btn_bg_h":"#000000","f_ex_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","art_excerpt":"6px 0 10px 0","ex_txt":"#000000","mc1_tl":"16","float_block":"yes","icon_color":"#000000","toggle_txt_pos":"","toggle_txt_color":"#000000","f_toggle_txt_font_family":"fs_2","f_toggle_txt_font_weight":"100","f_toggle_txt_font_size":"14","f_placeholder_font_weight":"100","f_input_font_weight":"100","f_btn_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_input_font_size":"14","f_results_msg_font_family":"fs_2","f_results_msg_font_size":"14","f_results_msg_font_weight":"100","f_results_msg_font_style":"normal","cat_bg":"#000000","f_cat_font_family":"fs_2","f_meta_font_family":"fs_2","f_ex_font_weight":"100","f_meta_font_weight":"100","f_cat_font_weight":"700","f_cat_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_meta_font_size":"eyJhbGwiOiIxNCIsImxhbmRzY2FwZSI6IjEyIiwicG9ydHJhaXQiOiIxMiJ9","f_cat_font_transform":"uppercase","f_cat_font_line_height":"1","modules_category_padding":"eyJhbGwiOiIxcHggM1AHa9ZXRmGcuj4pN1qae25JgSsVtGA4ekRN47BAdKTrCJ70cmFpdCI6IjJweCAzcHggMXB4In0=","author_txt":"#000000","date_txt":"#000000","meta_padding":"2px 0 0 15px","modules_category_margin":"0 0 7px","results_msg_color_h":"#52a580","icon_padding":"eyJhbGwiOjIuNCwibGFuZHNjYXBlIjoiMi4yIiwicG9ydHJhaXQiOiIyLjMifQ==","block_type":"tdb_header_search","separator":"","toggle_txt":"","toggle_txt_align":"0","toggle_txt_space":"","toggle_horiz_align":"content-horiz-left","form_offset":"","form_offset_left":"","form_content_width":"","form_align_screen":"","input_placeholder":"","placeholder_travel":"0","input_border":"","input_radius":"","btn_text":"Search","btn_icon_align":"0","btn_margin":"","btn_border":"","btn_radius":"","results_msg_border":"","results_limit":"","modules_on_row":"100%","modules_gap":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","image_alignment":"50","image_radius":"","hide_image":"","video_icon":"","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","vid_t_color":"","vid_t_bg_color":"","f_vid_time_font_header":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_width":"","meta_margin":"","excerpt_col":"1","excerpt_gap":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_modified_date":"","review_size":"2.5","excerpt_middle":"","btn_title":"","btn_border_width":"","form_general_bg":"","toggle_txt_color_h":"","f_toggle_txt_font_header":"","f_toggle_txt_font_title":"Text","f_toggle_txt_font_settings":"","f_toggle_txt_font_line_height":"","f_toggle_txt_font_style":"","f_toggle_txt_font_transform":"","f_toggle_txt_font_spacing":"","f_toggle_txt_":"","form_bg":"","form_border_color":"","form_shadow_shadow_header":"","form_shadow_shadow_title":"Shadow","form_shadow_shadow_size":"","form_shadow_shadow_offset_horizontal":"","form_shadow_shadow_offset_vertical":"","form_shadow_shadow_spread":"","form_shadow_shadow_color":"","input_color":"","placeholder_color":"","placeholder_opacity":"0","input_shadow_shadow_header":"","input_shadow_shadow_title":"Input shadow","input_shadow_shadow_size":"","input_shadow_shadow_offset_horizontal":"","input_shadow_shadow_offset_vertical":"","input_shadow_shadow_spread":"","input_shadow_shadow_color":"","btn_color":"","btn_color_h":"","btn_icon_color":"","btn_icon_color_h":"","btn_border_color":"","btn_border_color_h":"","btn_shadow_shadow_header":"","btn_shadow_shadow_title":"Button shadow","btn_shadow_shadow_offset_horizontal":"","btn_shadow_shadow_offset_vertical":"","btn_shadow_shadow_spread":"","f_input_font_header":"","f_input_font_title":"Input text","f_input_font_settings":"","f_input_font_line_height":"","f_input_font_style":"","f_input_font_transform":"","f_input_font_spacing":"","f_input_":"","f_placeholder_font_title":"Placeholder text","f_placeholder_font_settings":"","f_placeholder_font_size":"","f_placeholder_font_line_height":"","f_placeholder_font_style":"","f_placeholder_font_transform":"","f_placeholder_font_spacing":"","f_placeholder_":"","f_btn_font_title":"Button text","f_btn_font_settings":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_spacing":"","f_btn_":"","results_bg":"","results_border_color":"","results_msg_bg":"","results_msg_border_color":"","f_results_msg_font_header":"","f_results_msg_font_title":"Text","f_results_msg_font_settings":"","f_results_msg_font_line_height":"","f_results_msg_font_transform":"","f_results_msg_font_spacing":"","f_results_msg_":"","m_bg":"","color_overlay":"","shadow_module_shadow_header":"","shadow_module_shadow_title":"Module Shadow","shadow_module_shadow_size":"","shadow_module_shadow_offset_horizontal":"","shadow_module_shadow_offset_vertical":"","shadow_module_shadow_spread":"","shadow_module_shadow_color":"","title_txt":"","all_underline_color":"#000","all_underline_height":"","cat_txt":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt_hover":"","com_bg":"","com_txt":"","rev_txt":"","shadow_meta_shadow_header":"","shadow_meta_shadow_title":"Meta info shadow","shadow_meta_shadow_size":"","shadow_meta_shadow_offset_horizontal":"","shadow_meta_shadow_offset_vertical":"","shadow_meta_shadow_spread":"","shadow_meta_shadow_color":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border_hover":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_style":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_style":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","el_class":"","block_template_id":"","td_column_number":3,"header_color":"","ajax_pagination_infinite_stop":"","offset":"","limit":"5","td_ajax_preloading":"","td_ajax_filter_type":"","td_filter_default_txt":"","td_ajax_filter_ids":"","color_preset":"","ajax_pagination":"","border_top":"","css":"","class":"tdi_66_ced","tdc_css_class":"tdi_66_ced","tdc_css_class_style":"tdi_66_ced_rand_style"}';
-                tdbSearchItem.jqueryObj = jQuery('.tdi_66_ced');
-                tdbSearchItem._openSearchFormClass = 'tdb-drop-down-search-open';
-                tdbSearchItem._resultsLimit = '4';
-
-                
-                tdbSearch.addItem( tdbSearchItem );
-
-            });
-        
-        
+<script type='text/javascript'>
+//<![CDATA[
+var ww=document.body.clientWidth;$(document).ready(function(){$(".nav li a").each(function(){if($(this).next().length>0){$(this).addClass("parent")}});$(".toggleMenu").click(function(e){e.preventDefault();$(this).toggleClass("active");$(".nav").toggle()});adjustMenu()});$(window).bind("resize orientationchange",function(){ww=document.body.clientWidth;adjustMenu()});var adjustMenu=function(){if(ww<768){$(".toggleMenu").css("display","inline-block");if(!$(".toggleMenu").hasClass("active")){$(".nav").hide()}else{$(".nav").show()}$(".nav li").unbind("mouseenter mouseleave");$(".nav li a.parent").unbind("click").bind("click",function(e){e.preventDefault();$(this).parent("li").toggleClass("hover")})}else if(ww>=768){$(".toggleMenu").css("display","none");$(".nav").show();$(".nav li").removeClass("hover");$(".nav li a").unbind("click");$(".nav li").unbind("mouseenter mouseleave").bind("mouseenter mouseleave",function(){$(this).toggleClass("hover")})}}
+//]]>
 </script>
-
-<script src='https://stats.wp.com/e-202110.js' defer></script>
-<script>
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:9.3.1',blog:'98281742',post:'5827',tz:'8',srv:'learniseasy.com'} ]);
-	_stq.push([ 'clickTrackerInit', '98281742', '5827' ]);
+<script type='text/javascript'>
+//<![CDATA[
+/*! Matt Tabs v2.2.1 | https://github.com/matthewhall/matt-tabs */
+!function(a){"use strict";var b=function(b,c){var d=this;d.element=b,d.$element=a(b),d.tabs=d.$element.children(),d.options=a.extend({},a.fn.mtabs.defaults,c),d.current_tab=0,d.init()};b.prototype={init:function(){var a=this;a.tabs.length&&(a.build(),a.buildTabMenu())},build:function(){var b=this,c=b.options,d=c.tab_text_el,e=c.container_class;b.tab_names=[],b.$wrapper=b.$element.wrapInner('<div class="'+e+'" />').find("."+e),b.tabs.wrapAll('<div class="'+c.tabs_container_class+'" />'),b.tabs.each(function(c,e){var f,g=a(e),h=d;f=g.find(h).filter(":first").hide().text(),b.tab_names.push(f)}),a.isFunction(c.onReady)&&c.onReady.call(b.element)},buildTabMenu:function(){for(var b,c=this,d=c.options,e=d.tabsmenu_el,f=c.tab_names,g="<"+e+' class="'+d.tabsmenu_class+'">',h=0,i=f.length,j=function(){var a=arguments;return d.tmpl.tabsmenu_tab.replace(/\{[0-9]\}/g,function(b){var c=Number(b.replace(/\D/g,""));return a[c]||""})};i>h;h++)g+=j(h+1,f[h]);g+="</"+e+">",c.$tabs_menu=a(g).prependTo(c.$wrapper),b=c.$tabs_menu.find(":first")[0].nodeName.toLowerCase(),c.$tabs_menu.on("click",b,function(b){var d=a(this),e=d.index();c.show(e),b.preventDefault()}).find(":first").trigger("click")},show:function(b){var c=this,d=c.options,e=d.active_tab_class;c.tabs.hide().filter(":eq("+b+")").show(),c.$tabs_menu.children().removeClass(e).filter(":eq("+b+")").addClass(e),a.isFunction(d.onTabSelect)&&b!==c.current_tab&&d.onTabSelect.call(c.element,b),c.current_tab=b},destroy:function(){var a=this,b=a.options.tab_text_el;a.$tabs_menu.remove(),a.tabs.unwrap().unwrap(),a.tabs.removeAttr("style"),a.tabs.children(b+":first").removeAttr("style"),a.$element.removeData("mtabs")}},a.fn.mtabs=function(c,d){return this.each(function(){var e,f=a(this),g=f.data("mtabs");e="object"==typeof c&&c,g||f.data("mtabs",g=new b(this,e)),"string"==typeof c&&g[c](d)})},a.fn.mtabs.defaults={container_class:"tabs",tabs_container_class:"tabs-content",active_tab_class:"active-tab",tab_text_el:"h1, h2, h3, h4, h5, h6",tabsmenu_class:"tabs-menu",tabsmenu_el:"ul",tmpl:{tabsmenu_tab:'<li class="tab-{0}"><span>{1}</span></li>'},onTabSelect:null}}(window.jQuery,window,document);
+//]]>
 </script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58c6bf5e0c5b9427' type='text/javascript'></script>
+<script type='text/javascript'>
+//<![CDATA[
+function _(e){return document.getElementById(e)}function pager(e){_("slidecontent").style.opacity=0;for(var n=0;n<ba.length;n++)ba[n].style.background="rgba(0,0,0,.2)";ba[e].style.background="rgba(0,0,0,.7)",setTimeout(function(){_("slidecontent").innerHTML=bca[e],_("slidecontent").style.opacity=1},300)}function bubbleSlide(){bi++,bi==ba.length&&(bi=0),pager(bi)}var ba,bi=0,intrvl;window.addEventListener("load",function(){ba=_("slidepager").children,intrvl=setInterval(bubbleSlide,7e3)});
+//]]>
+</script>
+<amp-auto-ads data-ad-client='ca-pub-8403977479497665' type='adsense'>
+</amp-auto-ads>
 
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/1893845785-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY7vug7Jvy_r3rmqwbqa8S2j-a-s8Q:1617852812659';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d6007621929206793116','//www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html','6007621929206793116');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '6007621929206793116', 'title': 'IlmuPena.com', 'url': 'https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html', 'canonicalUrl': 'https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html', 'homepageUrl': 'https://www.ilmupena.com/', 'searchUrl': 'https://www.ilmupena.com/search', 'canonicalHomepageUrl': 'https://www.ilmupena.com/', 'blogspotFaviconUrl': 'https://www.ilmupena.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22IlmuPena.com - Atom\x22 href\x3d\x22https://www.ilmupena.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22IlmuPena.com - RSS\x22 href\x3d\x22https://www.ilmupena.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22IlmuPena.com - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/6007621929206793116/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22IlmuPena.com - Atom\x22 href\x3d\x22https://www.ilmupena.com/feeds/5564474417861894328/comments/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-8403977479497665', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/1277698886-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/6ac01f6302bbb726', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'item', 'postId': '5564474417861894328', 'postImageThumbnailUrl': 'https://4.bp.blogspot.com/-vuC6z9Y0quI/WiQaDEh2NJI/AAAAAAAADfU/AeD6bsm_a80WeFK-ugh9RTq73T2TIPRRACLcBGAs/s72-c/Capture.JPG', 'postImageUrl': 'https://4.bp.blogspot.com/-vuC6z9Y0quI/WiQaDEh2NJI/AAAAAAAADfU/AeD6bsm_a80WeFK-ugh9RTq73T2TIPRRACLcBGAs/s640/Capture.JPG', 'pageName': '5 Manfaat Beramal Sholeh', 'pageTitle': 'IlmuPena.com: 5 Manfaat Beramal Sholeh', 'metaDescription': ''}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': '5 Manfaat Beramal Sholeh', 'description': '', 'featuredImage': 'https://4.bp.blogspot.com/-vuC6z9Y0quI/WiQaDEh2NJI/AAAAAAAADfU/AeD6bsm_a80WeFK-ugh9RTq73T2TIPRRACLcBGAs/s640/Capture.JPG', 'url': 'https://www.ilmupena.com/2017/12/5-manfaat-beramal-sholeh.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 5564474417861894328}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1903875295-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/1050234869-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML902', 'main', document.getElementById('HTML902'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML901', 'main', document.getElementById('HTML901'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebartab1', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label4', 'sidebartab2', document.getElementById('Label4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive2', 'sidebartab3', document.getElementById('BlogArchive2'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar', document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'left', document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeaturedPostView', new _WidgetInfo('FeaturedPost1', 'center', document.getElementById('FeaturedPost1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text1', 'right', document.getElementById('Text1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'right', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'right', document.getElementById('HTML4'), {}, 'displayModeFull'));
+</script>
 </body>
 </html>
-<!-- Dynamic page generated in 0.736 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2021-03-10 05:51:19 -->
-
-<!-- Compression = gzip -->
